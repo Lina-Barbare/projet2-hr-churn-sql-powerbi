@@ -1,0 +1,1471 @@
+EmployeeID,Age,Gender,Department,JobRole,EducationField,Education,MonthlyIncome,JobLevel,YearsAtCompany,YearsInCurrentRole,JobSatisfaction,EnvironmentSatisfaction,WorkLifeBalance,PerformanceRating,OverTime,BusinessTravel,DistanceFromHome,Attrition
+EMP0001,20,Female,Research & Development,Manager,Medical,1,8125,2,15,5,3,4,3,3,No,Travel_Rarely,12,Yes
+EMP0002,52,Male,Human Resources,Human Resources,Marketing,2,9720,3,11,10,1,1,3,3,Yes,Non-Travel,9,No
+EMP0003,29,Female,Research & Development,Research Scientist,Technical Degree,3,8474,5,1,0,2,3,3,3,No,Travel_Frequently,22,No
+EMP0004,41,Male,Research & Development,Healthcare Representative,Medical,2,10798,2,2,1,1,3,2,4,Yes,Travel_Rarely,4,Yes
+EMP0005,22,Male,Sales,Sales Representative,Life Sciences,3,6824,3,8,6,2,1,3,3,No,Non-Travel,13,No
+EMP0006,37,Male,Sales,Sales Executive,Medical,2,8383,3,0,0,1,3,1,3,No,Travel_Rarely,2,No
+EMP0007,56,Male,Sales,Sales Representative,Life Sciences,4,12703,5,11,9,2,1,2,3,No,Travel_Rarely,3,No
+EMP0008,56,Female,Research & Development,Research Director,Life Sciences,4,10149,3,8,4,2,1,4,3,No,Travel_Rarely,5,No
+EMP0009,30,Male,Research & Development,Healthcare Representative,Life Sciences,2,7816,1,9,4,2,3,4,3,No,Travel_Rarely,24,No
+EMP0010,58,Male,Research & Development,Laboratory Technician,Life Sciences,2,11727,3,0,0,3,3,3,3,Yes,Non-Travel,28,No
+EMP0011,29,Male,Sales,Sales Representative,Life Sciences,2,6658,2,8,4,4,1,4,3,Yes,Travel_Rarely,26,No
+EMP0012,30,Female,Human Resources,Human Resources,Life Sciences,2,7711,1,7,6,2,1,3,3,Yes,Non-Travel,18,No
+EMP0013,27,Female,Research & Development,Research Scientist,Technical Degree,3,10376,2,12,6,1,2,1,3,No,Travel_Frequently,21,Yes
+EMP0014,50,Male,Sales,Manager,Other,4,8764,4,0,0,2,2,4,4,Yes,Travel_Rarely,14,Yes
+EMP0015,57,Male,Sales,Manager,Life Sciences,3,8974,4,0,0,4,2,1,3,Yes,Non-Travel,25,No
+EMP0016,33,Male,Sales,Sales Executive,Other,4,7440,3,3,1,3,2,3,3,No,Travel_Rarely,2,No
+EMP0017,52,Female,Research & Development,Healthcare Representative,Medical,2,11378,5,1,0,2,3,2,3,No,Non-Travel,15,No
+EMP0018,20,Male,Research & Development,Research Scientist,Life Sciences,1,8999,3,5,3,1,2,3,3,No,Travel_Rarely,8,No
+EMP0019,22,Male,Research & Development,Research Scientist,Life Sciences,3,7849,1,17,16,2,3,3,3,No,Non-Travel,16,No
+EMP0020,43,Male,Sales,Sales Executive,Medical,2,9986,2,3,1,2,3,3,3,No,Travel_Rarely,3,No
+EMP0021,28,Male,Research & Development,Research Scientist,Technical Degree,3,9852,1,13,10,4,1,2,3,No,Travel_Frequently,24,No
+EMP0022,24,Female,Sales,Sales Representative,Marketing,2,9349,1,0,0,4,1,3,4,Yes,Travel_Rarely,20,No
+EMP0023,27,Male,Sales,Manager,Life Sciences,1,7962,1,1,0,1,4,3,3,No,Travel_Rarely,20,Yes
+EMP0024,59,Male,Research & Development,Manager,Life Sciences,5,9378,2,0,0,3,1,4,3,No,Travel_Rarely,28,No
+EMP0025,51,Male,Research & Development,Healthcare Representative,Life Sciences,1,9923,4,2,1,2,1,4,3,Yes,Travel_Rarely,23,Yes
+EMP0026,20,Male,Research & Development,Research Director,Life Sciences,5,7758,4,16,13,2,1,3,3,No,Travel_Rarely,5,No
+EMP0027,25,Female,Sales,Sales Executive,Life Sciences,5,7792,3,0,0,4,3,2,3,No,Travel_Rarely,4,No
+EMP0028,48,Male,Research & Development,Research Scientist,Life Sciences,3,10189,4,6,4,3,3,4,3,Yes,Travel_Rarely,23,No
+EMP0029,28,Female,Research & Development,Research Scientist,Technical Degree,3,9635,2,4,1,2,4,2,4,No,Travel_Rarely,12,No
+EMP0030,24,Female,Sales,Sales Executive,Human Resources,3,8939,4,19,12,2,4,2,3,Yes,Travel_Rarely,19,No
+EMP0031,19,Male,Research & Development,Research Scientist,Life Sciences,4,7882,2,0,0,4,2,3,3,No,Non-Travel,15,No
+EMP0032,23,Male,Sales,Manager,Human Resources,2,8718,2,1,0,3,2,4,3,No,Travel_Rarely,25,Yes
+EMP0033,58,Male,Sales,Sales Representative,Life Sciences,2,10926,4,0,0,2,2,2,3,No,Travel_Rarely,13,No
+EMP0034,49,Female,Human Resources,Manager,Medical,3,9471,2,3,1,2,1,2,3,Yes,Non-Travel,5,No
+EMP0035,37,Male,Human Resources,Human Resources,Life Sciences,2,9185,2,2,0,2,1,3,3,Yes,Travel_Rarely,12,No
+EMP0036,51,Male,Research & Development,Healthcare Representative,Medical,2,10637,2,14,5,4,1,2,4,Yes,Travel_Rarely,19,No
+EMP0037,33,Male,Research & Development,Laboratory Technician,Other,2,10786,3,6,4,3,1,3,3,Yes,Travel_Rarely,2,No
+EMP0038,42,Female,Sales,Sales Representative,Medical,3,8209,5,6,4,2,2,3,3,No,Non-Travel,7,No
+EMP0039,29,Male,Research & Development,Research Scientist,Life Sciences,4,8407,1,5,4,3,2,3,3,No,Non-Travel,28,No
+EMP0040,24,Male,Research & Development,Healthcare Representative,Medical,2,8318,4,0,0,3,4,2,3,No,Travel_Rarely,23,No
+EMP0041,56,Male,Sales,Sales Executive,Life Sciences,4,10831,1,4,3,2,3,2,3,No,Travel_Rarely,28,No
+EMP0042,34,Male,Research & Development,Laboratory Technician,Human Resources,3,10234,2,40,31,1,4,4,3,No,Travel_Frequently,29,No
+EMP0043,28,Female,Sales,Sales Representative,Medical,4,8220,1,12,6,3,2,4,3,No,Travel_Rarely,5,No
+EMP0044,23,Male,Human Resources,Manager,Medical,3,6202,3,15,10,3,2,2,3,No,Travel_Rarely,20,No
+EMP0045,40,Female,Sales,Sales Executive,Medical,3,9874,1,12,4,3,2,2,3,Yes,Travel_Frequently,29,No
+EMP0046,44,Female,Research & Development,Manager,Medical,1,10623,2,0,0,4,1,1,3,No,Travel_Rarely,11,No
+EMP0047,23,Male,Research & Development,Laboratory Technician,Life Sciences,3,6786,2,1,0,2,1,3,3,No,Travel_Rarely,18,No
+EMP0048,55,Female,Research & Development,Research Scientist,Marketing,1,10896,1,0,0,1,4,4,3,No,Travel_Rarely,18,No
+EMP0049,19,Male,Research & Development,Research Director,Life Sciences,4,6747,3,2,1,4,4,3,3,No,Travel_Rarely,7,No
+EMP0050,39,Male,Sales,Sales Executive,Marketing,5,8588,1,0,0,2,1,3,3,No,Travel_Frequently,10,No
+EMP0051,37,Female,Human Resources,Manager,Technical Degree,2,7737,1,4,1,3,1,4,3,Yes,Travel_Rarely,23,No
+EMP0052,42,Male,Research & Development,Manager,Technical Degree,2,10507,2,7,4,3,2,4,3,Yes,Travel_Rarely,20,No
+EMP0053,32,Female,Human Resources,Human Resources,Medical,3,8153,2,14,9,3,1,1,3,No,Travel_Rarely,14,No
+EMP0054,46,Male,Research & Development,Research Director,Medical,2,9151,3,9,5,2,2,2,3,No,Travel_Rarely,20,No
+EMP0055,25,Female,Research & Development,Research Director,Life Sciences,4,9204,1,19,7,3,1,1,3,No,Non-Travel,20,No
+EMP0056,54,Male,Human Resources,Human Resources,Marketing,1,8672,1,0,0,4,2,4,3,No,Travel_Frequently,11,No
+EMP0057,50,Male,Sales,Manager,Life Sciences,1,10264,2,0,0,3,2,4,3,No,Travel_Frequently,2,No
+EMP0058,39,Male,Sales,Manager,Medical,5,8468,2,7,2,2,2,3,4,No,Travel_Rarely,13,No
+EMP0059,22,Female,Sales,Sales Representative,Life Sciences,3,7467,4,2,1,1,1,1,3,Yes,Travel_Rarely,13,Yes
+EMP0060,56,Female,Research & Development,Laboratory Technician,Life Sciences,4,11383,3,2,1,1,2,2,3,Yes,Travel_Rarely,9,No
+EMP0061,35,Male,Research & Development,Research Director,Medical,2,9717,3,2,1,2,4,2,4,Yes,Travel_Frequently,17,No
+EMP0062,55,Female,Sales,Manager,Life Sciences,3,11469,2,2,1,2,2,3,3,No,Travel_Rarely,15,No
+EMP0063,54,Male,Research & Development,Healthcare Representative,Marketing,3,10754,3,5,4,4,4,2,3,No,Travel_Rarely,24,No
+EMP0064,47,Male,Research & Development,Manager,Life Sciences,3,10505,4,4,2,3,4,1,3,No,Travel_Rarely,22,No
+EMP0065,48,Female,Sales,Sales Executive,Life Sciences,3,9489,2,5,3,3,4,4,3,Yes,Travel_Rarely,29,No
+EMP0066,27,Female,Research & Development,Healthcare Representative,Medical,3,8805,3,7,3,3,4,2,3,No,Travel_Rarely,26,No
+EMP0067,32,Female,Sales,Manager,Life Sciences,2,8911,3,3,2,1,3,3,3,No,Travel_Rarely,23,Yes
+EMP0068,59,Female,Research & Development,Manager,Life Sciences,2,11141,2,2,1,4,4,2,3,No,Non-Travel,28,No
+EMP0069,35,Male,Sales,Manager,Marketing,3,7356,2,1,0,2,1,4,3,No,Travel_Rarely,21,Yes
+EMP0070,40,Female,Human Resources,Human Resources,Life Sciences,2,8965,3,3,1,1,2,3,3,Yes,Travel_Rarely,22,No
+EMP0071,50,Male,Research & Development,Research Director,Technical Degree,3,10791,1,9,3,3,4,4,3,No,Travel_Rarely,22,No
+EMP0072,33,Male,Sales,Manager,Life Sciences,2,8095,3,9,6,4,3,3,3,Yes,Travel_Rarely,29,No
+EMP0073,55,Male,Sales,Manager,Life Sciences,3,9372,3,7,2,4,4,4,3,No,Travel_Rarely,16,No
+EMP0074,52,Male,Research & Development,Research Director,Marketing,3,11840,3,1,0,1,3,4,3,No,Travel_Rarely,25,No
+EMP0075,51,Male,Research & Development,Manager,Life Sciences,2,10973,2,6,2,4,4,3,3,No,Travel_Rarely,10,No
+EMP0076,45,Male,Research & Development,Manager,Life Sciences,1,9916,1,5,3,2,3,4,3,No,Travel_Rarely,29,No
+EMP0077,19,Male,Research & Development,Healthcare Representative,Life Sciences,1,7110,1,4,3,1,3,2,3,No,Non-Travel,20,Yes
+EMP0078,47,Male,Sales,Sales Representative,Life Sciences,3,9102,3,5,3,4,3,3,3,No,Travel_Rarely,28,Yes
+EMP0079,30,Male,Research & Development,Manager,Technical Degree,4,9942,4,4,3,4,4,1,3,No,Travel_Rarely,27,No
+EMP0080,58,Male,Sales,Sales Executive,Life Sciences,1,10750,3,5,3,3,4,3,3,No,Travel_Rarely,12,No
+EMP0081,33,Male,Research & Development,Research Director,Marketing,3,8699,1,8,5,3,4,4,3,Yes,Travel_Rarely,29,No
+EMP0082,22,Female,Research & Development,Healthcare Representative,Human Resources,2,8667,4,0,0,4,3,4,3,No,Travel_Frequently,5,No
+EMP0083,45,Female,Research & Development,Manager,Medical,2,9448,5,9,8,3,2,2,4,No,Travel_Rarely,20,No
+EMP0084,56,Female,Sales,Manager,Human Resources,4,11680,2,1,0,4,1,3,3,No,Non-Travel,17,No
+EMP0085,37,Male,Research & Development,Research Director,Life Sciences,2,10542,2,0,0,3,4,2,3,No,Travel_Rarely,10,No
+EMP0086,41,Female,Research & Development,Healthcare Representative,Other,2,9406,3,26,17,4,3,3,3,No,Travel_Frequently,6,No
+EMP0087,44,Male,Research & Development,Laboratory Technician,Life Sciences,1,9517,3,22,10,4,2,2,3,No,Travel_Rarely,21,No
+EMP0088,47,Male,Research & Development,Research Director,Marketing,1,8165,5,0,0,1,1,4,3,No,Travel_Frequently,20,No
+EMP0089,44,Male,Research & Development,Laboratory Technician,Medical,2,8834,1,4,2,4,4,2,3,Yes,Travel_Rarely,6,No
+EMP0090,43,Female,Research & Development,Laboratory Technician,Life Sciences,1,8868,2,1,0,3,4,2,3,Yes,Travel_Rarely,12,No
+EMP0091,24,Male,Sales,Sales Executive,Medical,3,8028,3,4,3,2,4,4,3,No,Travel_Rarely,21,No
+EMP0092,59,Male,Research & Development,Manager,Marketing,2,10959,4,12,7,3,3,3,3,No,Travel_Rarely,19,No
+EMP0093,55,Male,Research & Development,Research Director,Life Sciences,2,9823,4,21,6,1,2,1,3,No,Travel_Rarely,2,No
+EMP0094,22,Female,Research & Development,Laboratory Technician,Life Sciences,2,8035,5,7,6,3,2,3,3,No,Non-Travel,13,No
+EMP0095,40,Female,Research & Development,Research Scientist,Marketing,2,10104,2,3,1,4,1,1,3,No,Non-Travel,22,No
+EMP0096,45,Male,Research & Development,Healthcare Representative,Medical,3,10522,4,6,4,2,4,4,3,No,Travel_Rarely,20,Yes
+EMP0097,51,Male,Research & Development,Research Director,Other,4,9060,2,2,0,2,1,3,3,No,Travel_Rarely,11,No
+EMP0098,32,Male,Research & Development,Laboratory Technician,Marketing,1,8957,2,16,9,4,3,2,4,No,Travel_Rarely,15,No
+EMP0099,49,Female,Sales,Manager,Other,4,8813,2,14,13,2,3,3,3,No,Travel_Rarely,13,No
+EMP0100,43,Male,Sales,Sales Executive,Marketing,3,10161,3,5,1,2,3,1,4,Yes,Travel_Frequently,26,No
+EMP0101,48,Female,Sales,Manager,Life Sciences,3,10467,5,2,1,2,4,4,3,Yes,Travel_Rarely,3,Yes
+EMP0102,36,Male,Research & Development,Research Scientist,Life Sciences,2,8661,2,2,1,3,1,4,3,No,Travel_Rarely,14,No
+EMP0103,26,Female,Research & Development,Laboratory Technician,Marketing,1,7967,1,0,0,3,3,4,3,No,Non-Travel,8,No
+EMP0104,46,Male,Research & Development,Manager,Medical,1,9810,3,11,9,4,1,3,3,Yes,Travel_Rarely,28,No
+EMP0105,56,Male,Human Resources,Manager,Life Sciences,3,8177,3,4,1,2,1,2,3,Yes,Non-Travel,9,No
+EMP0106,21,Male,Sales,Sales Representative,Life Sciences,2,7948,5,2,0,4,2,1,3,No,Travel_Rarely,15,No
+EMP0107,20,Male,Research & Development,Research Scientist,Other,4,7881,2,4,2,3,1,3,3,No,Travel_Rarely,23,No
+EMP0108,46,Male,Research & Development,Research Director,Medical,2,10956,1,11,5,2,3,3,3,Yes,Travel_Rarely,18,No
+EMP0109,28,Female,Sales,Sales Executive,Medical,1,7361,2,0,0,3,3,3,3,Yes,Travel_Rarely,8,No
+EMP0110,50,Male,Sales,Sales Representative,Medical,3,9504,1,13,4,3,1,4,3,No,Non-Travel,11,No
+EMP0111,55,Female,Sales,Manager,Life Sciences,2,9194,2,15,5,3,1,2,3,No,Travel_Rarely,29,No
+EMP0112,28,Female,Sales,Manager,Life Sciences,2,7436,1,20,15,1,3,1,3,Yes,Travel_Rarely,29,Yes
+EMP0113,44,Male,Human Resources,Human Resources,Life Sciences,3,8074,1,3,1,1,4,1,3,No,Non-Travel,27,Yes
+EMP0114,50,Female,Research & Development,Manager,Life Sciences,4,11296,1,1,0,2,2,2,3,No,Travel_Rarely,5,No
+EMP0115,38,Female,Research & Development,Research Director,Marketing,3,8981,5,3,1,2,3,1,3,No,Travel_Frequently,15,No
+EMP0116,56,Male,Research & Development,Research Scientist,Medical,3,11079,2,2,0,3,4,3,3,No,Travel_Rarely,15,No
+EMP0117,48,Female,Research & Development,Laboratory Technician,Technical Degree,3,10035,2,1,0,1,3,2,3,No,Travel_Rarely,27,Yes
+EMP0118,55,Male,Sales,Sales Executive,Technical Degree,4,9384,4,6,3,3,2,2,3,No,Travel_Rarely,26,No
+EMP0119,19,Male,Research & Development,Laboratory Technician,Life Sciences,2,7885,3,4,3,2,3,4,3,No,Travel_Rarely,7,No
+EMP0120,44,Female,Research & Development,Laboratory Technician,Medical,1,10499,3,14,5,2,3,2,3,Yes,Travel_Frequently,21,No
+EMP0121,53,Male,Research & Development,Research Scientist,Medical,2,9773,3,0,0,3,3,3,3,No,Travel_Frequently,18,No
+EMP0122,28,Male,Research & Development,Manager,Human Resources,2,9387,3,7,5,2,3,3,3,No,Travel_Rarely,28,No
+EMP0123,35,Male,Research & Development,Laboratory Technician,Life Sciences,3,8620,4,10,5,4,4,3,3,No,Travel_Rarely,12,No
+EMP0124,18,Female,Sales,Sales Executive,Medical,3,7053,3,9,7,1,2,4,3,Yes,Travel_Rarely,12,No
+EMP0125,52,Female,Sales,Sales Representative,Medical,3,10584,4,15,10,2,4,1,3,No,Travel_Rarely,4,No
+EMP0126,52,Male,Research & Development,Healthcare Representative,Life Sciences,1,10129,2,9,5,4,3,3,3,No,Travel_Frequently,29,No
+EMP0127,48,Female,Research & Development,Manager,Life Sciences,3,10370,2,18,12,3,3,4,4,No,Travel_Rarely,11,No
+EMP0128,45,Female,Research & Development,Research Director,Medical,2,9848,4,2,1,2,1,3,3,Yes,Travel_Rarely,21,Yes
+EMP0129,56,Male,Sales,Sales Representative,Marketing,3,10583,2,4,1,2,2,2,3,No,Non-Travel,6,No
+EMP0130,18,Male,Research & Development,Healthcare Representative,Life Sciences,3,6035,4,0,0,3,3,3,4,No,Travel_Rarely,21,No
+EMP0131,42,Female,Research & Development,Research Director,Medical,2,8396,1,0,0,4,3,3,3,No,Travel_Frequently,10,No
+EMP0132,55,Female,Sales,Manager,Life Sciences,1,10892,2,1,0,4,1,4,4,Yes,Travel_Rarely,27,No
+EMP0133,37,Female,Sales,Sales Representative,Marketing,1,9789,4,0,0,2,3,1,3,No,Non-Travel,15,No
+EMP0134,20,Male,Research & Development,Research Scientist,Life Sciences,4,7371,1,2,1,4,1,1,3,No,Non-Travel,1,No
+EMP0135,19,Male,Human Resources,Manager,Human Resources,4,6824,4,1,0,1,4,2,3,No,Travel_Rarely,17,No
+EMP0136,35,Male,Research & Development,Healthcare Representative,Life Sciences,3,9535,5,0,0,1,4,2,3,Yes,Travel_Frequently,3,No
+EMP0137,27,Male,Research & Development,Research Director,Life Sciences,1,9214,4,16,9,4,1,2,3,Yes,Travel_Frequently,25,No
+EMP0138,22,Male,Research & Development,Laboratory Technician,Life Sciences,2,6637,2,0,0,1,4,2,3,No,Travel_Frequently,11,Yes
+EMP0139,26,Female,Research & Development,Research Scientist,Life Sciences,3,7871,3,9,6,1,4,2,3,No,Travel_Rarely,18,No
+EMP0140,19,Male,Human Resources,Human Resources,Medical,3,6753,4,1,0,2,2,2,3,Yes,Travel_Rarely,10,No
+EMP0141,51,Female,Human Resources,Manager,Life Sciences,1,10142,3,17,5,2,3,4,3,No,Travel_Rarely,21,No
+EMP0142,55,Male,Sales,Sales Executive,Technical Degree,1,12398,3,15,8,3,2,2,3,No,Travel_Rarely,9,No
+EMP0143,48,Male,Research & Development,Research Scientist,Life Sciences,3,10157,5,7,3,3,3,2,4,Yes,Travel_Rarely,7,No
+EMP0144,27,Male,Research & Development,Healthcare Representative,Life Sciences,2,7534,3,7,6,2,2,2,3,No,Travel_Rarely,11,Yes
+EMP0145,29,Male,Sales,Sales Representative,Life Sciences,2,8641,5,0,0,3,2,4,3,No,Travel_Rarely,8,No
+EMP0146,53,Male,Sales,Sales Executive,Life Sciences,1,11296,1,29,26,4,2,4,3,No,Non-Travel,2,No
+EMP0147,38,Female,Research & Development,Manager,Life Sciences,2,9626,1,14,10,4,1,4,3,No,Travel_Rarely,5,No
+EMP0148,23,Female,Research & Development,Research Scientist,Medical,4,7614,2,15,8,2,4,2,3,No,Travel_Rarely,9,No
+EMP0149,20,Male,Sales,Sales Representative,Medical,4,8366,2,7,4,4,2,4,3,Yes,Travel_Frequently,1,No
+EMP0150,27,Male,Sales,Sales Executive,Life Sciences,3,8690,3,2,1,3,2,3,3,Yes,Travel_Rarely,17,No
+EMP0151,22,Female,Human Resources,Human Resources,Medical,2,6439,1,15,13,1,4,2,3,Yes,Non-Travel,10,No
+EMP0152,43,Male,Sales,Manager,Medical,1,9745,5,2,0,1,3,3,3,No,Travel_Frequently,8,Yes
+EMP0153,38,Male,Sales,Manager,Life Sciences,2,9837,2,5,2,1,3,4,3,No,Travel_Rarely,18,Yes
+EMP0154,43,Male,Research & Development,Healthcare Representative,Medical,2,10885,2,0,0,3,4,4,3,No,Travel_Rarely,25,No
+EMP0155,55,Female,Human Resources,Manager,Other,3,9846,2,17,5,1,4,4,3,Yes,Travel_Rarely,10,No
+EMP0156,43,Male,Sales,Sales Executive,Medical,2,9153,2,1,0,3,1,4,4,No,Travel_Rarely,9,No
+EMP0157,25,Male,Research & Development,Manager,Medical,2,9481,1,1,0,1,3,2,4,No,Travel_Rarely,4,No
+EMP0158,22,Female,Research & Development,Manager,Life Sciences,1,7291,1,5,2,4,4,3,3,No,Travel_Rarely,2,No
+EMP0159,32,Male,Sales,Sales Executive,Marketing,2,8910,3,10,8,2,2,1,3,No,Non-Travel,19,No
+EMP0160,33,Male,Research & Development,Research Scientist,Marketing,1,8043,1,6,4,4,2,4,4,No,Non-Travel,10,Yes
+EMP0161,18,Male,Research & Development,Laboratory Technician,Medical,2,8792,1,1,0,4,2,2,3,No,Non-Travel,17,No
+EMP0162,33,Female,Research & Development,Healthcare Representative,Other,5,8933,3,0,0,1,1,4,3,Yes,Travel_Rarely,3,No
+EMP0163,54,Male,Research & Development,Manager,Life Sciences,2,11834,1,9,7,2,3,2,3,No,Non-Travel,21,Yes
+EMP0164,20,Female,Research & Development,Laboratory Technician,Life Sciences,2,8493,2,29,26,1,3,3,4,No,Travel_Rarely,19,No
+EMP0165,48,Female,Sales,Manager,Marketing,4,8861,1,11,8,4,4,1,3,No,Non-Travel,19,No
+EMP0166,30,Male,Research & Development,Laboratory Technician,Technical Degree,5,10039,2,4,1,3,3,2,3,Yes,Travel_Rarely,26,No
+EMP0167,33,Female,Research & Development,Manager,Life Sciences,3,10380,3,16,7,1,2,4,3,No,Travel_Rarely,22,No
+EMP0168,38,Male,Sales,Manager,Life Sciences,3,9745,1,3,1,1,1,1,3,Yes,Non-Travel,19,No
+EMP0169,19,Male,Sales,Sales Executive,Life Sciences,2,6910,4,5,3,2,4,3,3,No,Travel_Rarely,19,No
+EMP0170,44,Male,Research & Development,Research Scientist,Life Sciences,2,9775,4,4,3,4,2,1,3,No,Travel_Rarely,15,No
+EMP0171,55,Male,Research & Development,Healthcare Representative,Marketing,2,11016,1,4,1,3,2,3,3,No,Non-Travel,25,No
+EMP0172,43,Male,Sales,Manager,Medical,3,8877,5,10,8,4,4,2,3,Yes,Travel_Rarely,18,No
+EMP0173,55,Male,Research & Development,Research Director,Life Sciences,3,12253,2,5,3,2,3,2,3,No,Travel_Frequently,17,Yes
+EMP0174,42,Male,Sales,Sales Representative,Life Sciences,2,9475,1,2,1,1,2,4,3,No,Travel_Frequently,10,No
+EMP0175,28,Female,Research & Development,Healthcare Representative,Life Sciences,1,6577,1,2,1,4,4,3,3,Yes,Non-Travel,24,No
+EMP0176,25,Male,Sales,Sales Representative,Life Sciences,3,8271,2,0,0,1,4,2,3,No,Travel_Rarely,29,No
+EMP0177,25,Female,Research & Development,Laboratory Technician,Medical,1,8221,3,6,5,4,1,3,3,Yes,Travel_Rarely,14,Yes
+EMP0178,50,Male,Research & Development,Manager,Other,3,10440,2,1,0,2,4,2,3,No,Non-Travel,19,No
+EMP0179,24,Male,Human Resources,Manager,Technical Degree,3,7125,4,1,0,1,2,2,3,No,Travel_Rarely,23,No
+EMP0180,55,Male,Sales,Sales Executive,Life Sciences,3,11045,3,7,6,3,3,3,4,No,Travel_Rarely,18,No
+EMP0181,38,Male,Research & Development,Research Scientist,Human Resources,3,10435,2,8,7,4,4,2,3,No,Travel_Rarely,11,No
+EMP0182,25,Male,Sales,Manager,Marketing,4,8226,3,9,5,4,4,3,3,No,Travel_Rarely,11,No
+EMP0183,38,Female,Human Resources,Human Resources,Marketing,2,8268,4,4,2,1,2,3,3,No,Travel_Rarely,12,No
+EMP0184,37,Female,Research & Development,Research Scientist,Medical,3,9426,1,15,11,1,2,4,3,Yes,Travel_Rarely,8,No
+EMP0185,25,Female,Sales,Manager,Life Sciences,3,8015,2,19,16,3,1,4,4,No,Travel_Rarely,16,No
+EMP0186,48,Male,Research & Development,Research Scientist,Life Sciences,2,9698,2,11,4,3,3,2,3,No,Travel_Rarely,25,No
+EMP0187,46,Female,Research & Development,Research Director,Life Sciences,1,10643,2,7,6,3,1,3,3,No,Travel_Rarely,24,No
+EMP0188,26,Male,Research & Development,Manager,Life Sciences,2,8948,2,2,1,1,2,2,4,No,Travel_Frequently,8,No
+EMP0189,32,Male,Research & Development,Research Scientist,Life Sciences,2,10292,2,28,17,4,1,2,3,Yes,Travel_Rarely,24,No
+EMP0190,47,Female,Sales,Sales Representative,Medical,3,10764,3,2,1,3,2,4,3,No,Travel_Frequently,14,No
+EMP0191,43,Female,Sales,Sales Executive,Marketing,4,8891,3,1,0,4,1,4,3,No,Travel_Rarely,23,No
+EMP0192,27,Male,Research & Development,Research Director,Medical,2,9316,2,4,3,3,4,3,3,No,Travel_Rarely,18,No
+EMP0193,46,Male,Human Resources,Human Resources,Life Sciences,1,8419,1,0,0,2,2,3,4,Yes,Travel_Rarely,24,Yes
+EMP0194,33,Male,Research & Development,Manager,Other,4,9696,2,26,25,4,2,1,3,No,Travel_Rarely,21,No
+EMP0195,53,Female,Research & Development,Laboratory Technician,Other,1,10326,2,6,2,3,4,3,4,Yes,Travel_Rarely,22,No
+EMP0196,37,Male,Research & Development,Healthcare Representative,Marketing,2,8641,2,5,4,4,3,4,4,No,Travel_Rarely,4,No
+EMP0197,54,Female,Research & Development,Research Director,Other,3,11044,4,7,6,4,2,3,3,No,Travel_Rarely,17,No
+EMP0198,39,Male,Research & Development,Manager,Medical,2,7480,2,4,3,3,1,2,3,No,Travel_Rarely,13,No
+EMP0199,24,Male,Research & Development,Laboratory Technician,Other,1,7019,1,0,0,3,3,3,3,No,Travel_Rarely,5,No
+EMP0200,40,Male,Research & Development,Healthcare Representative,Life Sciences,1,9558,2,6,4,1,2,3,3,No,Travel_Rarely,3,No
+EMP0201,58,Male,Research & Development,Laboratory Technician,Life Sciences,1,11205,3,8,7,1,3,3,3,No,Travel_Rarely,9,No
+EMP0202,57,Male,Sales,Manager,Life Sciences,3,10264,3,3,2,2,2,3,3,No,Travel_Rarely,20,No
+EMP0203,46,Female,Sales,Sales Representative,Life Sciences,2,8416,2,9,3,1,2,3,3,No,Non-Travel,26,Yes
+EMP0204,33,Female,Research & Development,Research Scientist,Life Sciences,2,8485,1,1,0,2,2,4,4,No,Travel_Rarely,18,Yes
+EMP0205,55,Female,Research & Development,Healthcare Representative,Medical,3,11212,2,1,0,2,3,4,3,No,Non-Travel,20,No
+EMP0206,45,Female,Sales,Sales Representative,Marketing,4,10065,2,1,0,2,4,1,3,No,Non-Travel,19,No
+EMP0207,55,Female,Sales,Manager,Medical,1,10387,5,3,2,2,1,4,4,No,Travel_Rarely,19,No
+EMP0208,48,Male,Research & Development,Research Director,Life Sciences,2,11265,3,13,7,1,3,3,3,No,Travel_Rarely,21,Yes
+EMP0209,31,Female,Sales,Sales Representative,Technical Degree,3,8797,3,12,10,1,1,3,3,No,Travel_Rarely,16,Yes
+EMP0210,50,Male,Sales,Sales Representative,Medical,2,9402,2,3,1,3,2,4,3,Yes,Travel_Rarely,1,No
+EMP0211,26,Male,Research & Development,Research Director,Life Sciences,2,8355,2,6,1,3,4,3,3,No,Non-Travel,5,No
+EMP0212,44,Male,Research & Development,Manager,Medical,3,8897,3,8,5,2,2,4,3,No,Travel_Rarely,24,Yes
+EMP0213,41,Male,Research & Development,Manager,Life Sciences,4,9693,2,1,0,3,4,2,3,No,Travel_Rarely,15,No
+EMP0214,30,Male,Sales,Sales Executive,Life Sciences,3,9289,5,1,0,4,3,2,3,Yes,Non-Travel,26,No
+EMP0215,43,Female,Research & Development,Research Scientist,Human Resources,3,10488,2,25,12,2,4,3,4,No,Travel_Rarely,12,No
+EMP0216,46,Male,Sales,Manager,Life Sciences,3,10801,1,6,3,3,3,4,3,Yes,Travel_Rarely,25,Yes
+EMP0217,45,Male,Research & Development,Laboratory Technician,Medical,2,9857,3,27,9,4,1,4,3,Yes,Travel_Rarely,28,No
+EMP0218,45,Male,Research & Development,Research Scientist,Human Resources,3,11176,1,2,1,4,2,3,3,No,Travel_Frequently,1,No
+EMP0219,25,Male,Research & Development,Research Director,Marketing,2,8345,2,8,6,2,2,3,3,Yes,Travel_Rarely,14,Yes
+EMP0220,40,Male,Research & Development,Research Scientist,Life Sciences,2,10877,2,1,0,3,1,3,3,No,Travel_Frequently,18,No
+EMP0221,46,Male,Research & Development,Research Director,Life Sciences,3,10162,3,2,1,1,3,4,4,Yes,Travel_Rarely,18,No
+EMP0222,22,Male,Research & Development,Research Director,Life Sciences,3,8825,2,5,4,3,3,2,3,No,Non-Travel,6,No
+EMP0223,59,Male,Sales,Manager,Medical,2,11900,1,2,1,4,4,4,3,No,Travel_Rarely,1,No
+EMP0224,24,Female,Research & Development,Manager,Medical,4,8265,3,1,0,3,2,3,3,No,Non-Travel,27,No
+EMP0225,59,Female,Sales,Manager,Life Sciences,1,10894,2,2,0,4,3,3,3,No,Travel_Rarely,17,No
+EMP0226,53,Male,Sales,Manager,Other,2,11271,4,0,0,2,4,3,3,No,Travel_Rarely,18,No
+EMP0227,58,Male,Human Resources,Manager,Medical,1,10033,2,8,7,4,4,4,3,No,Travel_Rarely,15,Yes
+EMP0228,44,Male,Research & Development,Manager,Life Sciences,3,8963,3,4,3,3,2,3,3,No,Non-Travel,12,No
+EMP0229,19,Female,Research & Development,Research Director,Medical,3,9734,1,0,0,1,3,4,3,No,Travel_Rarely,13,No
+EMP0230,42,Male,Research & Development,Research Director,Medical,2,9484,3,1,0,3,2,1,3,No,Non-Travel,20,No
+EMP0231,26,Male,Research & Development,Research Scientist,Life Sciences,3,8707,3,0,0,2,2,3,3,No,Travel_Rarely,2,No
+EMP0232,44,Female,Research & Development,Research Scientist,Life Sciences,2,10944,4,6,1,1,2,4,3,No,Travel_Rarely,4,No
+EMP0233,18,Male,Research & Development,Manager,Technical Degree,3,7453,1,0,0,4,4,4,4,No,Travel_Frequently,3,No
+EMP0234,40,Male,Research & Development,Research Director,Medical,2,8893,2,9,6,2,2,4,3,No,Non-Travel,19,No
+EMP0235,27,Male,Sales,Sales Representative,Medical,2,8362,3,0,0,3,3,1,3,Yes,Travel_Rarely,25,No
+EMP0236,59,Female,Research & Development,Laboratory Technician,Medical,4,9785,1,2,1,2,4,1,3,No,Travel_Rarely,8,No
+EMP0237,42,Female,Sales,Manager,Life Sciences,2,9129,2,15,8,1,1,3,3,No,Travel_Frequently,12,Yes
+EMP0238,20,Female,Sales,Sales Executive,Life Sciences,1,7796,4,8,4,4,3,1,3,No,Travel_Rarely,12,No
+EMP0239,23,Male,Research & Development,Manager,Medical,3,8124,2,0,0,2,3,4,3,No,Non-Travel,10,No
+EMP0240,23,Male,Sales,Sales Representative,Life Sciences,4,6605,5,12,10,3,1,2,3,Yes,Travel_Rarely,25,No
+EMP0241,19,Female,Human Resources,Manager,Life Sciences,2,8295,1,4,2,3,3,3,3,No,Travel_Rarely,1,No
+EMP0242,35,Female,Human Resources,Manager,Technical Degree,1,8382,3,13,5,3,2,1,4,No,Travel_Rarely,28,No
+EMP0243,40,Male,Human Resources,Human Resources,Other,2,9844,2,6,2,4,4,3,3,No,Travel_Rarely,5,No
+EMP0244,19,Female,Research & Development,Research Director,Technical Degree,2,7811,2,8,6,3,2,3,3,No,Non-Travel,28,No
+EMP0245,29,Male,Sales,Sales Executive,Technical Degree,2,7615,5,35,19,2,2,1,3,No,Travel_Frequently,28,No
+EMP0246,39,Male,Human Resources,Human Resources,Life Sciences,3,8835,1,1,0,4,3,3,4,No,Non-Travel,20,No
+EMP0247,54,Female,Research & Development,Laboratory Technician,Other,5,10647,4,6,5,1,1,3,3,No,Travel_Frequently,11,No
+EMP0248,37,Male,Human Resources,Human Resources,Life Sciences,2,7517,3,4,3,3,2,4,3,No,Travel_Rarely,9,Yes
+EMP0249,56,Female,Human Resources,Manager,Other,2,11155,2,0,0,4,2,2,4,No,Travel_Rarely,14,Yes
+EMP0250,41,Male,Research & Development,Research Scientist,Other,2,9282,4,0,0,3,2,3,3,No,Travel_Rarely,3,No
+EMP0251,37,Male,Sales,Sales Executive,Marketing,1,7487,2,0,0,4,3,4,3,No,Non-Travel,5,No
+EMP0252,18,Female,Research & Development,Laboratory Technician,Other,4,9002,3,7,2,3,3,4,3,Yes,Non-Travel,24,Yes
+EMP0253,18,Female,Research & Development,Healthcare Representative,Medical,2,7536,2,5,1,4,3,4,4,Yes,Non-Travel,26,No
+EMP0254,34,Male,Research & Development,Research Scientist,Life Sciences,2,8733,4,5,2,4,3,4,4,Yes,Non-Travel,21,No
+EMP0255,18,Male,Sales,Sales Executive,Medical,3,6027,3,0,0,2,2,3,4,No,Travel_Rarely,9,No
+EMP0256,47,Female,Research & Development,Research Scientist,Medical,2,11652,1,4,1,1,1,3,3,No,Travel_Rarely,18,No
+EMP0257,58,Male,Human Resources,Human Resources,Life Sciences,3,9108,3,18,8,2,3,2,4,No,Travel_Rarely,6,No
+EMP0258,20,Female,Research & Development,Healthcare Representative,Medical,1,8146,1,3,2,3,4,3,3,No,Travel_Rarely,21,No
+EMP0259,28,Female,Research & Development,Research Director,Other,3,9470,2,6,1,2,2,4,3,No,Travel_Rarely,25,No
+EMP0260,41,Male,Sales,Sales Representative,Life Sciences,4,9617,1,10,8,1,2,3,3,No,Travel_Rarely,7,Yes
+EMP0261,39,Male,Research & Development,Laboratory Technician,Technical Degree,3,9572,1,10,5,2,3,3,3,No,Travel_Rarely,16,No
+EMP0262,43,Male,Human Resources,Manager,Human Resources,4,7578,1,5,1,4,3,4,3,No,Travel_Rarely,8,No
+EMP0263,30,Female,Sales,Sales Representative,Other,1,7752,2,13,12,3,3,2,3,Yes,Travel_Rarely,23,No
+EMP0264,18,Male,Research & Development,Healthcare Representative,Other,2,8090,2,3,1,2,1,4,4,Yes,Travel_Rarely,29,No
+EMP0265,41,Male,Research & Development,Healthcare Representative,Medical,3,9150,2,15,10,1,3,3,3,Yes,Travel_Rarely,10,Yes
+EMP0266,27,Male,Research & Development,Research Director,Other,3,8822,1,1,0,2,1,2,3,Yes,Travel_Rarely,26,No
+EMP0267,52,Male,Research & Development,Manager,Marketing,2,11205,3,2,0,1,2,4,4,Yes,Travel_Rarely,5,Yes
+EMP0268,41,Male,Research & Development,Research Director,Life Sciences,2,10550,3,0,0,1,4,3,3,No,Non-Travel,11,Yes
+EMP0269,45,Male,Research & Development,Laboratory Technician,Medical,1,9119,2,11,4,4,2,4,3,Yes,Travel_Rarely,29,No
+EMP0270,53,Female,Sales,Manager,Marketing,2,11997,4,3,1,4,1,3,3,No,Travel_Rarely,21,No
+EMP0271,33,Female,Research & Development,Research Scientist,Life Sciences,2,9753,3,1,0,1,4,3,3,Yes,Travel_Rarely,13,Yes
+EMP0272,57,Female,Research & Development,Laboratory Technician,Medical,3,11058,3,1,0,1,4,4,3,Yes,Travel_Frequently,27,No
+EMP0273,33,Male,Research & Development,Laboratory Technician,Medical,2,10011,2,16,8,2,3,3,3,No,Travel_Rarely,20,No
+EMP0274,34,Male,Human Resources,Human Resources,Life Sciences,1,10112,1,12,7,2,2,3,4,No,Travel_Rarely,2,No
+EMP0275,32,Female,Research & Development,Healthcare Representative,Medical,3,7909,4,5,4,2,1,2,3,No,Non-Travel,14,No
+EMP0276,33,Male,Research & Development,Laboratory Technician,Marketing,3,8959,3,6,5,2,4,4,3,No,Travel_Rarely,9,No
+EMP0277,32,Female,Research & Development,Healthcare Representative,Medical,4,7157,1,4,3,2,3,1,3,No,Travel_Rarely,10,No
+EMP0278,51,Female,Research & Development,Research Director,Life Sciences,3,10734,2,3,2,3,4,4,3,No,Non-Travel,10,No
+EMP0279,28,Male,Research & Development,Research Scientist,Life Sciences,2,9032,3,17,8,3,2,3,3,No,Travel_Rarely,28,No
+EMP0280,18,Female,Research & Development,Manager,Life Sciences,3,7908,3,0,0,3,2,3,4,No,Travel_Rarely,10,No
+EMP0281,32,Female,Research & Development,Healthcare Representative,Human Resources,2,8536,4,3,2,2,4,4,3,Yes,Non-Travel,26,No
+EMP0282,43,Male,Research & Development,Laboratory Technician,Life Sciences,1,8300,1,2,1,4,3,2,3,No,Travel_Frequently,19,No
+EMP0283,21,Male,Research & Development,Healthcare Representative,Medical,3,8478,2,4,2,4,1,3,4,No,Travel_Rarely,11,No
+EMP0284,22,Male,Sales,Sales Representative,Life Sciences,4,8924,1,4,2,1,2,4,3,No,Travel_Rarely,11,No
+EMP0285,52,Male,Research & Development,Healthcare Representative,Life Sciences,2,10187,2,5,4,2,3,4,3,No,Travel_Rarely,3,No
+EMP0286,30,Male,Sales,Sales Representative,Technical Degree,2,8752,1,1,0,3,1,3,3,Yes,Travel_Rarely,19,No
+EMP0287,27,Male,Research & Development,Research Director,Marketing,1,7405,4,5,3,1,2,3,3,No,Non-Travel,24,No
+EMP0288,28,Female,Research & Development,Laboratory Technician,Life Sciences,1,9105,2,1,0,2,2,4,3,Yes,Travel_Rarely,22,No
+EMP0289,35,Male,Sales,Sales Representative,Medical,2,8485,4,1,0,3,3,4,3,No,Travel_Rarely,1,No
+EMP0290,51,Male,Research & Development,Research Scientist,Life Sciences,3,9970,1,0,0,3,2,4,3,Yes,Travel_Rarely,12,No
+EMP0291,56,Female,Sales,Sales Representative,Medical,1,9871,1,10,5,2,4,3,3,Yes,Travel_Rarely,29,No
+EMP0292,58,Male,Sales,Sales Executive,Medical,4,10325,2,3,1,3,1,4,4,No,Non-Travel,15,No
+EMP0293,59,Female,Research & Development,Manager,Life Sciences,3,11525,2,6,1,4,3,3,4,No,Travel_Rarely,14,No
+EMP0294,40,Male,Research & Development,Research Scientist,Life Sciences,3,8650,3,9,7,2,1,1,3,Yes,Travel_Rarely,3,No
+EMP0295,24,Male,Sales,Manager,Life Sciences,4,7602,2,7,3,3,3,3,3,No,Non-Travel,20,Yes
+EMP0296,56,Male,Research & Development,Research Scientist,Human Resources,1,10946,1,4,2,1,4,2,3,Yes,Travel_Rarely,13,Yes
+EMP0297,20,Female,Research & Development,Manager,Other,2,7220,1,3,1,1,4,2,3,Yes,Travel_Rarely,18,Yes
+EMP0298,29,Male,Sales,Manager,Life Sciences,3,9757,1,3,1,3,3,2,4,Yes,Travel_Rarely,16,No
+EMP0299,24,Female,Research & Development,Healthcare Representative,Marketing,4,7737,3,7,6,1,3,1,4,No,Travel_Rarely,6,Yes
+EMP0300,43,Male,Sales,Sales Executive,Life Sciences,3,8904,2,4,2,1,4,3,4,No,Non-Travel,10,No
+EMP0301,50,Male,Sales,Sales Representative,Life Sciences,2,9217,3,13,12,1,4,1,3,No,Travel_Frequently,28,No
+EMP0302,54,Male,Research & Development,Research Scientist,Marketing,4,12258,3,14,13,3,4,2,4,No,Travel_Rarely,17,No
+EMP0303,32,Female,Research & Development,Manager,Human Resources,1,9502,1,1,0,3,2,1,4,Yes,Travel_Rarely,17,No
+EMP0304,19,Female,Research & Development,Manager,Other,4,7270,1,1,0,2,4,1,3,No,Travel_Rarely,8,No
+EMP0305,58,Male,Research & Development,Laboratory Technician,Medical,5,12024,3,6,5,3,1,2,3,No,Travel_Rarely,4,No
+EMP0306,24,Male,Human Resources,Manager,Life Sciences,2,7580,3,2,1,1,2,3,3,Yes,Travel_Rarely,15,Yes
+EMP0307,49,Male,Research & Development,Manager,Marketing,3,10625,2,0,0,3,1,4,3,No,Travel_Rarely,1,No
+EMP0308,21,Male,Research & Development,Laboratory Technician,Life Sciences,1,7904,1,15,12,2,2,4,4,No,Travel_Frequently,7,No
+EMP0309,37,Male,Research & Development,Research Director,Medical,2,8860,1,1,0,3,3,4,3,No,Travel_Rarely,25,No
+EMP0310,53,Female,Sales,Sales Executive,Life Sciences,2,10510,2,18,9,4,4,2,3,No,Non-Travel,10,No
+EMP0311,49,Female,Research & Development,Research Director,Medical,3,9983,1,8,5,4,3,2,3,No,Travel_Frequently,7,No
+EMP0312,45,Male,Sales,Sales Executive,Life Sciences,4,11053,1,10,8,1,3,1,3,No,Travel_Rarely,1,Yes
+EMP0313,30,Male,Sales,Sales Executive,Life Sciences,3,7384,2,1,0,4,3,4,4,No,Travel_Rarely,17,No
+EMP0314,18,Female,Human Resources,Human Resources,Human Resources,2,8168,1,1,0,1,3,1,3,Yes,Travel_Frequently,12,Yes
+EMP0315,52,Female,Research & Development,Research Director,Life Sciences,3,10570,1,5,2,4,2,3,3,No,Non-Travel,17,No
+EMP0316,47,Male,Research & Development,Laboratory Technician,Medical,4,10499,4,1,0,2,4,2,3,Yes,Travel_Rarely,15,No
+EMP0317,53,Male,Research & Development,Manager,Life Sciences,1,11406,2,2,0,2,3,2,3,Yes,Travel_Rarely,24,No
+EMP0318,42,Male,Sales,Manager,Life Sciences,5,8855,4,2,1,1,3,4,3,No,Travel_Rarely,16,No
+EMP0319,33,Male,Sales,Sales Representative,Life Sciences,1,9331,2,1,0,1,3,4,4,No,Travel_Rarely,23,Yes
+EMP0320,36,Male,Sales,Sales Executive,Life Sciences,3,6713,3,1,0,3,4,4,3,No,Travel_Frequently,14,No
+EMP0321,18,Male,Research & Development,Healthcare Representative,Technical Degree,2,7364,1,10,5,4,2,3,3,No,Travel_Rarely,3,No
+EMP0322,22,Female,Research & Development,Laboratory Technician,Life Sciences,1,7520,3,1,0,3,2,4,3,Yes,Travel_Rarely,19,Yes
+EMP0323,39,Male,Research & Development,Research Director,Other,2,8617,1,0,0,3,3,3,3,No,Travel_Frequently,12,No
+EMP0324,41,Male,Sales,Manager,Medical,3,9108,1,6,2,3,3,4,4,Yes,Travel_Rarely,19,No
+EMP0325,54,Male,Human Resources,Human Resources,Medical,2,10128,4,26,10,2,4,2,3,No,Travel_Rarely,18,No
+EMP0326,53,Female,Research & Development,Healthcare Representative,Medical,1,11302,2,2,0,1,2,3,3,No,Travel_Rarely,14,Yes
+EMP0327,53,Female,Research & Development,Manager,Medical,3,10932,4,0,0,1,2,3,3,Yes,Travel_Frequently,20,No
+EMP0328,21,Male,Research & Development,Healthcare Representative,Marketing,4,7647,2,5,2,2,4,3,3,No,Travel_Frequently,23,No
+EMP0329,53,Male,Research & Development,Laboratory Technician,Life Sciences,2,11035,2,16,15,2,2,4,3,No,Travel_Rarely,9,No
+EMP0330,35,Female,Sales,Sales Representative,Life Sciences,2,8899,2,10,6,1,3,4,3,No,Travel_Rarely,3,No
+EMP0331,33,Male,Research & Development,Research Scientist,Human Resources,2,9888,3,6,2,1,2,3,3,No,Travel_Rarely,26,No
+EMP0332,58,Male,Research & Development,Laboratory Technician,Other,1,11761,2,2,1,1,2,3,4,Yes,Travel_Rarely,23,Yes
+EMP0333,35,Male,Sales,Sales Representative,Human Resources,4,8824,4,5,2,4,3,3,3,Yes,Travel_Frequently,12,No
+EMP0334,39,Male,Sales,Manager,Medical,4,8402,1,0,0,1,1,4,3,Yes,Non-Travel,20,Yes
+EMP0335,19,Male,Sales,Sales Representative,Marketing,3,6997,3,7,3,3,4,3,4,Yes,Travel_Rarely,17,No
+EMP0336,38,Female,Sales,Sales Executive,Medical,2,8600,2,9,6,3,3,1,4,No,Travel_Rarely,5,No
+EMP0337,53,Female,Research & Development,Research Scientist,Medical,3,10487,1,23,19,3,2,3,3,No,Travel_Rarely,8,No
+EMP0338,56,Male,Research & Development,Healthcare Representative,Life Sciences,3,11194,2,2,1,1,3,1,3,No,Travel_Rarely,19,Yes
+EMP0339,56,Female,Research & Development,Research Scientist,Medical,4,11552,2,0,0,2,3,4,3,No,Travel_Rarely,26,No
+EMP0340,46,Male,Sales,Manager,Life Sciences,3,9639,1,5,2,1,1,2,3,No,Travel_Frequently,4,No
+EMP0341,43,Male,Research & Development,Manager,Life Sciences,3,9952,1,8,4,2,2,3,3,No,Travel_Frequently,15,No
+EMP0342,38,Male,Research & Development,Research Scientist,Technical Degree,3,9654,2,10,9,1,2,4,3,No,Travel_Rarely,19,No
+EMP0343,34,Female,Sales,Sales Representative,Life Sciences,2,8307,2,1,0,3,3,1,3,No,Travel_Rarely,15,No
+EMP0344,33,Male,Research & Development,Healthcare Representative,Life Sciences,4,8399,2,2,0,3,3,2,3,No,Travel_Rarely,26,Yes
+EMP0345,48,Male,Research & Development,Research Director,Life Sciences,2,8935,1,5,1,3,3,3,3,No,Travel_Rarely,14,No
+EMP0346,26,Female,Research & Development,Research Scientist,Other,3,8023,1,2,1,2,3,2,3,No,Travel_Rarely,16,No
+EMP0347,48,Female,Research & Development,Research Director,Medical,2,10718,5,13,4,2,3,3,3,Yes,Travel_Rarely,24,No
+EMP0348,31,Female,Sales,Manager,Life Sciences,3,7917,4,4,2,4,3,4,3,No,Travel_Rarely,10,Yes
+EMP0349,54,Male,Research & Development,Research Scientist,Technical Degree,3,10629,2,11,4,2,3,4,3,No,Travel_Rarely,24,No
+EMP0350,19,Male,Research & Development,Manager,Technical Degree,2,8393,5,6,4,3,2,4,3,Yes,Travel_Rarely,14,No
+EMP0351,31,Male,Research & Development,Research Director,Life Sciences,1,9396,3,10,9,3,4,4,3,No,Travel_Rarely,20,No
+EMP0352,50,Male,Research & Development,Research Director,Marketing,3,9636,1,2,1,2,3,3,3,No,Travel_Rarely,11,No
+EMP0353,52,Female,Research & Development,Manager,Marketing,3,11457,1,12,6,2,4,2,3,No,Travel_Rarely,2,No
+EMP0354,56,Male,Sales,Sales Representative,Medical,2,11381,4,2,1,2,3,2,3,No,Travel_Rarely,28,No
+EMP0355,37,Male,Sales,Manager,Life Sciences,2,8056,3,5,4,1,2,4,3,Yes,Travel_Rarely,19,No
+EMP0356,19,Female,Research & Development,Laboratory Technician,Technical Degree,3,7360,4,1,0,1,3,3,3,No,Non-Travel,3,Yes
+EMP0357,58,Male,Sales,Manager,Medical,1,11592,4,4,3,1,2,2,3,No,Travel_Rarely,4,Yes
+EMP0358,36,Male,Research & Development,Manager,Life Sciences,2,9262,2,2,1,1,3,3,3,Yes,Travel_Rarely,11,No
+EMP0359,54,Female,Human Resources,Manager,Medical,2,8044,1,2,0,3,3,3,3,No,Travel_Rarely,13,No
+EMP0360,35,Female,Research & Development,Manager,Life Sciences,2,8180,1,23,13,4,4,3,3,No,Travel_Rarely,18,No
+EMP0361,33,Female,Research & Development,Healthcare Representative,Life Sciences,2,8940,1,1,0,2,3,4,3,Yes,Travel_Rarely,18,No
+EMP0362,21,Male,Research & Development,Healthcare Representative,Marketing,2,7249,1,10,7,4,3,3,3,No,Travel_Frequently,19,No
+EMP0363,29,Male,Research & Development,Research Director,Life Sciences,1,8489,2,29,13,4,2,4,3,Yes,Travel_Rarely,12,No
+EMP0364,46,Female,Research & Development,Manager,Medical,2,10205,1,0,0,4,4,3,3,No,Travel_Rarely,1,Yes
+EMP0365,24,Male,Human Resources,Human Resources,Medical,2,8589,1,8,3,4,4,4,3,No,Travel_Frequently,24,No
+EMP0366,31,Male,Research & Development,Manager,Life Sciences,2,8747,2,2,1,2,3,4,3,Yes,Travel_Rarely,6,Yes
+EMP0367,29,Female,Human Resources,Manager,Other,2,8678,2,0,0,1,2,4,3,No,Travel_Rarely,3,No
+EMP0368,52,Male,Human Resources,Human Resources,Life Sciences,4,10803,2,3,2,3,3,1,3,Yes,Non-Travel,17,No
+EMP0369,22,Female,Sales,Sales Representative,Life Sciences,1,8907,2,19,13,3,1,2,3,No,Travel_Rarely,3,No
+EMP0370,34,Male,Sales,Sales Representative,Life Sciences,2,8947,3,0,0,4,3,3,3,No,Travel_Rarely,1,Yes
+EMP0371,59,Male,Sales,Manager,Life Sciences,1,9149,4,6,2,4,1,3,3,No,Travel_Rarely,3,No
+EMP0372,49,Male,Sales,Sales Executive,Life Sciences,1,10288,1,4,3,3,3,3,3,Yes,Travel_Rarely,4,No
+EMP0373,27,Female,Sales,Sales Representative,Marketing,3,8998,1,14,5,2,3,4,3,No,Travel_Frequently,6,No
+EMP0374,34,Male,Research & Development,Manager,Other,3,9155,4,0,0,1,2,2,3,No,Travel_Rarely,7,No
+EMP0375,22,Male,Sales,Sales Representative,Life Sciences,4,9155,2,8,6,1,3,3,3,No,Travel_Rarely,23,No
+EMP0376,59,Female,Research & Development,Laboratory Technician,Medical,3,11907,3,7,3,3,4,2,3,No,Travel_Rarely,25,No
+EMP0377,26,Female,Research & Development,Manager,Marketing,4,9034,1,7,3,3,1,4,3,Yes,Travel_Rarely,8,No
+EMP0378,50,Female,Sales,Sales Executive,Technical Degree,1,10869,3,19,12,4,4,4,3,No,Travel_Rarely,13,No
+EMP0379,53,Male,Research & Development,Manager,Medical,1,11006,4,12,7,3,1,3,3,No,Travel_Rarely,4,No
+EMP0380,53,Male,Sales,Sales Executive,Life Sciences,1,8245,3,0,0,4,1,2,3,No,Non-Travel,6,No
+EMP0381,35,Female,Sales,Sales Representative,Life Sciences,2,8400,1,4,2,3,1,4,3,No,Travel_Rarely,11,No
+EMP0382,26,Female,Research & Development,Laboratory Technician,Marketing,2,9537,4,3,2,4,3,3,3,No,Travel_Rarely,1,No
+EMP0383,46,Male,Research & Development,Manager,Technical Degree,3,9533,3,2,1,1,2,3,4,Yes,Travel_Rarely,8,Yes
+EMP0384,31,Male,Research & Development,Manager,Life Sciences,1,8801,3,4,2,4,4,4,3,Yes,Travel_Frequently,22,Yes
+EMP0385,42,Female,Research & Development,Manager,Life Sciences,4,9024,1,3,1,3,3,4,3,Yes,Non-Travel,2,No
+EMP0386,32,Male,Research & Development,Laboratory Technician,Human Resources,4,10487,3,3,1,1,1,3,3,Yes,Travel_Rarely,8,Yes
+EMP0387,23,Female,Sales,Sales Executive,Technical Degree,2,9185,1,27,13,1,3,3,4,No,Travel_Rarely,20,Yes
+EMP0388,59,Male,Sales,Sales Executive,Other,1,10012,1,0,0,4,1,2,4,No,Travel_Frequently,9,No
+EMP0389,46,Male,Research & Development,Research Director,Marketing,2,10297,2,17,14,1,3,3,3,No,Travel_Frequently,4,No
+EMP0390,32,Female,Research & Development,Research Scientist,Life Sciences,1,8515,2,4,1,2,1,3,3,No,Travel_Rarely,17,No
+EMP0391,46,Male,Human Resources,Human Resources,Medical,1,9671,3,6,1,2,2,2,3,No,Travel_Rarely,7,No
+EMP0392,21,Male,Research & Development,Research Scientist,Medical,2,8587,2,12,3,3,3,1,3,No,Non-Travel,10,No
+EMP0393,35,Male,Research & Development,Research Director,Life Sciences,2,9949,1,3,1,4,4,2,3,No,Travel_Rarely,5,No
+EMP0394,56,Male,Research & Development,Healthcare Representative,Medical,2,11245,3,3,1,2,2,2,4,No,Travel_Rarely,10,No
+EMP0395,33,Female,Research & Development,Manager,Marketing,5,11488,4,3,2,2,4,3,3,No,Travel_Rarely,27,No
+EMP0396,28,Female,Human Resources,Manager,Life Sciences,3,6917,1,3,2,4,2,3,3,Yes,Travel_Rarely,12,No
+EMP0397,31,Female,Research & Development,Manager,Marketing,4,7611,2,18,14,3,4,3,3,Yes,Travel_Rarely,21,No
+EMP0398,20,Male,Research & Development,Laboratory Technician,Medical,1,7785,2,12,5,4,3,3,3,No,Travel_Rarely,20,No
+EMP0399,59,Male,Research & Development,Research Director,Other,2,9965,2,0,0,2,2,3,3,No,Travel_Rarely,6,No
+EMP0400,55,Male,Research & Development,Laboratory Technician,Life Sciences,3,9706,2,0,0,2,2,4,3,No,Non-Travel,1,No
+EMP0401,59,Female,Sales,Sales Representative,Life Sciences,1,9918,2,3,2,2,1,3,3,No,Non-Travel,3,No
+EMP0402,35,Female,Human Resources,Manager,Medical,1,7562,1,0,0,3,2,4,3,No,Non-Travel,27,No
+EMP0403,37,Female,Research & Development,Healthcare Representative,Life Sciences,3,8696,5,6,5,1,2,3,3,No,Travel_Rarely,28,No
+EMP0404,42,Male,Research & Development,Research Scientist,Marketing,3,10274,3,1,0,2,3,3,3,No,Non-Travel,7,No
+EMP0405,55,Male,Research & Development,Manager,Marketing,2,10495,2,5,3,1,4,1,3,No,Travel_Rarely,11,No
+EMP0406,30,Male,Research & Development,Research Director,Life Sciences,2,8756,2,0,0,2,1,3,3,Yes,Travel_Rarely,24,No
+EMP0407,21,Male,Research & Development,Manager,Medical,2,8895,2,2,1,4,3,4,3,No,Travel_Rarely,12,No
+EMP0408,31,Male,Sales,Sales Representative,Medical,1,7866,2,7,3,1,3,4,3,Yes,Travel_Frequently,9,Yes
+EMP0409,50,Female,Human Resources,Manager,Life Sciences,2,9288,2,4,2,3,4,4,4,No,Travel_Rarely,1,Yes
+EMP0410,45,Male,Sales,Sales Executive,Human Resources,2,9892,2,26,19,4,3,2,4,No,Travel_Rarely,4,No
+EMP0411,54,Male,Research & Development,Laboratory Technician,Technical Degree,1,9266,2,14,6,2,3,3,3,No,Travel_Rarely,2,No
+EMP0412,25,Male,Human Resources,Human Resources,Marketing,4,5592,1,3,1,3,3,3,3,No,Travel_Frequently,2,Yes
+EMP0413,51,Female,Human Resources,Human Resources,Marketing,3,9856,2,0,0,4,2,3,3,No,Travel_Rarely,17,No
+EMP0414,22,Male,Research & Development,Research Scientist,Medical,3,8653,4,13,4,4,1,2,4,No,Travel_Rarely,21,No
+EMP0415,22,Female,Research & Development,Research Scientist,Human Resources,2,9911,1,16,4,2,2,4,3,No,Travel_Rarely,2,No
+EMP0416,48,Female,Research & Development,Research Scientist,Marketing,2,10466,1,12,4,1,1,4,3,No,Travel_Rarely,4,No
+EMP0417,26,Male,Sales,Sales Executive,Marketing,2,8735,1,0,0,1,3,3,3,No,Travel_Rarely,25,Yes
+EMP0418,59,Female,Research & Development,Research Scientist,Technical Degree,1,11063,5,40,18,3,2,2,3,No,Travel_Rarely,11,No
+EMP0419,49,Male,Research & Development,Laboratory Technician,Life Sciences,2,10657,3,2,1,3,3,2,3,Yes,Travel_Rarely,19,Yes
+EMP0420,50,Male,Research & Development,Research Director,Technical Degree,3,11833,2,9,4,3,1,3,3,Yes,Travel_Rarely,24,No
+EMP0421,20,Female,Research & Development,Manager,Life Sciences,3,6400,4,16,6,2,4,2,3,No,Travel_Rarely,26,No
+EMP0422,47,Female,Research & Development,Research Scientist,Life Sciences,2,10590,2,1,0,1,4,4,4,No,Travel_Rarely,13,No
+EMP0423,29,Male,Sales,Sales Representative,Life Sciences,2,10028,5,16,14,3,1,3,3,No,Travel_Frequently,22,No
+EMP0424,46,Male,Research & Development,Laboratory Technician,Other,4,10405,2,2,1,2,2,3,4,No,Non-Travel,26,No
+EMP0425,20,Male,Sales,Sales Representative,Technical Degree,1,8920,1,26,13,3,3,3,3,No,Travel_Rarely,21,No
+EMP0426,43,Male,Research & Development,Research Director,Marketing,2,9436,3,2,1,2,1,1,3,No,Travel_Rarely,18,Yes
+EMP0427,47,Male,Research & Development,Manager,Marketing,2,10234,2,21,16,2,2,4,4,No,Travel_Rarely,27,No
+EMP0428,26,Male,Research & Development,Research Director,Medical,3,8606,3,0,0,2,2,3,4,No,Non-Travel,29,Yes
+EMP0429,43,Male,Research & Development,Healthcare Representative,Other,5,8165,2,8,6,2,4,4,3,No,Travel_Rarely,19,No
+EMP0430,19,Female,Sales,Manager,Medical,2,6585,3,5,4,2,4,3,3,No,Travel_Rarely,24,No
+EMP0431,20,Male,Sales,Sales Representative,Life Sciences,4,6722,2,4,3,1,3,4,3,Yes,Travel_Rarely,15,No
+EMP0432,21,Male,Research & Development,Healthcare Representative,Life Sciences,4,8837,1,1,0,2,3,1,3,Yes,Travel_Rarely,28,No
+EMP0433,42,Male,Research & Development,Research Scientist,Marketing,2,10557,4,8,4,1,4,3,3,No,Travel_Rarely,12,No
+EMP0434,30,Female,Sales,Manager,Marketing,2,8659,4,1,0,1,4,4,3,No,Travel_Rarely,25,No
+EMP0435,56,Male,Sales,Sales Executive,Life Sciences,2,11139,5,5,4,3,4,4,3,No,Travel_Rarely,11,No
+EMP0436,52,Male,Research & Development,Research Director,Life Sciences,5,10528,3,2,0,2,1,4,3,No,Travel_Rarely,27,No
+EMP0437,40,Male,Sales,Manager,Technical Degree,2,10161,3,21,20,3,1,2,3,No,Travel_Rarely,23,No
+EMP0438,26,Female,Research & Development,Manager,Life Sciences,3,8587,2,0,0,3,3,4,3,No,Travel_Rarely,1,No
+EMP0439,19,Male,Research & Development,Healthcare Representative,Marketing,2,8066,1,1,0,3,3,4,3,No,Travel_Rarely,16,No
+EMP0440,58,Female,Sales,Sales Executive,Other,3,10427,1,1,0,4,1,1,3,Yes,Travel_Rarely,28,No
+EMP0441,48,Female,Sales,Sales Executive,Medical,2,10387,2,3,1,1,1,4,3,No,Travel_Rarely,28,No
+EMP0442,19,Female,Human Resources,Human Resources,Life Sciences,3,6683,4,1,0,3,4,2,3,No,Travel_Frequently,13,No
+EMP0443,49,Female,Research & Development,Manager,Marketing,4,11201,1,4,1,4,4,3,3,No,Travel_Rarely,29,No
+EMP0444,35,Male,Research & Development,Manager,Technical Degree,3,8394,4,14,8,4,2,3,3,No,Travel_Rarely,6,No
+EMP0445,30,Male,Research & Development,Research Scientist,Medical,4,8020,2,8,3,1,4,4,3,No,Travel_Rarely,23,No
+EMP0446,22,Female,Human Resources,Human Resources,Other,1,7809,3,6,3,2,3,2,3,No,Travel_Rarely,28,No
+EMP0447,59,Male,Human Resources,Human Resources,Life Sciences,3,10149,1,0,0,1,4,3,3,No,Travel_Rarely,6,No
+EMP0448,27,Male,Research & Development,Research Scientist,Medical,1,8296,2,8,7,3,2,3,3,No,Travel_Rarely,10,Yes
+EMP0449,42,Female,Research & Development,Manager,Marketing,2,10572,5,1,0,3,1,2,3,No,Travel_Rarely,27,No
+EMP0450,51,Male,Sales,Manager,Technical Degree,2,9594,2,10,3,2,2,3,4,Yes,Travel_Rarely,29,No
+EMP0451,54,Male,Research & Development,Healthcare Representative,Life Sciences,2,10659,2,2,1,3,2,2,3,No,Travel_Rarely,2,No
+EMP0452,47,Male,Research & Development,Research Scientist,Technical Degree,2,11379,1,3,1,3,3,4,4,No,Travel_Rarely,29,No
+EMP0453,24,Male,Research & Development,Manager,Medical,5,9651,1,3,0,2,1,4,3,No,Travel_Rarely,25,No
+EMP0454,23,Female,Human Resources,Manager,Life Sciences,1,8597,1,13,4,4,4,4,3,No,Travel_Rarely,3,No
+EMP0455,20,Male,Sales,Sales Executive,Life Sciences,3,7374,3,0,0,3,2,4,3,No,Non-Travel,6,No
+EMP0456,30,Male,Research & Development,Laboratory Technician,Technical Degree,2,9884,2,5,4,1,2,3,3,No,Travel_Rarely,16,No
+EMP0457,20,Male,Sales,Manager,Life Sciences,1,6840,2,1,0,3,3,2,4,No,Non-Travel,6,No
+EMP0458,43,Female,Research & Development,Research Director,Life Sciences,1,9214,1,8,3,2,3,3,3,No,Travel_Rarely,24,No
+EMP0459,41,Female,Sales,Manager,Life Sciences,4,7399,3,16,7,3,2,1,3,Yes,Non-Travel,13,No
+EMP0460,23,Male,Sales,Manager,Technical Degree,4,9178,3,3,1,4,3,4,3,No,Travel_Rarely,4,No
+EMP0461,59,Female,Sales,Manager,Medical,4,10028,1,4,2,4,3,2,3,No,Non-Travel,15,No
+EMP0462,29,Male,Research & Development,Healthcare Representative,Technical Degree,5,8718,2,18,8,2,3,4,3,No,Travel_Rarely,6,No
+EMP0463,53,Female,Research & Development,Research Director,Life Sciences,2,10011,1,5,4,2,3,1,3,No,Travel_Rarely,1,Yes
+EMP0464,19,Male,Research & Development,Healthcare Representative,Medical,2,8576,3,4,2,2,1,4,4,Yes,Non-Travel,9,No
+EMP0465,28,Female,Human Resources,Human Resources,Medical,3,7439,3,6,5,3,3,2,3,No,Travel_Rarely,12,No
+EMP0466,56,Male,Research & Development,Laboratory Technician,Technical Degree,2,9936,4,8,6,1,4,1,3,No,Travel_Frequently,25,No
+EMP0467,51,Male,Sales,Sales Executive,Human Resources,2,10433,1,0,0,3,1,4,3,Yes,Travel_Rarely,23,No
+EMP0468,43,Male,Research & Development,Manager,Life Sciences,2,8793,2,12,10,1,2,2,3,Yes,Travel_Rarely,11,Yes
+EMP0469,35,Female,Sales,Sales Representative,Medical,3,8130,1,4,3,2,4,4,3,Yes,Travel_Frequently,13,No
+EMP0470,38,Male,Human Resources,Manager,Life Sciences,3,6854,2,0,0,2,2,3,4,No,Travel_Frequently,1,No
+EMP0471,53,Female,Sales,Sales Representative,Medical,2,9100,2,10,5,4,2,2,3,Yes,Travel_Rarely,19,Yes
+EMP0472,57,Male,Human Resources,Manager,Life Sciences,2,10202,1,3,2,3,4,4,3,No,Travel_Rarely,28,No
+EMP0473,39,Male,Sales,Manager,Life Sciences,3,7548,3,0,0,2,2,3,4,Yes,Travel_Frequently,21,Yes
+EMP0474,47,Male,Research & Development,Research Director,Life Sciences,3,9075,2,7,2,1,1,4,3,No,Travel_Rarely,4,No
+EMP0475,47,Female,Research & Development,Research Scientist,Medical,2,10258,3,14,8,3,4,3,3,No,Travel_Rarely,5,No
+EMP0476,25,Male,Human Resources,Human Resources,Life Sciences,3,7065,2,15,12,2,4,3,3,No,Non-Travel,23,No
+EMP0477,51,Female,Sales,Sales Executive,Marketing,1,11673,4,22,18,3,3,2,4,No,Travel_Frequently,25,Yes
+EMP0478,26,Female,Research & Development,Research Scientist,Life Sciences,2,10047,5,14,13,4,3,2,3,Yes,Travel_Rarely,17,No
+EMP0479,37,Female,Human Resources,Manager,Life Sciences,3,7765,4,0,0,3,4,3,3,No,Travel_Rarely,5,No
+EMP0480,57,Male,Research & Development,Laboratory Technician,Marketing,3,11505,3,3,1,3,3,3,3,No,Non-Travel,19,No
+EMP0481,42,Female,Research & Development,Healthcare Representative,Life Sciences,2,10459,3,11,7,3,2,3,3,Yes,Travel_Rarely,3,No
+EMP0482,36,Female,Research & Development,Research Scientist,Medical,3,8902,2,3,2,4,1,3,3,No,Travel_Frequently,11,No
+EMP0483,22,Male,Research & Development,Research Director,Marketing,3,7063,1,6,2,4,3,3,3,Yes,Travel_Rarely,2,No
+EMP0484,28,Female,Research & Development,Research Director,Life Sciences,3,8730,3,6,2,3,4,1,3,Yes,Travel_Rarely,22,Yes
+EMP0485,32,Male,Research & Development,Research Scientist,Life Sciences,3,8921,3,3,0,2,4,3,4,No,Travel_Rarely,14,No
+EMP0486,25,Male,Human Resources,Human Resources,Life Sciences,3,7151,5,16,11,2,4,3,3,No,Non-Travel,6,No
+EMP0487,36,Male,Sales,Sales Executive,Other,2,9233,2,4,3,1,4,1,3,Yes,Travel_Rarely,19,Yes
+EMP0488,40,Male,Sales,Sales Representative,Medical,1,8599,2,4,3,3,3,2,3,No,Travel_Rarely,1,No
+EMP0489,44,Male,Human Resources,Human Resources,Medical,2,8098,3,40,39,3,2,1,3,No,Travel_Rarely,7,No
+EMP0490,57,Male,Research & Development,Laboratory Technician,Medical,2,11147,5,4,1,1,3,4,4,No,Travel_Rarely,2,Yes
+EMP0491,49,Female,Research & Development,Laboratory Technician,Life Sciences,3,10728,1,1,0,1,3,4,3,No,Travel_Rarely,24,No
+EMP0492,43,Male,Research & Development,Manager,Medical,2,8998,2,5,4,2,3,1,3,No,Non-Travel,19,No
+EMP0493,44,Male,Sales,Manager,Marketing,2,10262,2,11,5,4,1,1,3,No,Travel_Rarely,1,No
+EMP0494,36,Male,Sales,Sales Representative,Life Sciences,1,7463,1,10,9,3,4,4,3,No,Travel_Frequently,26,No
+EMP0495,59,Male,Research & Development,Manager,Life Sciences,2,10757,1,10,5,3,2,3,3,Yes,Travel_Rarely,9,No
+EMP0496,46,Female,Research & Development,Manager,Life Sciences,2,9973,2,8,7,2,2,4,3,No,Travel_Rarely,21,No
+EMP0497,56,Male,Research & Development,Research Director,Medical,3,10471,4,2,1,3,3,4,3,No,Non-Travel,17,No
+EMP0498,58,Female,Sales,Sales Representative,Other,1,10187,1,13,10,2,3,3,3,Yes,Travel_Rarely,10,Yes
+EMP0499,50,Male,Human Resources,Human Resources,Life Sciences,3,10996,2,15,10,3,2,2,3,No,Travel_Frequently,27,No
+EMP0500,36,Female,Human Resources,Manager,Medical,4,7699,3,1,0,1,4,4,3,Yes,Travel_Rarely,6,Yes
+EMP0501,54,Male,Research & Development,Research Scientist,Life Sciences,2,12772,5,0,0,3,2,4,3,No,Travel_Rarely,26,No
+EMP0502,36,Male,Research & Development,Laboratory Technician,Other,2,9729,5,25,13,2,1,3,3,Yes,Travel_Rarely,3,No
+EMP0503,50,Female,Research & Development,Research Scientist,Life Sciences,1,10573,2,14,11,2,2,3,3,No,Travel_Rarely,27,Yes
+EMP0504,33,Male,Research & Development,Research Scientist,Life Sciences,3,9520,5,15,12,4,3,3,3,Yes,Travel_Rarely,20,No
+EMP0505,40,Female,Research & Development,Healthcare Representative,Marketing,3,11723,1,15,14,1,4,3,3,Yes,Travel_Rarely,24,No
+EMP0506,24,Female,Sales,Sales Representative,Marketing,2,7125,3,5,1,2,4,4,3,No,Travel_Rarely,15,No
+EMP0507,43,Male,Human Resources,Manager,Medical,2,8043,3,7,6,3,4,4,3,No,Travel_Frequently,21,No
+EMP0508,49,Male,Research & Development,Laboratory Technician,Life Sciences,4,9816,1,5,4,4,1,3,3,No,Non-Travel,28,No
+EMP0509,29,Male,Human Resources,Human Resources,Life Sciences,2,7845,2,0,0,2,1,4,3,Yes,Travel_Frequently,22,No
+EMP0510,25,Female,Research & Development,Laboratory Technician,Life Sciences,1,7119,1,9,3,3,3,2,3,No,Travel_Rarely,26,No
+EMP0511,22,Female,Research & Development,Research Director,Life Sciences,4,8277,4,4,1,4,2,2,4,No,Travel_Rarely,20,No
+EMP0512,59,Male,Research & Development,Research Director,Medical,3,12574,2,7,2,2,4,3,3,No,Travel_Rarely,6,No
+EMP0513,45,Male,Human Resources,Human Resources,Life Sciences,4,9221,3,4,2,2,3,2,3,No,Travel_Rarely,3,No
+EMP0514,22,Male,Research & Development,Research Director,Life Sciences,3,8025,1,4,2,2,4,3,3,No,Travel_Rarely,10,Yes
+EMP0515,43,Female,Sales,Manager,Medical,3,8945,1,1,0,4,2,2,3,No,Travel_Rarely,12,No
+EMP0516,22,Male,Sales,Sales Representative,Other,2,8478,5,2,1,1,3,4,3,No,Non-Travel,1,No
+EMP0517,39,Male,Research & Development,Research Scientist,Medical,3,8959,3,1,0,2,3,4,3,No,Travel_Rarely,22,No
+EMP0518,32,Female,Research & Development,Manager,Life Sciences,4,10537,5,1,0,3,2,3,3,No,Travel_Rarely,29,No
+EMP0519,30,Male,Human Resources,Human Resources,Life Sciences,3,9446,2,25,21,3,3,2,3,No,Travel_Rarely,16,No
+EMP0520,45,Male,Sales,Sales Representative,Other,2,9805,1,1,0,2,2,3,3,No,Travel_Frequently,17,No
+EMP0521,50,Female,Research & Development,Research Scientist,Life Sciences,2,10490,2,2,1,3,2,4,3,Yes,Travel_Rarely,10,Yes
+EMP0522,40,Female,Research & Development,Research Director,Life Sciences,2,10524,2,6,3,1,2,3,3,No,Travel_Rarely,12,No
+EMP0523,50,Male,Human Resources,Human Resources,Medical,2,10375,1,6,4,2,1,1,3,No,Non-Travel,19,No
+EMP0524,35,Male,Research & Development,Laboratory Technician,Medical,2,8655,3,1,0,3,3,1,3,No,Travel_Rarely,28,No
+EMP0525,47,Male,Research & Development,Manager,Medical,3,9838,2,11,7,4,2,2,3,No,Travel_Rarely,8,No
+EMP0526,43,Male,Research & Development,Manager,Life Sciences,3,8882,1,10,4,2,1,2,3,No,Travel_Rarely,23,No
+EMP0527,33,Female,Research & Development,Manager,Life Sciences,2,9467,2,1,0,4,2,4,3,No,Travel_Rarely,8,No
+EMP0528,30,Male,Sales,Sales Representative,Other,3,8933,2,2,0,3,2,4,3,No,Non-Travel,10,No
+EMP0529,56,Female,Sales,Sales Representative,Life Sciences,1,9400,3,19,15,1,2,2,3,No,Travel_Rarely,10,No
+EMP0530,50,Female,Research & Development,Research Director,Medical,1,10135,2,12,4,3,1,2,3,No,Travel_Rarely,18,No
+EMP0531,43,Male,Research & Development,Healthcare Representative,Marketing,2,8862,2,8,3,1,3,2,3,No,Travel_Rarely,10,No
+EMP0532,18,Male,Human Resources,Manager,Medical,2,6220,1,0,0,4,3,4,3,No,Non-Travel,7,Yes
+EMP0533,55,Male,Human Resources,Manager,Life Sciences,2,10340,4,3,2,4,3,3,3,No,Travel_Rarely,4,No
+EMP0534,19,Female,Research & Development,Healthcare Representative,Life Sciences,2,7433,4,5,2,2,4,3,3,No,Non-Travel,1,No
+EMP0535,23,Female,Research & Development,Research Scientist,Medical,2,8099,3,1,0,2,2,3,3,No,Travel_Frequently,11,No
+EMP0536,55,Male,Human Resources,Manager,Technical Degree,3,8598,1,4,1,2,3,3,3,Yes,Travel_Rarely,19,No
+EMP0537,59,Female,Research & Development,Research Director,Other,1,11369,2,6,2,2,4,3,3,No,Travel_Rarely,5,No
+EMP0538,41,Male,Sales,Sales Executive,Life Sciences,3,9244,3,2,1,2,2,3,3,No,Travel_Rarely,26,No
+EMP0539,35,Female,Research & Development,Manager,Life Sciences,3,8716,5,10,5,2,3,3,4,Yes,Travel_Rarely,8,No
+EMP0540,44,Male,Sales,Sales Representative,Other,3,9368,5,12,6,3,2,3,3,No,Travel_Rarely,2,No
+EMP0541,58,Male,Human Resources,Manager,Marketing,4,10284,4,2,0,1,2,2,3,Yes,Travel_Rarely,2,No
+EMP0542,25,Female,Research & Development,Manager,Human Resources,1,7848,1,12,11,4,3,2,3,No,Travel_Rarely,24,No
+EMP0543,45,Male,Sales,Sales Executive,Life Sciences,1,8418,5,0,0,4,1,3,3,No,Travel_Frequently,14,No
+EMP0544,27,Male,Research & Development,Research Director,Medical,4,10104,3,12,4,2,2,3,3,No,Travel_Rarely,9,No
+EMP0545,34,Male,Research & Development,Healthcare Representative,Marketing,2,8713,3,1,0,4,2,3,3,No,Travel_Rarely,10,No
+EMP0546,46,Male,Research & Development,Laboratory Technician,Marketing,3,10102,2,0,0,2,2,4,3,No,Non-Travel,13,No
+EMP0547,23,Male,Sales,Manager,Life Sciences,3,8648,2,7,5,1,2,1,3,No,Travel_Rarely,29,Yes
+EMP0548,31,Female,Research & Development,Healthcare Representative,Life Sciences,3,11803,2,4,2,3,3,2,3,Yes,Travel_Rarely,1,No
+EMP0549,39,Male,Research & Development,Research Director,Medical,4,8624,1,16,12,2,4,2,3,Yes,Travel_Rarely,14,No
+EMP0550,23,Male,Research & Development,Manager,Life Sciences,5,8699,2,3,2,3,3,3,3,No,Travel_Rarely,2,No
+EMP0551,43,Female,Research & Development,Healthcare Representative,Medical,3,9373,4,2,1,4,2,3,3,No,Non-Travel,4,No
+EMP0552,56,Male,Research & Development,Manager,Other,2,10548,1,4,2,4,4,4,3,Yes,Travel_Rarely,28,No
+EMP0553,29,Male,Research & Development,Manager,Life Sciences,4,8243,1,4,2,3,3,2,3,No,Travel_Rarely,19,No
+EMP0554,52,Female,Research & Development,Research Scientist,Technical Degree,1,9759,1,2,0,3,2,3,3,No,Travel_Rarely,1,No
+EMP0555,31,Female,Research & Development,Healthcare Representative,Life Sciences,2,8946,2,8,7,1,4,4,4,No,Non-Travel,4,No
+EMP0556,39,Female,Research & Development,Healthcare Representative,Medical,4,8440,5,9,6,1,3,4,3,No,Non-Travel,11,No
+EMP0557,40,Female,Sales,Manager,Other,2,9957,1,13,5,3,3,4,3,No,Non-Travel,13,No
+EMP0558,24,Male,Sales,Sales Executive,Life Sciences,2,7964,1,25,23,2,2,4,3,No,Travel_Rarely,27,No
+EMP0559,57,Female,Research & Development,Research Director,Life Sciences,1,11397,4,2,1,2,2,4,4,No,Travel_Rarely,18,No
+EMP0560,42,Male,Research & Development,Research Scientist,Medical,4,9487,4,8,7,2,4,2,3,No,Non-Travel,10,Yes
+EMP0561,30,Female,Research & Development,Manager,Life Sciences,2,8606,1,3,2,3,3,2,3,No,Travel_Rarely,5,No
+EMP0562,38,Male,Sales,Manager,Marketing,3,9270,3,7,6,1,3,1,3,Yes,Travel_Rarely,1,No
+EMP0563,58,Female,Sales,Sales Representative,Human Resources,2,9708,3,4,1,3,3,3,3,Yes,Travel_Rarely,14,No
+EMP0564,27,Female,Sales,Sales Representative,Medical,3,7873,3,35,31,1,4,4,3,Yes,Travel_Rarely,16,No
+EMP0565,26,Female,Research & Development,Research Scientist,Life Sciences,3,7892,2,9,7,1,2,2,4,No,Travel_Rarely,24,No
+EMP0566,32,Male,Research & Development,Research Director,Medical,2,8347,5,21,9,2,3,3,4,No,Travel_Rarely,26,No
+EMP0567,19,Male,Research & Development,Manager,Marketing,2,6332,1,12,4,2,1,4,3,No,Non-Travel,18,No
+EMP0568,42,Female,Research & Development,Healthcare Representative,Life Sciences,2,10931,1,16,15,4,3,4,3,No,Travel_Rarely,27,Yes
+EMP0569,30,Female,Human Resources,Human Resources,Medical,5,7350,2,11,5,1,3,3,4,No,Travel_Rarely,3,No
+EMP0570,51,Male,Research & Development,Research Director,Medical,3,11510,2,4,3,1,1,4,3,No,Travel_Frequently,3,No
+EMP0571,51,Female,Research & Development,Healthcare Representative,Medical,4,11435,4,2,0,3,3,3,3,No,Non-Travel,4,No
+EMP0572,52,Female,Research & Development,Laboratory Technician,Life Sciences,2,9631,2,3,0,2,2,3,3,Yes,Travel_Rarely,7,No
+EMP0573,55,Male,Research & Development,Laboratory Technician,Marketing,3,10029,1,0,0,1,1,3,3,No,Travel_Rarely,13,No
+EMP0574,20,Female,Research & Development,Healthcare Representative,Life Sciences,3,10148,2,5,2,1,2,3,3,No,Travel_Frequently,9,No
+EMP0575,59,Male,Research & Development,Research Scientist,Life Sciences,3,12620,2,4,3,4,2,1,4,No,Travel_Rarely,3,No
+EMP0576,23,Male,Human Resources,Manager,Technical Degree,4,7314,5,5,3,3,2,4,3,No,Travel_Rarely,17,No
+EMP0577,36,Male,Sales,Sales Executive,Marketing,2,9085,2,25,8,2,2,4,3,No,Non-Travel,15,No
+EMP0578,20,Male,Human Resources,Manager,Life Sciences,1,6595,3,16,6,2,3,4,3,No,Travel_Rarely,27,Yes
+EMP0579,35,Female,Research & Development,Healthcare Representative,Life Sciences,3,9645,3,1,0,2,3,3,3,No,Travel_Rarely,10,No
+EMP0580,56,Male,Sales,Manager,Life Sciences,3,9906,3,3,1,2,3,3,3,Yes,Travel_Rarely,15,No
+EMP0581,26,Female,Research & Development,Laboratory Technician,Life Sciences,3,6954,3,3,2,3,1,3,3,No,Travel_Rarely,1,No
+EMP0582,29,Female,Human Resources,Human Resources,Life Sciences,2,6762,1,3,1,4,4,1,3,No,Travel_Rarely,28,Yes
+EMP0583,22,Female,Research & Development,Manager,Life Sciences,2,8276,4,11,4,1,3,3,3,No,Travel_Rarely,27,No
+EMP0584,20,Male,Research & Development,Research Scientist,Medical,2,7195,3,5,3,4,1,2,3,No,Non-Travel,22,No
+EMP0585,28,Female,Research & Development,Research Director,Marketing,2,8686,3,5,1,1,4,1,3,No,Travel_Rarely,21,Yes
+EMP0586,47,Male,Sales,Sales Representative,Medical,3,8900,5,13,5,2,2,4,3,Yes,Travel_Rarely,10,No
+EMP0587,21,Male,Sales,Sales Representative,Medical,3,7054,3,11,5,1,3,1,3,No,Non-Travel,7,No
+EMP0588,22,Male,Sales,Sales Representative,Life Sciences,2,8442,3,0,0,1,2,4,3,No,Travel_Rarely,7,No
+EMP0589,18,Male,Sales,Sales Representative,Other,2,7637,5,8,7,4,2,3,3,No,Non-Travel,3,No
+EMP0590,44,Female,Sales,Sales Representative,Technical Degree,2,9512,1,4,3,2,4,4,3,Yes,Travel_Rarely,7,No
+EMP0591,45,Male,Sales,Sales Executive,Technical Degree,2,10303,2,2,1,1,2,1,3,No,Travel_Rarely,9,Yes
+EMP0592,46,Female,Research & Development,Research Scientist,Technical Degree,3,10564,2,0,0,4,1,3,3,No,Travel_Frequently,8,No
+EMP0593,35,Male,Sales,Sales Representative,Human Resources,4,9957,2,4,2,4,4,3,3,No,Travel_Rarely,3,No
+EMP0594,29,Male,Research & Development,Manager,Medical,2,8452,4,3,2,3,4,4,3,Yes,Non-Travel,26,No
+EMP0595,30,Female,Research & Development,Research Scientist,Life Sciences,3,8556,3,2,1,4,3,3,3,Yes,Travel_Rarely,5,No
+EMP0596,58,Female,Research & Development,Research Director,Medical,4,10099,3,8,3,2,2,2,3,Yes,Travel_Rarely,13,No
+EMP0597,19,Male,Research & Development,Healthcare Representative,Marketing,4,7676,5,10,3,4,1,4,3,No,Travel_Frequently,13,No
+EMP0598,54,Male,Sales,Manager,Marketing,2,11091,2,1,0,3,4,3,3,Yes,Travel_Rarely,8,No
+EMP0599,33,Male,Sales,Manager,Medical,4,9679,3,0,0,4,1,1,3,No,Travel_Rarely,18,No
+EMP0600,41,Male,Sales,Manager,Life Sciences,2,10048,2,13,11,3,1,3,3,No,Non-Travel,7,No
+EMP0601,52,Female,Sales,Sales Representative,Life Sciences,2,8724,2,0,0,2,3,3,3,No,Travel_Rarely,27,No
+EMP0602,39,Female,Sales,Manager,Human Resources,1,9986,1,19,18,3,1,2,3,No,Travel_Rarely,10,No
+EMP0603,53,Male,Sales,Sales Executive,Medical,2,8769,4,6,3,2,1,3,3,No,Travel_Rarely,10,No
+EMP0604,28,Female,Sales,Sales Representative,Medical,1,8958,2,2,1,2,2,1,3,No,Non-Travel,23,Yes
+EMP0605,46,Male,Sales,Manager,Life Sciences,2,9385,3,1,0,1,1,3,4,No,Travel_Frequently,11,No
+EMP0606,52,Male,Research & Development,Manager,Life Sciences,2,11222,2,0,0,4,1,4,3,Yes,Non-Travel,12,No
+EMP0607,32,Male,Sales,Sales Representative,Human Resources,3,7494,1,1,0,2,1,3,4,Yes,Travel_Rarely,13,No
+EMP0608,48,Female,Research & Development,Healthcare Representative,Medical,4,11276,2,1,0,3,2,3,3,No,Travel_Rarely,8,No
+EMP0609,59,Male,Research & Development,Laboratory Technician,Marketing,2,10048,2,6,4,2,3,1,4,No,Non-Travel,17,No
+EMP0610,58,Male,Research & Development,Manager,Medical,4,10605,5,1,0,4,4,2,3,Yes,Non-Travel,24,No
+EMP0611,33,Male,Sales,Sales Representative,Medical,4,7841,1,5,4,2,2,2,3,No,Travel_Rarely,14,No
+EMP0612,27,Male,Research & Development,Manager,Life Sciences,3,7256,5,6,2,3,3,3,3,No,Travel_Rarely,17,No
+EMP0613,49,Female,Research & Development,Manager,Marketing,1,10495,5,2,0,4,1,3,3,Yes,Non-Travel,19,No
+EMP0614,19,Male,Sales,Sales Representative,Medical,3,8964,5,0,0,2,1,4,3,No,Travel_Rarely,16,No
+EMP0615,41,Male,Research & Development,Research Director,Medical,4,11913,2,0,0,2,2,1,3,Yes,Travel_Rarely,9,No
+EMP0616,40,Female,Human Resources,Manager,Medical,3,8777,5,0,0,3,3,3,4,No,Travel_Rarely,20,No
+EMP0617,19,Female,Sales,Sales Executive,Human Resources,2,8413,2,9,5,4,3,3,3,No,Non-Travel,10,No
+EMP0618,55,Female,Sales,Sales Executive,Life Sciences,2,10585,1,2,1,3,3,3,3,No,Non-Travel,29,No
+EMP0619,48,Male,Research & Development,Research Director,Technical Degree,3,10739,1,11,4,2,2,4,3,No,Travel_Rarely,9,No
+EMP0620,57,Male,Research & Development,Research Scientist,Life Sciences,2,10786,4,3,2,4,1,2,4,No,Travel_Rarely,1,No
+EMP0621,43,Male,Sales,Manager,Medical,1,9596,1,4,2,2,3,1,3,No,Travel_Rarely,24,No
+EMP0622,46,Male,Sales,Manager,Life Sciences,2,10109,2,5,4,3,2,3,3,No,Travel_Rarely,3,No
+EMP0623,20,Female,Research & Development,Research Director,Life Sciences,3,7637,1,8,5,4,3,3,3,No,Travel_Rarely,11,No
+EMP0624,31,Male,Research & Development,Manager,Medical,4,8918,2,2,0,1,3,1,3,No,Non-Travel,7,No
+EMP0625,42,Male,Research & Development,Healthcare Representative,Life Sciences,1,9813,1,0,0,3,3,2,4,No,Travel_Frequently,18,No
+EMP0626,18,Male,Research & Development,Manager,Medical,4,8601,4,5,1,3,4,2,3,No,Travel_Rarely,13,No
+EMP0627,20,Male,Research & Development,Laboratory Technician,Human Resources,2,7247,2,2,1,4,4,3,3,Yes,Travel_Rarely,23,No
+EMP0628,43,Female,Research & Development,Research Director,Life Sciences,3,9898,4,4,1,1,3,2,3,Yes,Travel_Frequently,23,No
+EMP0629,35,Male,Sales,Sales Representative,Marketing,3,10329,3,7,4,2,3,3,3,No,Travel_Frequently,25,No
+EMP0630,26,Male,Sales,Sales Representative,Life Sciences,3,9011,5,4,2,4,2,3,3,Yes,Travel_Rarely,18,No
+EMP0631,55,Male,Research & Development,Laboratory Technician,Medical,4,11979,2,6,2,1,4,3,3,No,Travel_Rarely,16,No
+EMP0632,40,Male,Research & Development,Healthcare Representative,Life Sciences,2,9719,3,5,2,1,2,4,3,No,Travel_Frequently,24,No
+EMP0633,38,Male,Research & Development,Research Director,Life Sciences,4,9796,2,9,7,4,1,1,3,No,Travel_Rarely,16,No
+EMP0634,18,Female,Research & Development,Research Director,Life Sciences,1,8741,2,8,7,2,2,4,3,No,Travel_Rarely,21,No
+EMP0635,38,Male,Sales,Manager,Life Sciences,3,10288,4,5,1,4,1,3,3,No,Travel_Rarely,10,No
+EMP0636,44,Female,Research & Development,Research Scientist,Life Sciences,3,8458,3,7,2,1,3,4,4,No,Travel_Rarely,9,No
+EMP0637,59,Female,Research & Development,Healthcare Representative,Medical,3,10167,3,14,13,2,3,3,4,Yes,Travel_Rarely,8,No
+EMP0638,23,Female,Sales,Sales Representative,Human Resources,2,8887,3,3,0,3,2,3,3,No,Travel_Rarely,19,No
+EMP0639,53,Female,Sales,Sales Executive,Technical Degree,4,10018,1,3,2,3,1,4,3,Yes,Travel_Rarely,3,No
+EMP0640,45,Male,Research & Development,Research Director,Marketing,2,9562,3,10,3,3,4,4,3,No,Travel_Rarely,27,No
+EMP0641,34,Male,Sales,Sales Representative,Life Sciences,1,7716,1,6,5,3,3,2,3,No,Travel_Rarely,28,No
+EMP0642,57,Male,Research & Development,Laboratory Technician,Life Sciences,3,10615,2,0,0,4,4,2,3,No,Travel_Rarely,26,No
+EMP0643,20,Female,Sales,Sales Representative,Life Sciences,2,6478,3,15,14,2,2,3,3,No,Travel_Rarely,24,No
+EMP0644,29,Female,Research & Development,Manager,Life Sciences,4,10492,5,0,0,2,3,4,3,Yes,Travel_Rarely,9,No
+EMP0645,56,Female,Sales,Manager,Medical,2,10462,1,9,6,1,3,2,3,No,Non-Travel,2,No
+EMP0646,29,Male,Research & Development,Research Director,Medical,2,8773,1,9,3,3,2,3,3,Yes,Travel_Rarely,19,No
+EMP0647,19,Female,Research & Development,Healthcare Representative,Life Sciences,4,8490,1,21,9,2,1,3,3,No,Travel_Rarely,8,No
+EMP0648,39,Male,Research & Development,Manager,Life Sciences,2,10389,2,0,0,2,2,4,3,No,Non-Travel,18,No
+EMP0649,40,Male,Research & Development,Research Director,Technical Degree,2,10456,3,6,4,2,1,3,3,No,Non-Travel,8,Yes
+EMP0650,47,Male,Research & Development,Research Scientist,Marketing,3,11118,4,3,2,1,4,3,3,No,Non-Travel,5,No
+EMP0651,22,Male,Sales,Manager,Life Sciences,2,7255,3,2,1,1,1,4,3,No,Travel_Rarely,6,No
+EMP0652,26,Male,Research & Development,Research Scientist,Human Resources,3,8341,4,0,0,3,2,3,3,Yes,Travel_Rarely,10,No
+EMP0653,38,Male,Research & Development,Laboratory Technician,Other,2,10155,2,5,3,2,2,4,3,No,Travel_Rarely,15,Yes
+EMP0654,28,Male,Research & Development,Research Director,Life Sciences,4,8318,1,4,3,4,2,3,3,No,Travel_Rarely,28,No
+EMP0655,22,Female,Research & Development,Research Scientist,Life Sciences,4,8255,1,0,0,3,3,3,3,No,Travel_Rarely,4,No
+EMP0656,52,Female,Sales,Manager,Medical,3,10479,4,6,3,1,1,2,3,No,Travel_Rarely,3,No
+EMP0657,44,Female,Sales,Manager,Other,1,10148,3,9,8,3,3,2,4,No,Travel_Rarely,24,No
+EMP0658,19,Male,Research & Development,Healthcare Representative,Technical Degree,4,6597,3,10,8,1,2,4,3,No,Travel_Rarely,9,No
+EMP0659,41,Female,Research & Development,Research Scientist,Life Sciences,3,10351,2,16,7,3,3,3,3,Yes,Travel_Rarely,16,No
+EMP0660,48,Female,Research & Development,Research Director,Life Sciences,3,10153,2,3,2,4,3,3,3,No,Travel_Rarely,29,No
+EMP0661,50,Male,Research & Development,Manager,Medical,2,11065,5,21,7,3,4,2,3,No,Travel_Rarely,16,No
+EMP0662,56,Male,Human Resources,Human Resources,Medical,4,10601,1,14,12,3,4,3,4,No,Non-Travel,15,No
+EMP0663,47,Male,Research & Development,Research Scientist,Life Sciences,3,11546,3,2,0,2,3,3,3,No,Travel_Frequently,24,No
+EMP0664,54,Male,Sales,Sales Representative,Technical Degree,1,11402,2,1,0,2,2,3,3,No,Travel_Rarely,9,No
+EMP0665,45,Female,Sales,Manager,Medical,2,10677,1,4,2,4,3,2,3,Yes,Travel_Rarely,17,Yes
+EMP0666,48,Female,Sales,Manager,Technical Degree,4,10994,3,3,2,1,3,4,3,No,Travel_Rarely,21,No
+EMP0667,28,Male,Sales,Manager,Technical Degree,1,8473,2,6,5,2,4,4,4,No,Non-Travel,12,No
+EMP0668,40,Female,Sales,Sales Representative,Marketing,4,9225,3,6,5,2,1,2,3,No,Travel_Rarely,23,No
+EMP0669,19,Female,Sales,Manager,Medical,3,8218,3,9,5,3,2,2,3,No,Travel_Frequently,8,No
+EMP0670,57,Female,Sales,Sales Representative,Medical,3,11145,2,4,1,2,3,3,4,No,Travel_Rarely,14,No
+EMP0671,58,Male,Sales,Manager,Life Sciences,2,10392,3,0,0,4,2,3,3,No,Travel_Rarely,27,No
+EMP0672,44,Female,Research & Development,Research Scientist,Medical,2,10343,2,13,9,1,2,3,3,Yes,Travel_Rarely,18,Yes
+EMP0673,52,Male,Sales,Sales Representative,Life Sciences,4,10131,2,2,1,2,2,3,3,No,Travel_Rarely,12,No
+EMP0674,19,Male,Research & Development,Manager,Marketing,2,7336,3,24,12,3,3,3,3,Yes,Travel_Rarely,27,No
+EMP0675,56,Male,Research & Development,Research Scientist,Life Sciences,3,12012,2,0,0,2,4,3,3,Yes,Travel_Rarely,14,No
+EMP0676,54,Male,Human Resources,Manager,Life Sciences,2,9864,1,22,11,3,3,2,3,No,Travel_Frequently,20,No
+EMP0677,38,Female,Sales,Sales Executive,Life Sciences,1,10678,4,0,0,1,2,2,3,Yes,Travel_Rarely,23,Yes
+EMP0678,22,Male,Research & Development,Laboratory Technician,Life Sciences,1,6959,2,1,0,1,1,3,4,No,Travel_Rarely,5,No
+EMP0679,38,Male,Human Resources,Manager,Marketing,2,8094,4,0,0,1,1,1,3,No,Travel_Rarely,1,No
+EMP0680,46,Male,Research & Development,Healthcare Representative,Marketing,5,10206,4,8,5,4,3,4,3,No,Travel_Rarely,13,No
+EMP0681,37,Female,Research & Development,Manager,Medical,2,10369,2,13,6,3,3,4,3,No,Travel_Rarely,14,No
+EMP0682,55,Male,Sales,Manager,Life Sciences,2,10719,2,3,2,3,2,4,3,No,Travel_Rarely,2,No
+EMP0683,37,Female,Sales,Sales Executive,Life Sciences,2,9208,2,18,12,2,3,4,3,No,Non-Travel,16,No
+EMP0684,42,Male,Research & Development,Manager,Life Sciences,2,8958,2,6,2,3,3,3,4,No,Travel_Frequently,5,No
+EMP0685,19,Male,Human Resources,Manager,Life Sciences,2,6094,4,6,4,3,2,4,3,Yes,Travel_Rarely,22,No
+EMP0686,49,Male,Research & Development,Research Scientist,Human Resources,4,10678,3,13,7,4,2,2,4,No,Non-Travel,1,No
+EMP0687,43,Male,Research & Development,Healthcare Representative,Life Sciences,2,8848,1,2,1,3,4,1,3,No,Travel_Rarely,12,No
+EMP0688,23,Male,Sales,Sales Executive,Life Sciences,2,7414,3,3,1,3,2,4,3,No,Travel_Rarely,19,No
+EMP0689,58,Male,Research & Development,Healthcare Representative,Life Sciences,1,11540,5,16,12,1,3,1,3,Yes,Travel_Frequently,22,Yes
+EMP0690,20,Female,Sales,Sales Executive,Life Sciences,5,6814,2,16,5,3,2,4,3,Yes,Travel_Frequently,22,Yes
+EMP0691,50,Female,Research & Development,Healthcare Representative,Medical,2,11784,3,26,15,2,4,3,3,No,Travel_Rarely,23,No
+EMP0692,18,Male,Research & Development,Laboratory Technician,Medical,1,8919,3,16,15,4,3,4,3,No,Non-Travel,10,No
+EMP0693,22,Male,Research & Development,Healthcare Representative,Life Sciences,3,7002,2,0,0,2,3,2,3,No,Travel_Frequently,12,No
+EMP0694,30,Female,Sales,Sales Representative,Life Sciences,3,7654,2,12,4,2,4,3,4,No,Travel_Rarely,19,No
+EMP0695,36,Male,Sales,Sales Representative,Life Sciences,2,7051,3,3,1,2,4,1,3,No,Travel_Rarely,16,No
+EMP0696,29,Male,Research & Development,Healthcare Representative,Life Sciences,2,8193,2,32,16,2,3,4,3,No,Travel_Rarely,17,No
+EMP0697,42,Female,Sales,Sales Executive,Life Sciences,3,9973,2,4,3,1,2,2,3,Yes,Travel_Rarely,13,Yes
+EMP0698,52,Female,Research & Development,Manager,Other,2,10328,3,5,4,4,2,3,3,No,Travel_Rarely,7,No
+EMP0699,29,Male,Sales,Sales Executive,Medical,4,8688,3,5,4,3,3,2,3,Yes,Travel_Rarely,28,No
+EMP0700,47,Male,Research & Development,Research Director,Medical,3,9042,2,2,1,4,3,1,3,No,Non-Travel,27,No
+EMP0701,22,Male,Research & Development,Research Scientist,Medical,2,8898,1,0,0,4,1,3,3,No,Non-Travel,3,No
+EMP0702,51,Female,Sales,Sales Executive,Medical,2,9635,2,15,9,2,1,2,3,No,Travel_Rarely,5,No
+EMP0703,39,Male,Research & Development,Laboratory Technician,Medical,2,9629,2,11,4,3,3,4,4,No,Travel_Rarely,4,No
+EMP0704,56,Male,Sales,Sales Executive,Marketing,3,10405,2,1,0,1,2,2,4,Yes,Travel_Rarely,28,No
+EMP0705,30,Male,Sales,Sales Representative,Marketing,2,7382,2,10,9,4,3,3,3,No,Non-Travel,15,No
+EMP0706,20,Male,Human Resources,Manager,Life Sciences,2,6177,1,6,5,2,3,3,3,No,Travel_Frequently,17,No
+EMP0707,37,Female,Research & Development,Research Director,Medical,3,10234,2,3,2,2,3,2,3,No,Travel_Rarely,12,No
+EMP0708,48,Female,Research & Development,Laboratory Technician,Medical,5,10659,2,2,1,2,1,3,3,No,Travel_Frequently,23,No
+EMP0709,22,Female,Sales,Manager,Technical Degree,2,8600,2,13,12,2,1,4,3,No,Travel_Rarely,14,No
+EMP0710,41,Male,Research & Development,Research Scientist,Medical,4,10039,2,8,4,2,2,2,3,Yes,Non-Travel,29,No
+EMP0711,57,Male,Research & Development,Research Scientist,Medical,2,11174,2,5,2,2,2,1,3,No,Travel_Rarely,4,No
+EMP0712,50,Male,Research & Development,Research Director,Life Sciences,1,9119,4,6,5,3,3,2,3,Yes,Non-Travel,17,No
+EMP0713,25,Male,Research & Development,Research Scientist,Medical,2,8283,1,0,0,4,3,3,3,No,Travel_Frequently,11,No
+EMP0714,41,Female,Research & Development,Research Director,Life Sciences,2,9758,3,4,2,2,2,3,3,No,Travel_Rarely,6,No
+EMP0715,37,Male,Research & Development,Research Director,Life Sciences,2,11022,4,1,0,2,1,3,3,No,Travel_Rarely,4,No
+EMP0716,33,Male,Human Resources,Manager,Life Sciences,1,8689,2,1,0,4,1,4,3,No,Travel_Rarely,13,No
+EMP0717,29,Male,Research & Development,Research Scientist,Marketing,4,10048,4,7,2,1,4,1,3,Yes,Travel_Frequently,20,Yes
+EMP0718,30,Female,Human Resources,Human Resources,Life Sciences,4,8378,1,16,15,4,2,3,3,No,Travel_Rarely,15,No
+EMP0719,59,Male,Sales,Sales Executive,Life Sciences,3,10150,2,3,1,2,4,3,4,Yes,Travel_Rarely,18,No
+EMP0720,56,Male,Research & Development,Research Director,Human Resources,2,11073,2,1,0,3,4,3,3,Yes,Travel_Rarely,17,No
+EMP0721,42,Male,Human Resources,Human Resources,Life Sciences,1,9048,1,7,3,3,3,4,3,No,Travel_Rarely,19,Yes
+EMP0722,49,Female,Sales,Sales Representative,Medical,1,9168,2,14,9,3,3,3,4,Yes,Non-Travel,10,No
+EMP0723,41,Male,Sales,Sales Representative,Medical,3,8972,2,9,2,4,2,4,3,Yes,Travel_Rarely,5,No
+EMP0724,26,Female,Research & Development,Research Director,Life Sciences,4,8415,3,14,11,1,3,2,4,No,Travel_Rarely,12,No
+EMP0725,57,Female,Research & Development,Healthcare Representative,Technical Degree,2,12344,4,5,3,2,2,1,3,No,Non-Travel,25,Yes
+EMP0726,40,Male,Research & Development,Research Director,Life Sciences,1,8035,1,9,6,3,4,2,3,Yes,Travel_Frequently,15,No
+EMP0727,30,Female,Sales,Sales Representative,Medical,2,9364,2,1,0,4,1,3,3,No,Travel_Rarely,23,No
+EMP0728,49,Male,Research & Development,Laboratory Technician,Medical,2,9670,2,2,0,2,3,2,3,No,Travel_Rarely,4,No
+EMP0729,32,Female,Sales,Sales Representative,Medical,2,7462,2,3,1,4,1,1,3,No,Travel_Rarely,8,No
+EMP0730,53,Male,Sales,Manager,Marketing,3,11183,3,5,2,2,4,3,3,No,Travel_Rarely,28,No
+EMP0731,22,Male,Sales,Sales Representative,Life Sciences,3,8345,2,18,13,1,2,3,3,No,Non-Travel,20,Yes
+EMP0732,39,Male,Research & Development,Research Scientist,Life Sciences,1,10623,1,14,9,3,3,2,3,No,Travel_Rarely,22,No
+EMP0733,33,Male,Research & Development,Manager,Marketing,1,9780,3,1,0,1,3,2,3,No,Travel_Rarely,28,No
+EMP0734,58,Female,Research & Development,Research Director,Medical,5,12787,4,1,0,3,2,4,3,Yes,Travel_Rarely,17,No
+EMP0735,27,Male,Research & Development,Research Scientist,Technical Degree,2,9106,2,3,1,1,3,2,3,No,Travel_Rarely,6,No
+EMP0736,41,Female,Research & Development,Manager,Technical Degree,1,9654,2,2,0,2,4,4,3,No,Travel_Rarely,16,No
+EMP0737,35,Male,Research & Development,Research Director,Technical Degree,2,9574,1,6,2,3,1,3,3,No,Non-Travel,26,No
+EMP0738,35,Female,Research & Development,Healthcare Representative,Medical,1,10294,1,16,14,3,4,3,3,Yes,Travel_Frequently,5,No
+EMP0739,24,Male,Research & Development,Research Director,Life Sciences,2,7796,1,22,16,2,3,2,3,No,Travel_Rarely,14,No
+EMP0740,21,Male,Research & Development,Laboratory Technician,Technical Degree,3,7658,2,7,3,2,4,3,3,No,Travel_Rarely,2,No
+EMP0741,43,Male,Research & Development,Laboratory Technician,Medical,2,9692,4,12,5,2,2,3,3,No,Travel_Rarely,17,No
+EMP0742,22,Female,Research & Development,Healthcare Representative,Life Sciences,2,6576,2,5,4,2,3,3,3,No,Travel_Rarely,29,No
+EMP0743,33,Male,Research & Development,Research Scientist,Technical Degree,3,9250,1,1,0,4,4,2,3,No,Travel_Frequently,6,No
+EMP0744,52,Male,Research & Development,Manager,Human Resources,2,9151,2,5,3,4,2,2,3,Yes,Non-Travel,11,No
+EMP0745,43,Male,Sales,Sales Representative,Medical,4,9482,2,5,2,1,3,4,3,No,Non-Travel,2,No
+EMP0746,35,Female,Research & Development,Research Scientist,Life Sciences,4,9992,3,9,4,1,1,3,3,No,Travel_Rarely,25,No
+EMP0747,46,Male,Research & Development,Healthcare Representative,Life Sciences,1,9798,2,1,0,4,1,3,3,Yes,Travel_Rarely,25,No
+EMP0748,40,Male,Research & Development,Laboratory Technician,Technical Degree,3,11041,2,3,2,3,3,3,3,No,Non-Travel,1,No
+EMP0749,31,Male,Human Resources,Manager,Human Resources,2,6811,2,3,1,3,3,4,3,No,Travel_Rarely,5,No
+EMP0750,32,Female,Research & Development,Healthcare Representative,Life Sciences,5,10013,1,22,19,3,3,3,3,No,Travel_Rarely,8,No
+EMP0751,50,Female,Sales,Manager,Life Sciences,2,10540,1,4,3,2,1,3,3,No,Travel_Rarely,4,No
+EMP0752,42,Male,Human Resources,Manager,Technical Degree,5,7487,1,9,4,2,2,4,4,Yes,Non-Travel,19,No
+EMP0753,38,Male,Research & Development,Manager,Life Sciences,3,11708,2,9,5,4,2,4,3,Yes,Travel_Frequently,5,No
+EMP0754,34,Male,Research & Development,Laboratory Technician,Medical,2,9169,1,2,0,3,3,2,3,Yes,Travel_Rarely,5,No
+EMP0755,40,Male,Sales,Sales Representative,Other,2,8498,2,5,1,1,4,2,3,No,Non-Travel,24,Yes
+EMP0756,34,Male,Research & Development,Research Director,Life Sciences,5,8094,3,15,12,1,3,4,4,No,Non-Travel,16,Yes
+EMP0757,31,Female,Research & Development,Research Scientist,Medical,4,8803,3,4,1,2,1,4,3,No,Travel_Rarely,22,No
+EMP0758,46,Male,Research & Development,Manager,Life Sciences,1,10078,3,20,17,3,4,3,3,No,Travel_Rarely,18,No
+EMP0759,37,Female,Research & Development,Laboratory Technician,Life Sciences,3,9542,4,1,0,2,3,3,3,Yes,Travel_Rarely,11,No
+EMP0760,47,Male,Research & Development,Manager,Technical Degree,2,10021,2,0,0,1,3,3,3,Yes,Travel_Rarely,17,No
+EMP0761,36,Female,Sales,Sales Representative,Medical,1,9386,4,15,9,4,1,3,3,No,Travel_Rarely,29,No
+EMP0762,56,Male,Research & Development,Manager,Other,2,10669,2,13,11,1,3,3,3,Yes,Travel_Rarely,3,No
+EMP0763,30,Male,Sales,Manager,Medical,2,6852,2,34,28,1,2,2,3,Yes,Non-Travel,18,No
+EMP0764,35,Male,Research & Development,Laboratory Technician,Life Sciences,3,9180,2,7,5,2,2,4,3,No,Travel_Rarely,4,No
+EMP0765,40,Male,Sales,Sales Executive,Life Sciences,2,7306,1,19,10,2,1,4,3,No,Travel_Rarely,19,No
+EMP0766,50,Male,Research & Development,Research Scientist,Life Sciences,4,10783,5,12,7,2,1,3,3,No,Non-Travel,9,No
+EMP0767,56,Female,Research & Development,Healthcare Representative,Life Sciences,1,10196,1,13,9,4,1,2,3,No,Travel_Rarely,5,No
+EMP0768,57,Female,Research & Development,Healthcare Representative,Life Sciences,2,11190,2,5,4,4,2,2,3,No,Travel_Rarely,4,No
+EMP0769,35,Male,Research & Development,Research Scientist,Life Sciences,2,10351,2,3,1,2,1,3,4,No,Travel_Frequently,16,No
+EMP0770,26,Male,Research & Development,Manager,Medical,2,7821,1,19,17,2,3,3,3,Yes,Non-Travel,10,No
+EMP0771,50,Male,Sales,Sales Executive,Marketing,1,10849,1,3,1,3,1,3,3,No,Travel_Frequently,9,No
+EMP0772,49,Male,Research & Development,Manager,Medical,2,10073,1,5,4,2,3,3,4,Yes,Travel_Rarely,16,No
+EMP0773,34,Male,Sales,Sales Executive,Marketing,3,10122,2,4,3,1,1,3,3,Yes,Travel_Rarely,20,No
+EMP0774,36,Female,Research & Development,Research Scientist,Life Sciences,2,9087,4,5,3,4,4,4,3,Yes,Travel_Rarely,22,Yes
+EMP0775,44,Female,Research & Development,Laboratory Technician,Life Sciences,2,9347,2,4,2,1,4,1,3,No,Non-Travel,26,No
+EMP0776,23,Female,Sales,Sales Executive,Medical,2,8389,1,0,0,1,2,3,4,No,Travel_Frequently,17,No
+EMP0777,52,Male,Sales,Manager,Medical,4,9811,3,14,6,2,3,4,3,No,Travel_Rarely,29,No
+EMP0778,54,Female,Research & Development,Laboratory Technician,Life Sciences,4,10146,5,4,1,3,1,3,3,No,Non-Travel,18,No
+EMP0779,51,Female,Research & Development,Research Scientist,Technical Degree,2,10197,1,6,2,1,4,3,3,No,Non-Travel,15,No
+EMP0780,37,Male,Research & Development,Research Scientist,Marketing,2,9424,2,1,0,1,3,3,4,No,Non-Travel,20,No
+EMP0781,42,Male,Research & Development,Research Scientist,Medical,1,10933,5,0,0,2,1,4,3,No,Travel_Rarely,9,No
+EMP0782,21,Female,Research & Development,Manager,Life Sciences,4,6632,1,1,0,3,2,1,4,No,Travel_Rarely,6,No
+EMP0783,27,Male,Sales,Sales Executive,Marketing,1,8178,2,8,2,2,1,3,3,No,Travel_Rarely,6,No
+EMP0784,27,Male,Research & Development,Laboratory Technician,Medical,2,9159,1,0,0,2,2,1,3,No,Travel_Rarely,11,No
+EMP0785,41,Male,Sales,Sales Representative,Marketing,2,9434,4,16,11,3,3,2,3,No,Travel_Rarely,25,No
+EMP0786,38,Male,Human Resources,Human Resources,Marketing,2,9587,5,1,0,4,2,3,3,Yes,Travel_Rarely,28,No
+EMP0787,28,Male,Research & Development,Research Scientist,Technical Degree,2,8680,3,1,0,2,2,2,3,No,Non-Travel,20,No
+EMP0788,44,Female,Research & Development,Research Scientist,Medical,3,9872,2,1,0,1,1,4,4,No,Travel_Rarely,3,No
+EMP0789,33,Female,Research & Development,Research Scientist,Life Sciences,1,9613,2,0,0,2,2,4,3,No,Non-Travel,23,No
+EMP0790,43,Female,Human Resources,Manager,Medical,3,9019,1,10,7,3,1,3,4,No,Travel_Frequently,12,No
+EMP0791,47,Male,Sales,Sales Representative,Medical,1,9447,4,14,4,1,4,3,3,No,Travel_Rarely,15,No
+EMP0792,33,Female,Research & Development,Laboratory Technician,Marketing,1,9552,4,6,1,2,1,3,3,No,Travel_Frequently,7,No
+EMP0793,24,Male,Research & Development,Research Scientist,Life Sciences,4,7897,2,1,0,1,3,4,3,No,Travel_Rarely,25,No
+EMP0794,33,Male,Research & Development,Laboratory Technician,Life Sciences,2,8651,3,2,0,1,2,3,3,No,Travel_Rarely,22,No
+EMP0795,52,Male,Sales,Sales Executive,Human Resources,4,9737,1,4,2,2,2,1,3,No,Travel_Rarely,18,No
+EMP0796,33,Male,Research & Development,Manager,Marketing,2,10222,2,21,13,2,3,4,3,No,Travel_Rarely,22,No
+EMP0797,57,Male,Human Resources,Manager,Human Resources,1,7483,3,1,0,4,2,4,3,Yes,Travel_Rarely,15,No
+EMP0798,29,Male,Research & Development,Research Scientist,Marketing,4,9136,2,9,6,3,2,3,3,No,Travel_Rarely,8,No
+EMP0799,52,Male,Research & Development,Laboratory Technician,Medical,2,10687,2,4,2,2,3,4,3,No,Travel_Frequently,22,No
+EMP0800,38,Male,Human Resources,Manager,Medical,4,7195,1,2,1,2,3,4,4,No,Travel_Rarely,9,Yes
+EMP0801,53,Female,Research & Development,Laboratory Technician,Human Resources,2,10987,3,4,1,3,2,3,3,Yes,Non-Travel,15,No
+EMP0802,34,Male,Sales,Manager,Medical,4,9100,4,0,0,1,3,3,3,No,Travel_Rarely,16,Yes
+EMP0803,49,Female,Research & Development,Manager,Medical,1,10891,5,11,6,4,3,4,3,Yes,Travel_Frequently,20,No
+EMP0804,58,Male,Research & Development,Research Director,Life Sciences,2,9018,3,1,0,4,1,2,3,Yes,Travel_Rarely,3,Yes
+EMP0805,23,Male,Research & Development,Research Director,Medical,3,9433,2,9,5,1,2,2,3,No,Travel_Rarely,27,No
+EMP0806,41,Female,Research & Development,Healthcare Representative,Marketing,4,9189,2,0,0,1,1,2,4,No,Travel_Rarely,5,No
+EMP0807,44,Male,Human Resources,Manager,Life Sciences,4,9569,5,21,14,1,1,4,3,Yes,Travel_Rarely,3,No
+EMP0808,37,Male,Human Resources,Human Resources,Life Sciences,3,9052,2,1,0,3,3,4,3,No,Travel_Rarely,27,No
+EMP0809,42,Female,Research & Development,Healthcare Representative,Life Sciences,4,9158,3,15,8,3,4,2,3,No,Travel_Rarely,28,No
+EMP0810,19,Male,Sales,Manager,Life Sciences,2,8048,3,11,8,4,4,4,3,Yes,Travel_Rarely,2,No
+EMP0811,26,Female,Human Resources,Human Resources,Life Sciences,2,7271,4,24,21,3,1,4,3,No,Travel_Rarely,2,No
+EMP0812,45,Male,Research & Development,Manager,Medical,2,8442,1,4,3,2,2,4,3,No,Travel_Frequently,4,No
+EMP0813,55,Male,Sales,Sales Representative,Human Resources,2,11334,1,9,6,3,3,1,3,No,Travel_Rarely,3,No
+EMP0814,20,Male,Human Resources,Human Resources,Medical,2,6479,3,3,1,3,1,3,4,No,Travel_Frequently,9,No
+EMP0815,37,Male,Research & Development,Research Director,Life Sciences,2,8776,4,1,0,3,3,3,3,No,Travel_Rarely,23,Yes
+EMP0816,23,Female,Research & Development,Research Director,Life Sciences,1,8017,3,4,3,2,3,3,3,Yes,Travel_Rarely,22,No
+EMP0817,56,Female,Research & Development,Manager,Marketing,3,11197,2,1,0,3,4,3,3,No,Travel_Rarely,26,No
+EMP0818,50,Male,Research & Development,Research Director,Life Sciences,2,10454,2,28,27,3,1,4,3,Yes,Travel_Rarely,12,No
+EMP0819,18,Male,Sales,Sales Representative,Technical Degree,2,7878,3,0,0,3,2,3,3,No,Travel_Frequently,24,Yes
+EMP0820,54,Female,Research & Development,Healthcare Representative,Medical,2,9748,3,6,4,3,4,4,3,Yes,Non-Travel,9,No
+EMP0821,23,Male,Research & Development,Manager,Technical Degree,3,7746,2,6,1,3,3,2,4,No,Travel_Rarely,19,No
+EMP0822,51,Male,Sales,Sales Executive,Life Sciences,3,9987,2,5,3,3,4,2,3,No,Travel_Frequently,12,No
+EMP0823,32,Male,Research & Development,Laboratory Technician,Marketing,3,10578,4,7,4,3,1,1,3,No,Travel_Rarely,16,No
+EMP0824,43,Male,Research & Development,Research Director,Life Sciences,1,9848,2,0,0,3,3,3,3,No,Travel_Rarely,26,No
+EMP0825,31,Female,Research & Development,Laboratory Technician,Human Resources,2,9848,3,5,2,2,3,3,3,No,Travel_Rarely,23,No
+EMP0826,24,Female,Human Resources,Human Resources,Medical,1,7450,1,2,1,2,1,4,4,No,Travel_Rarely,25,No
+EMP0827,48,Male,Research & Development,Laboratory Technician,Life Sciences,2,9953,2,19,13,1,3,3,4,No,Travel_Rarely,1,No
+EMP0828,41,Male,Research & Development,Research Scientist,Life Sciences,2,9582,4,10,5,3,3,3,4,Yes,Travel_Rarely,10,No
+EMP0829,48,Male,Research & Development,Healthcare Representative,Life Sciences,1,10205,1,25,8,3,2,3,3,Yes,Travel_Rarely,25,No
+EMP0830,46,Male,Research & Development,Research Director,Marketing,2,10662,2,0,0,4,2,1,3,No,Travel_Rarely,23,No
+EMP0831,59,Male,Sales,Sales Executive,Life Sciences,4,11819,2,2,1,2,3,2,3,No,Travel_Rarely,10,No
+EMP0832,49,Female,Research & Development,Laboratory Technician,Medical,4,10707,3,1,0,2,2,3,3,Yes,Travel_Rarely,4,No
+EMP0833,34,Male,Sales,Manager,Life Sciences,2,9669,2,0,0,2,4,3,3,Yes,Travel_Rarely,29,No
+EMP0834,31,Male,Sales,Sales Representative,Medical,1,7708,1,1,0,1,2,4,4,Yes,Non-Travel,11,No
+EMP0835,57,Male,Research & Development,Research Director,Technical Degree,2,10728,4,7,5,3,2,3,3,No,Travel_Rarely,28,No
+EMP0836,53,Male,Research & Development,Research Scientist,Marketing,2,10160,2,1,0,2,4,4,4,No,Travel_Rarely,22,No
+EMP0837,41,Male,Human Resources,Human Resources,Marketing,4,9031,1,4,3,3,4,3,4,No,Travel_Rarely,11,No
+EMP0838,44,Female,Research & Development,Laboratory Technician,Life Sciences,1,9732,1,15,10,3,1,4,4,Yes,Non-Travel,11,Yes
+EMP0839,42,Male,Research & Development,Healthcare Representative,Life Sciences,3,10443,5,8,4,2,3,2,3,Yes,Travel_Rarely,22,No
+EMP0840,49,Female,Research & Development,Healthcare Representative,Marketing,1,9675,1,3,1,4,1,3,3,No,Travel_Rarely,6,No
+EMP0841,35,Male,Sales,Sales Executive,Life Sciences,5,8834,3,3,2,2,1,3,3,No,Travel_Frequently,15,No
+EMP0842,35,Male,Research & Development,Healthcare Representative,Medical,2,9849,2,4,1,2,2,4,3,No,Travel_Rarely,2,No
+EMP0843,54,Male,Sales,Manager,Life Sciences,3,8667,4,1,0,4,2,2,3,Yes,Travel_Rarely,21,No
+EMP0844,43,Male,Human Resources,Manager,Life Sciences,2,10637,3,7,5,4,4,3,3,No,Travel_Frequently,23,No
+EMP0845,26,Male,Sales,Sales Representative,Life Sciences,3,7853,2,3,1,1,3,3,3,No,Travel_Rarely,22,No
+EMP0846,52,Male,Research & Development,Research Director,Technical Degree,2,9039,1,13,11,1,4,3,3,No,Travel_Rarely,3,No
+EMP0847,25,Female,Sales,Sales Executive,Life Sciences,1,8126,4,9,3,1,3,2,3,No,Travel_Rarely,27,No
+EMP0848,37,Female,Human Resources,Manager,Medical,4,8486,2,6,5,2,2,1,4,Yes,Travel_Rarely,28,No
+EMP0849,59,Male,Research & Development,Manager,Life Sciences,4,11154,4,3,1,4,3,3,3,No,Travel_Rarely,5,No
+EMP0850,39,Male,Research & Development,Manager,Medical,4,10412,2,1,0,3,4,3,3,No,Travel_Rarely,29,No
+EMP0851,36,Male,Sales,Manager,Life Sciences,3,9477,3,10,9,2,3,2,3,No,Travel_Rarely,24,No
+EMP0852,47,Male,Research & Development,Research Scientist,Human Resources,3,10498,1,4,2,4,3,2,3,No,Travel_Frequently,11,No
+EMP0853,45,Male,Sales,Manager,Human Resources,1,9960,3,1,0,2,4,1,3,Yes,Travel_Frequently,21,No
+EMP0854,52,Female,Research & Development,Laboratory Technician,Life Sciences,2,10576,2,1,0,2,1,4,3,No,Travel_Rarely,12,No
+EMP0855,28,Male,Sales,Sales Representative,Human Resources,2,9660,2,1,0,4,3,3,4,No,Travel_Rarely,26,No
+EMP0856,48,Male,Sales,Sales Representative,Other,3,8656,1,10,6,4,4,4,3,No,Non-Travel,3,No
+EMP0857,56,Male,Sales,Sales Representative,Technical Degree,2,10591,1,1,0,4,4,3,3,Yes,Travel_Rarely,9,No
+EMP0858,53,Male,Research & Development,Healthcare Representative,Technical Degree,1,10792,1,5,4,3,2,4,3,Yes,Travel_Rarely,27,No
+EMP0859,47,Female,Research & Development,Manager,Life Sciences,3,10910,2,4,2,3,3,3,3,Yes,Travel_Rarely,3,No
+EMP0860,40,Male,Sales,Manager,Medical,3,8524,4,6,3,1,3,3,3,Yes,Travel_Rarely,2,Yes
+EMP0861,36,Male,Research & Development,Healthcare Representative,Life Sciences,2,7985,2,14,9,3,2,3,3,No,Travel_Rarely,6,No
+EMP0862,29,Female,Research & Development,Laboratory Technician,Life Sciences,1,8945,3,14,10,4,3,4,4,Yes,Travel_Rarely,24,Yes
+EMP0863,32,Male,Research & Development,Healthcare Representative,Other,2,9284,1,4,1,2,2,3,3,No,Non-Travel,6,No
+EMP0864,48,Female,Research & Development,Research Scientist,Life Sciences,2,11531,2,0,0,3,2,2,3,Yes,Travel_Rarely,17,No
+EMP0865,54,Male,Research & Development,Research Director,Marketing,2,9803,2,3,1,3,2,2,3,No,Travel_Rarely,8,No
+EMP0866,54,Male,Research & Development,Research Scientist,Technical Degree,3,11743,5,6,2,1,3,3,3,No,Travel_Rarely,1,No
+EMP0867,32,Female,Sales,Manager,Technical Degree,3,10453,4,5,2,3,2,3,3,No,Travel_Frequently,25,No
+EMP0868,46,Male,Sales,Sales Executive,Other,3,9377,2,7,4,1,3,1,3,No,Travel_Rarely,8,Yes
+EMP0869,43,Male,Research & Development,Research Director,Life Sciences,2,8907,3,1,0,3,2,3,3,No,Travel_Rarely,22,No
+EMP0870,19,Male,Human Resources,Manager,Life Sciences,4,6694,1,7,4,1,1,3,3,No,Travel_Rarely,15,No
+EMP0871,37,Male,Research & Development,Healthcare Representative,Medical,2,9471,2,1,0,4,1,4,3,No,Travel_Rarely,18,No
+EMP0872,32,Female,Sales,Sales Executive,Life Sciences,2,9011,1,9,3,2,2,1,3,No,Travel_Rarely,13,No
+EMP0873,21,Female,Research & Development,Research Director,Life Sciences,3,7706,2,2,1,2,3,3,3,No,Travel_Rarely,25,No
+EMP0874,39,Female,Research & Development,Healthcare Representative,Life Sciences,2,10864,1,8,3,1,3,4,3,Yes,Travel_Rarely,8,Yes
+EMP0875,55,Female,Sales,Sales Executive,Marketing,1,9508,3,0,0,4,1,3,3,No,Travel_Rarely,29,No
+EMP0876,40,Male,Sales,Manager,Medical,4,7808,2,3,2,3,1,2,3,Yes,Non-Travel,20,No
+EMP0877,43,Male,Research & Development,Research Scientist,Life Sciences,2,10825,3,8,3,3,3,4,3,No,Travel_Rarely,18,No
+EMP0878,28,Male,Research & Development,Manager,Medical,3,6920,2,1,0,3,2,3,3,No,Travel_Rarely,13,No
+EMP0879,45,Male,Sales,Manager,Life Sciences,1,9436,1,11,6,2,4,3,3,No,Travel_Rarely,14,No
+EMP0880,19,Male,Sales,Sales Executive,Life Sciences,3,10014,3,6,5,1,3,4,3,No,Non-Travel,15,Yes
+EMP0881,25,Female,Sales,Sales Executive,Marketing,2,7990,4,6,5,3,2,4,3,No,Travel_Rarely,6,No
+EMP0882,46,Male,Research & Development,Manager,Medical,1,9283,4,3,2,2,2,3,4,No,Travel_Rarely,1,No
+EMP0883,28,Male,Sales,Sales Representative,Marketing,3,8194,2,4,2,4,3,2,3,No,Travel_Rarely,7,No
+EMP0884,54,Male,Sales,Sales Representative,Life Sciences,2,10279,3,6,5,3,1,2,3,No,Travel_Rarely,1,No
+EMP0885,35,Female,Research & Development,Laboratory Technician,Technical Degree,2,9428,3,4,1,2,1,1,4,No,Non-Travel,15,No
+EMP0886,31,Female,Sales,Manager,Medical,1,9009,1,8,2,1,1,1,4,No,Travel_Rarely,29,No
+EMP0887,27,Female,Research & Development,Healthcare Representative,Medical,1,7828,1,3,2,3,3,3,3,Yes,Travel_Frequently,6,No
+EMP0888,52,Male,Sales,Manager,Medical,2,11510,1,1,0,1,3,4,3,No,Travel_Rarely,5,No
+EMP0889,26,Female,Sales,Manager,Technical Degree,1,8276,2,1,0,1,1,4,3,No,Travel_Rarely,12,No
+EMP0890,52,Male,Sales,Sales Executive,Medical,4,10741,2,0,0,2,3,3,3,No,Travel_Rarely,26,No
+EMP0891,28,Female,Research & Development,Research Scientist,Medical,1,8237,5,2,0,3,2,3,3,No,Travel_Rarely,3,No
+EMP0892,29,Male,Research & Development,Healthcare Representative,Other,2,9849,2,9,3,3,3,1,4,No,Travel_Rarely,22,Yes
+EMP0893,20,Male,Research & Development,Research Scientist,Marketing,1,7894,3,11,4,2,2,2,3,No,Travel_Frequently,20,No
+EMP0894,56,Male,Research & Development,Research Director,Medical,2,11202,3,1,0,1,3,1,3,No,Non-Travel,14,Yes
+EMP0895,31,Female,Research & Development,Research Scientist,Marketing,4,8233,1,22,16,2,4,4,3,Yes,Travel_Rarely,28,No
+EMP0896,45,Male,Sales,Sales Representative,Life Sciences,2,8802,1,4,3,3,1,2,3,Yes,Travel_Rarely,6,No
+EMP0897,28,Female,Sales,Sales Representative,Life Sciences,4,8790,2,17,14,2,2,4,3,Yes,Travel_Rarely,4,No
+EMP0898,56,Male,Research & Development,Manager,Medical,2,10625,3,8,5,2,2,3,3,Yes,Travel_Rarely,15,No
+EMP0899,42,Male,Sales,Manager,Human Resources,3,8676,5,8,6,4,2,2,3,Yes,Travel_Rarely,17,No
+EMP0900,38,Male,Sales,Sales Executive,Human Resources,2,8525,2,0,0,4,2,2,3,Yes,Travel_Rarely,5,Yes
+EMP0901,27,Male,Sales,Sales Executive,Life Sciences,4,8719,4,1,0,4,4,3,4,Yes,Travel_Frequently,24,No
+EMP0902,32,Male,Sales,Sales Executive,Medical,3,8056,2,0,0,4,4,4,4,No,Travel_Rarely,6,No
+EMP0903,36,Male,Sales,Sales Representative,Life Sciences,2,8785,3,8,5,1,2,4,3,Yes,Travel_Rarely,10,No
+EMP0904,39,Female,Research & Development,Laboratory Technician,Other,2,9632,2,2,1,2,3,3,4,No,Travel_Rarely,9,No
+EMP0905,38,Male,Research & Development,Healthcare Representative,Other,2,8006,1,10,9,2,3,3,3,No,Travel_Rarely,4,No
+EMP0906,49,Female,Research & Development,Research Director,Medical,4,9243,1,2,1,2,3,2,3,No,Travel_Rarely,26,No
+EMP0907,40,Male,Research & Development,Research Director,Technical Degree,2,9969,1,11,9,4,2,4,3,No,Travel_Rarely,9,No
+EMP0908,30,Female,Research & Development,Research Scientist,Marketing,2,8310,2,0,0,3,2,4,3,No,Travel_Rarely,8,No
+EMP0909,22,Male,Sales,Manager,Medical,3,8605,3,1,0,3,3,3,3,No,Travel_Rarely,3,Yes
+EMP0910,21,Male,Research & Development,Laboratory Technician,Life Sciences,2,8953,1,2,1,1,2,3,3,Yes,Travel_Rarely,22,No
+EMP0911,45,Male,Research & Development,Research Director,Medical,4,10675,2,3,0,4,4,3,3,No,Non-Travel,20,No
+EMP0912,31,Male,Sales,Sales Executive,Medical,3,9935,2,3,1,4,3,3,3,No,Travel_Rarely,1,No
+EMP0913,25,Female,Research & Development,Manager,Medical,3,8433,3,10,7,1,1,1,3,No,Travel_Rarely,25,Yes
+EMP0914,26,Male,Research & Development,Laboratory Technician,Life Sciences,4,9099,3,0,0,4,1,3,3,No,Travel_Rarely,20,No
+EMP0915,52,Male,Research & Development,Healthcare Representative,Other,1,10192,3,3,2,2,4,4,3,No,Travel_Rarely,27,No
+EMP0916,54,Female,Research & Development,Research Director,Life Sciences,2,12781,2,12,4,1,3,3,4,Yes,Travel_Rarely,5,No
+EMP0917,38,Male,Sales,Sales Representative,Medical,2,10626,2,0,0,3,4,1,3,Yes,Travel_Rarely,3,Yes
+EMP0918,35,Female,Human Resources,Manager,Marketing,2,8309,3,19,15,3,1,4,3,No,Travel_Rarely,4,No
+EMP0919,50,Male,Research & Development,Manager,Marketing,3,10809,1,30,15,1,3,2,3,No,Travel_Rarely,29,Yes
+EMP0920,25,Female,Sales,Sales Representative,Medical,4,9087,2,0,0,2,3,2,3,Yes,Travel_Rarely,25,No
+EMP0921,34,Male,Research & Development,Research Scientist,Life Sciences,2,9102,1,2,1,4,4,2,3,No,Non-Travel,23,No
+EMP0922,48,Male,Research & Development,Manager,Life Sciences,2,9814,3,3,2,3,1,3,3,Yes,Non-Travel,24,Yes
+EMP0923,51,Male,Research & Development,Healthcare Representative,Medical,4,11279,3,10,7,3,2,3,3,No,Non-Travel,19,Yes
+EMP0924,23,Female,Research & Development,Research Director,Medical,2,8402,3,6,3,2,2,3,3,No,Travel_Rarely,15,No
+EMP0925,39,Male,Research & Development,Laboratory Technician,Life Sciences,2,9766,2,7,4,1,4,4,3,No,Travel_Rarely,19,No
+EMP0926,31,Male,Sales,Sales Executive,Marketing,2,7812,1,9,8,2,4,2,3,Yes,Travel_Frequently,16,No
+EMP0927,20,Female,Sales,Manager,Medical,4,6225,4,0,0,2,4,4,3,No,Travel_Rarely,23,No
+EMP0928,29,Female,Research & Development,Laboratory Technician,Medical,3,9008,2,12,7,2,4,2,3,No,Travel_Rarely,8,No
+EMP0929,53,Female,Research & Development,Laboratory Technician,Technical Degree,3,11463,2,8,4,1,1,4,3,Yes,Travel_Rarely,14,Yes
+EMP0930,29,Female,Sales,Manager,Life Sciences,3,8139,2,6,5,3,1,3,3,Yes,Travel_Rarely,5,No
+EMP0931,19,Male,Sales,Sales Executive,Life Sciences,2,8669,1,15,12,2,1,3,4,No,Travel_Rarely,1,No
+EMP0932,19,Male,Research & Development,Research Scientist,Marketing,2,7456,1,8,4,4,2,3,3,No,Travel_Rarely,19,No
+EMP0933,32,Female,Human Resources,Human Resources,Medical,4,7216,2,1,0,1,4,3,3,Yes,Travel_Rarely,5,No
+EMP0934,40,Female,Research & Development,Research Director,Marketing,2,9646,1,3,0,2,4,1,3,No,Travel_Rarely,3,No
+EMP0935,46,Male,Sales,Manager,Technical Degree,3,9613,1,4,2,1,1,4,3,No,Travel_Rarely,17,No
+EMP0936,34,Male,Sales,Sales Representative,Technical Degree,4,9335,4,0,0,2,3,1,4,Yes,Travel_Rarely,7,No
+EMP0937,49,Female,Sales,Manager,Other,3,9300,2,21,20,1,4,2,3,No,Non-Travel,17,No
+EMP0938,24,Male,Human Resources,Human Resources,Medical,3,8514,2,0,0,4,2,3,3,Yes,Travel_Rarely,26,No
+EMP0939,47,Male,Sales,Manager,Medical,3,11333,3,8,3,3,1,4,4,Yes,Travel_Rarely,13,Yes
+EMP0940,45,Male,Research & Development,Research Scientist,Life Sciences,4,10068,5,4,3,3,2,1,4,Yes,Travel_Rarely,22,Yes
+EMP0941,31,Male,Sales,Sales Executive,Life Sciences,2,9479,1,0,0,1,2,4,3,No,Travel_Rarely,22,No
+EMP0942,47,Female,Research & Development,Laboratory Technician,Medical,1,9414,4,18,12,3,3,4,3,No,Travel_Rarely,14,No
+EMP0943,34,Male,Research & Development,Laboratory Technician,Life Sciences,2,10080,2,13,4,3,2,3,3,Yes,Travel_Rarely,23,No
+EMP0944,49,Female,Research & Development,Healthcare Representative,Human Resources,3,11257,1,5,2,1,1,3,3,No,Travel_Frequently,12,Yes
+EMP0945,23,Male,Sales,Manager,Medical,2,8530,2,1,0,3,4,4,4,No,Travel_Rarely,11,No
+EMP0946,41,Male,Sales,Manager,Medical,3,9267,2,0,0,4,3,2,3,Yes,Travel_Frequently,1,Yes
+EMP0947,23,Female,Sales,Sales Representative,Life Sciences,2,5476,3,3,1,3,3,3,3,No,Travel_Rarely,27,No
+EMP0948,44,Male,Human Resources,Human Resources,Life Sciences,3,8506,1,2,1,4,4,4,3,No,Travel_Rarely,3,No
+EMP0949,35,Male,Research & Development,Research Director,Life Sciences,2,8799,2,4,3,4,1,4,3,No,Travel_Rarely,12,Yes
+EMP0950,41,Male,Research & Development,Research Director,Medical,3,8997,3,23,11,4,1,4,3,No,Non-Travel,9,No
+EMP0951,54,Male,Research & Development,Research Scientist,Life Sciences,2,10917,2,5,3,2,4,2,3,No,Travel_Frequently,2,No
+EMP0952,41,Male,Research & Development,Healthcare Representative,Medical,2,9444,4,15,14,3,2,2,3,No,Travel_Rarely,14,No
+EMP0953,55,Female,Sales,Sales Representative,Human Resources,2,9740,4,7,2,3,4,2,3,Yes,Travel_Rarely,5,No
+EMP0954,51,Female,Human Resources,Human Resources,Human Resources,3,8732,2,4,3,3,2,3,4,No,Travel_Rarely,3,No
+EMP0955,57,Female,Research & Development,Manager,Medical,2,10487,5,13,9,4,1,2,3,No,Travel_Rarely,12,No
+EMP0956,32,Male,Research & Development,Healthcare Representative,Life Sciences,2,9957,1,4,3,1,3,3,3,Yes,Travel_Frequently,12,Yes
+EMP0957,28,Male,Research & Development,Research Scientist,Technical Degree,4,8211,1,14,7,2,2,3,3,No,Travel_Rarely,29,Yes
+EMP0958,39,Male,Sales,Sales Executive,Human Resources,3,8708,2,2,1,2,3,4,3,No,Travel_Rarely,21,No
+EMP0959,41,Male,Sales,Sales Executive,Life Sciences,4,8914,2,0,0,2,3,4,3,No,Travel_Rarely,7,No
+EMP0960,18,Male,Research & Development,Research Director,Marketing,2,8211,3,13,5,2,4,4,3,Yes,Travel_Frequently,1,No
+EMP0961,35,Male,Sales,Sales Representative,Life Sciences,2,9164,2,6,3,3,3,1,3,No,Travel_Rarely,3,No
+EMP0962,29,Female,Research & Development,Research Director,Technical Degree,4,6384,1,15,6,1,1,1,3,No,Travel_Frequently,11,Yes
+EMP0963,45,Male,Sales,Sales Executive,Other,2,10417,1,19,5,3,4,4,3,Yes,Travel_Rarely,13,No
+EMP0964,57,Male,Research & Development,Research Scientist,Life Sciences,3,12209,4,0,0,3,3,3,3,Yes,Travel_Rarely,22,No
+EMP0965,24,Female,Sales,Manager,Human Resources,2,7079,4,4,2,2,3,3,4,No,Travel_Rarely,23,No
+EMP0966,40,Male,Research & Development,Research Director,Medical,2,8922,3,3,2,2,4,1,3,Yes,Travel_Rarely,10,Yes
+EMP0967,38,Female,Research & Development,Manager,Other,1,9179,3,6,2,3,3,2,4,Yes,Travel_Rarely,19,Yes
+EMP0968,51,Female,Sales,Manager,Medical,2,9475,2,11,7,3,2,3,3,No,Non-Travel,4,No
+EMP0969,28,Female,Research & Development,Laboratory Technician,Technical Degree,1,8919,1,2,0,4,3,4,3,No,Travel_Rarely,22,No
+EMP0970,39,Male,Research & Development,Healthcare Representative,Life Sciences,1,8062,2,5,4,4,2,4,3,No,Travel_Rarely,5,No
+EMP0971,59,Female,Research & Development,Research Scientist,Life Sciences,5,10325,3,8,6,4,1,3,3,No,Travel_Rarely,11,No
+EMP0972,52,Male,Human Resources,Manager,Life Sciences,2,10891,2,1,0,3,3,3,3,No,Non-Travel,9,No
+EMP0973,46,Female,Research & Development,Healthcare Representative,Other,3,9437,1,11,10,4,2,4,3,No,Travel_Rarely,13,No
+EMP0974,59,Male,Sales,Manager,Technical Degree,4,11714,5,6,2,4,1,3,3,Yes,Travel_Rarely,28,No
+EMP0975,45,Male,Sales,Manager,Technical Degree,3,9884,4,20,14,4,1,3,3,No,Travel_Rarely,17,No
+EMP0976,35,Male,Sales,Manager,Human Resources,1,7352,2,2,1,1,3,4,3,No,Travel_Frequently,15,Yes
+EMP0977,31,Male,Research & Development,Healthcare Representative,Life Sciences,3,9488,3,0,0,4,2,4,3,No,Travel_Rarely,13,No
+EMP0978,35,Female,Sales,Sales Representative,Life Sciences,3,8705,4,4,3,2,3,4,3,No,Non-Travel,21,No
+EMP0979,45,Female,Research & Development,Research Director,Life Sciences,3,9735,1,0,0,3,2,2,3,Yes,Non-Travel,11,No
+EMP0980,41,Female,Research & Development,Manager,Life Sciences,3,9975,2,24,8,1,3,3,3,No,Travel_Rarely,1,No
+EMP0981,25,Male,Research & Development,Healthcare Representative,Life Sciences,5,8879,2,0,0,2,2,4,3,No,Travel_Rarely,8,No
+EMP0982,59,Female,Research & Development,Healthcare Representative,Medical,3,11786,2,9,5,2,3,2,3,No,Travel_Rarely,23,No
+EMP0983,25,Male,Sales,Sales Representative,Life Sciences,2,8942,4,5,4,2,2,4,3,No,Travel_Rarely,5,No
+EMP0984,21,Female,Sales,Manager,Life Sciences,3,8006,2,3,1,1,4,2,3,Yes,Non-Travel,22,Yes
+EMP0985,44,Female,Research & Development,Healthcare Representative,Life Sciences,1,8919,1,0,0,4,4,4,3,Yes,Travel_Rarely,16,No
+EMP0986,53,Male,Research & Development,Research Director,Life Sciences,4,10361,1,6,3,1,4,3,3,Yes,Travel_Rarely,4,No
+EMP0987,22,Female,Research & Development,Research Scientist,Other,1,10614,1,6,3,2,4,2,3,No,Travel_Frequently,25,No
+EMP0988,50,Male,Research & Development,Research Scientist,Marketing,2,11079,2,2,1,1,2,3,4,Yes,Travel_Frequently,19,No
+EMP0989,51,Male,Sales,Sales Representative,Other,3,11975,3,16,10,3,3,3,3,No,Travel_Rarely,18,No
+EMP0990,47,Male,Research & Development,Laboratory Technician,Medical,3,11376,1,2,1,2,3,3,3,No,Travel_Rarely,23,No
+EMP0991,25,Male,Research & Development,Research Scientist,Life Sciences,2,8693,3,4,1,2,3,3,3,No,Travel_Rarely,29,No
+EMP0992,56,Female,Research & Development,Healthcare Representative,Technical Degree,2,11221,3,5,4,2,4,4,3,Yes,Non-Travel,2,No
+EMP0993,43,Male,Sales,Sales Representative,Life Sciences,4,9410,2,0,0,3,3,3,3,No,Travel_Rarely,13,Yes
+EMP0994,54,Male,Research & Development,Healthcare Representative,Life Sciences,2,9429,2,18,7,1,4,3,3,No,Non-Travel,16,No
+EMP0995,51,Male,Research & Development,Healthcare Representative,Life Sciences,4,10594,3,3,2,1,2,1,3,No,Travel_Rarely,22,No
+EMP0996,24,Female,Sales,Sales Representative,Life Sciences,1,8888,2,0,0,2,4,4,3,No,Travel_Rarely,27,No
+EMP0997,57,Female,Human Resources,Human Resources,Life Sciences,3,9580,2,3,1,4,3,2,3,Yes,Travel_Rarely,8,No
+EMP0998,45,Female,Sales,Sales Executive,Life Sciences,4,9929,3,6,3,2,3,3,3,Yes,Non-Travel,19,Yes
+EMP0999,56,Female,Human Resources,Manager,Medical,2,10661,5,5,3,3,2,4,3,No,Travel_Rarely,3,No
+EMP1000,56,Male,Research & Development,Research Director,Life Sciences,2,10252,2,8,3,2,3,2,3,No,Non-Travel,19,No
+EMP1001,45,Male,Sales,Sales Executive,Life Sciences,2,9238,2,0,0,3,4,3,3,Yes,Travel_Frequently,17,No
+EMP1002,31,Male,Research & Development,Research Scientist,Technical Degree,3,8165,2,2,1,1,2,2,3,No,Travel_Rarely,9,Yes
+EMP1003,55,Male,Research & Development,Healthcare Representative,Life Sciences,2,10242,1,11,4,1,3,4,3,No,Travel_Rarely,21,Yes
+EMP1004,21,Female,Research & Development,Research Director,Life Sciences,3,7149,2,0,0,2,2,3,3,No,Travel_Rarely,25,No
+EMP1005,59,Male,Research & Development,Research Scientist,Technical Degree,2,10499,2,13,10,2,4,4,3,Yes,Non-Travel,21,No
+EMP1006,35,Female,Research & Development,Research Director,Life Sciences,2,10435,1,0,0,1,3,4,3,No,Travel_Rarely,23,No
+EMP1007,42,Male,Research & Development,Healthcare Representative,Life Sciences,1,9127,2,12,8,3,2,3,3,Yes,Travel_Rarely,17,No
+EMP1008,24,Male,Research & Development,Research Director,Medical,2,8521,1,3,1,4,2,4,3,Yes,Travel_Rarely,25,No
+EMP1009,55,Male,Sales,Sales Representative,Life Sciences,3,9997,2,6,4,2,3,3,3,No,Travel_Rarely,1,Yes
+EMP1010,45,Female,Research & Development,Manager,Medical,4,11043,1,1,0,3,1,3,3,Yes,Non-Travel,4,No
+EMP1011,22,Female,Sales,Sales Executive,Technical Degree,3,8808,1,0,0,4,3,3,3,No,Travel_Rarely,23,No
+EMP1012,20,Female,Human Resources,Manager,Life Sciences,2,7791,3,1,0,4,4,4,3,Yes,Travel_Rarely,27,Yes
+EMP1013,48,Male,Human Resources,Manager,Medical,4,9584,4,0,0,2,4,3,3,No,Non-Travel,15,No
+EMP1014,59,Female,Sales,Sales Executive,Medical,3,10535,1,2,1,3,1,2,3,No,Travel_Rarely,12,Yes
+EMP1015,37,Male,Research & Development,Research Scientist,Life Sciences,4,8506,2,5,1,1,4,3,3,No,Travel_Frequently,25,No
+EMP1016,36,Male,Human Resources,Manager,Medical,2,9934,2,6,3,3,3,3,3,No,Travel_Rarely,17,No
+EMP1017,28,Female,Sales,Sales Executive,Life Sciences,2,7632,2,10,5,2,1,1,3,No,Travel_Rarely,12,No
+EMP1018,57,Male,Research & Development,Research Director,Medical,1,11590,2,7,3,1,1,3,3,No,Travel_Rarely,16,No
+EMP1019,20,Female,Human Resources,Human Resources,Life Sciences,3,7947,2,6,5,2,1,3,3,No,Travel_Rarely,13,No
+EMP1020,40,Male,Sales,Sales Representative,Medical,1,8755,3,3,2,1,4,3,3,Yes,Travel_Rarely,11,No
+EMP1021,24,Male,Research & Development,Healthcare Representative,Life Sciences,2,9250,1,4,1,3,1,3,3,No,Travel_Rarely,15,No
+EMP1022,40,Female,Sales,Sales Executive,Technical Degree,2,9811,1,3,2,2,2,3,3,No,Travel_Rarely,29,No
+EMP1023,24,Male,Human Resources,Human Resources,Life Sciences,3,8802,3,12,8,3,3,4,3,No,Non-Travel,16,No
+EMP1024,51,Female,Human Resources,Human Resources,Medical,3,9204,3,1,0,1,3,4,3,Yes,Travel_Rarely,6,No
+EMP1025,59,Male,Human Resources,Human Resources,Medical,2,9191,2,0,0,1,3,3,3,Yes,Travel_Frequently,27,No
+EMP1026,36,Female,Research & Development,Research Scientist,Marketing,2,8975,2,7,4,3,3,1,3,No,Travel_Rarely,26,No
+EMP1027,26,Male,Research & Development,Research Director,Medical,3,8747,2,1,0,4,1,4,3,No,Travel_Rarely,11,No
+EMP1028,35,Male,Research & Development,Healthcare Representative,Medical,4,9346,2,15,9,1,4,3,4,No,Travel_Rarely,15,No
+EMP1029,58,Male,Research & Development,Research Director,Marketing,3,10825,2,13,8,2,2,3,3,Yes,Travel_Rarely,5,No
+EMP1030,59,Male,Research & Development,Research Director,Technical Degree,4,9692,2,0,0,4,3,2,3,Yes,Travel_Rarely,3,No
+EMP1031,42,Female,Sales,Sales Representative,Life Sciences,3,9736,2,0,0,1,3,2,3,No,Travel_Rarely,26,Yes
+EMP1032,31,Male,Research & Development,Research Scientist,Medical,3,10557,3,4,2,4,1,2,3,No,Travel_Rarely,2,No
+EMP1033,42,Male,Sales,Sales Executive,Technical Degree,2,9731,3,6,5,3,4,1,3,Yes,Travel_Rarely,1,No
+EMP1034,36,Male,Sales,Sales Representative,Other,3,9367,2,2,0,2,3,4,3,Yes,Travel_Rarely,15,No
+EMP1035,56,Male,Sales,Sales Representative,Human Resources,3,10937,2,8,6,2,1,3,3,No,Travel_Rarely,2,No
+EMP1036,32,Female,Research & Development,Research Scientist,Life Sciences,3,9377,2,6,5,2,4,3,3,No,Non-Travel,28,No
+EMP1037,33,Female,Research & Development,Manager,Life Sciences,2,9885,2,2,1,2,3,4,3,No,Travel_Rarely,29,No
+EMP1038,44,Male,Research & Development,Research Scientist,Medical,2,10336,2,0,0,4,3,4,3,No,Travel_Rarely,20,Yes
+EMP1039,57,Female,Sales,Sales Representative,Marketing,2,10309,4,9,7,3,3,4,3,No,Travel_Rarely,6,No
+EMP1040,27,Male,Research & Development,Research Director,Medical,2,8023,3,1,0,3,4,4,3,Yes,Travel_Frequently,12,No
+EMP1041,21,Male,Research & Development,Healthcare Representative,Medical,2,7980,4,12,8,3,1,3,3,No,Travel_Rarely,21,No
+EMP1042,36,Female,Research & Development,Healthcare Representative,Technical Degree,3,9631,3,3,1,2,2,4,3,No,Travel_Rarely,16,No
+EMP1043,45,Male,Research & Development,Laboratory Technician,Life Sciences,2,9847,5,6,4,3,2,4,3,No,Non-Travel,14,No
+EMP1044,38,Female,Research & Development,Manager,Technical Degree,1,9791,3,14,6,2,1,1,3,No,Travel_Rarely,4,No
+EMP1045,31,Female,Research & Development,Manager,Life Sciences,2,9331,5,13,10,3,3,3,4,No,Travel_Rarely,8,No
+EMP1046,50,Male,Research & Development,Manager,Life Sciences,3,11166,1,3,2,2,2,3,3,No,Travel_Frequently,12,No
+EMP1047,27,Female,Sales,Sales Executive,Medical,2,9186,1,1,0,3,2,4,3,No,Travel_Rarely,23,No
+EMP1048,36,Female,Sales,Manager,Marketing,2,8942,2,10,4,4,1,3,3,No,Travel_Rarely,14,No
+EMP1049,47,Male,Research & Development,Research Director,Life Sciences,3,9213,5,3,2,2,3,3,4,Yes,Travel_Rarely,20,No
+EMP1050,39,Female,Sales,Sales Executive,Life Sciences,2,8843,2,1,0,1,4,1,3,No,Travel_Rarely,26,Yes
+EMP1051,20,Male,Research & Development,Manager,Other,4,8135,1,16,5,3,2,3,3,No,Non-Travel,13,No
+EMP1052,54,Female,Research & Development,Manager,Life Sciences,4,9351,2,1,0,2,3,1,4,Yes,Travel_Frequently,29,Yes
+EMP1053,58,Female,Human Resources,Human Resources,Medical,2,11250,3,0,0,3,2,3,3,Yes,Travel_Rarely,5,Yes
+EMP1054,35,Male,Research & Development,Manager,Medical,2,9413,2,0,0,4,3,4,3,No,Travel_Frequently,12,Yes
+EMP1055,28,Male,Human Resources,Human Resources,Medical,3,8045,3,6,4,2,1,2,4,No,Non-Travel,10,No
+EMP1056,19,Female,Research & Development,Research Director,Medical,1,9112,5,7,6,2,3,3,3,Yes,Travel_Rarely,21,No
+EMP1057,29,Male,Research & Development,Healthcare Representative,Life Sciences,2,8315,4,2,0,3,3,2,3,No,Travel_Rarely,19,No
+EMP1058,23,Male,Research & Development,Research Scientist,Medical,2,8799,2,2,1,1,4,2,3,No,Travel_Frequently,13,No
+EMP1059,57,Male,Research & Development,Laboratory Technician,Life Sciences,4,10972,2,2,0,2,2,3,3,No,Travel_Rarely,9,No
+EMP1060,46,Male,Research & Development,Research Scientist,Medical,1,10032,2,7,2,4,3,1,3,Yes,Travel_Rarely,11,Yes
+EMP1061,47,Male,Research & Development,Manager,Life Sciences,3,9642,2,0,0,3,3,3,3,No,Travel_Rarely,5,No
+EMP1062,19,Male,Human Resources,Human Resources,Medical,3,8352,1,18,12,1,4,1,4,Yes,Travel_Rarely,28,No
+EMP1063,26,Male,Research & Development,Research Director,Life Sciences,2,8279,3,1,0,2,2,2,3,No,Travel_Rarely,13,No
+EMP1064,19,Female,Research & Development,Research Director,Life Sciences,1,8579,2,40,22,3,2,3,3,No,Travel_Rarely,10,No
+EMP1065,46,Male,Research & Development,Research Scientist,Life Sciences,5,8679,4,1,0,3,4,3,3,No,Travel_Rarely,18,No
+EMP1066,50,Male,Research & Development,Healthcare Representative,Life Sciences,2,11443,4,10,6,4,1,1,3,No,Travel_Rarely,29,No
+EMP1067,27,Male,Sales,Sales Representative,Technical Degree,3,9001,1,1,0,2,1,3,3,Yes,Travel_Frequently,15,No
+EMP1068,51,Male,Sales,Sales Executive,Life Sciences,2,10157,5,0,0,4,1,4,4,No,Travel_Frequently,20,No
+EMP1069,25,Male,Research & Development,Manager,Human Resources,2,8318,3,14,10,3,4,4,3,No,Non-Travel,12,No
+EMP1070,54,Male,Sales,Manager,Other,2,10640,2,13,11,3,1,2,3,No,Non-Travel,4,No
+EMP1071,50,Male,Sales,Sales Representative,Medical,1,11831,2,3,1,3,4,3,3,No,Travel_Rarely,5,No
+EMP1072,23,Female,Sales,Sales Executive,Life Sciences,1,6429,2,8,5,1,2,3,3,Yes,Travel_Rarely,8,Yes
+EMP1073,57,Female,Sales,Sales Executive,Life Sciences,4,11185,2,5,2,4,1,1,3,Yes,Non-Travel,5,No
+EMP1074,36,Female,Sales,Manager,Technical Degree,2,8150,3,13,9,1,2,4,3,Yes,Travel_Rarely,1,No
+EMP1075,49,Female,Human Resources,Manager,Life Sciences,2,9404,1,2,1,2,1,4,3,No,Travel_Rarely,18,No
+EMP1076,44,Female,Research & Development,Research Director,Life Sciences,2,9821,3,5,1,4,3,4,4,Yes,Travel_Rarely,19,No
+EMP1077,18,Male,Research & Development,Research Director,Medical,3,7597,2,4,3,3,3,4,3,Yes,Travel_Rarely,19,Yes
+EMP1078,50,Female,Research & Development,Research Director,Technical Degree,1,10491,1,3,2,4,3,4,3,No,Travel_Rarely,10,No
+EMP1079,57,Male,Sales,Sales Representative,Technical Degree,3,9652,2,15,7,3,1,3,4,Yes,Travel_Rarely,22,No
+EMP1080,49,Female,Human Resources,Manager,Life Sciences,1,10243,2,1,0,2,3,3,3,Yes,Travel_Rarely,9,Yes
+EMP1081,22,Female,Research & Development,Manager,Medical,1,6824,2,1,0,4,4,4,3,No,Travel_Rarely,26,No
+EMP1082,34,Male,Sales,Manager,Life Sciences,1,9151,1,6,3,1,3,3,4,Yes,Non-Travel,1,No
+EMP1083,25,Male,Research & Development,Research Director,Life Sciences,4,8238,4,7,2,4,4,2,3,No,Travel_Rarely,22,No
+EMP1084,59,Male,Research & Development,Laboratory Technician,Technical Degree,1,10283,3,1,0,2,2,3,3,No,Non-Travel,25,No
+EMP1085,51,Female,Human Resources,Manager,Life Sciences,1,9741,1,3,2,4,4,4,3,Yes,Travel_Rarely,20,No
+EMP1086,26,Female,Research & Development,Laboratory Technician,Life Sciences,2,7334,2,20,14,1,2,1,3,No,Non-Travel,26,No
+EMP1087,40,Female,Research & Development,Healthcare Representative,Life Sciences,4,9731,2,1,0,3,1,3,3,No,Travel_Rarely,3,No
+EMP1088,52,Male,Sales,Manager,Technical Degree,2,9021,1,7,3,4,4,4,3,No,Travel_Rarely,13,No
+EMP1089,24,Female,Human Resources,Human Resources,Technical Degree,2,7789,2,9,3,2,4,3,3,No,Travel_Rarely,6,No
+EMP1090,32,Male,Sales,Sales Executive,Medical,1,7820,3,4,1,3,3,4,3,No,Non-Travel,6,No
+EMP1091,37,Female,Human Resources,Manager,Marketing,2,8099,3,19,12,4,2,3,3,Yes,Travel_Rarely,29,No
+EMP1092,42,Male,Research & Development,Research Scientist,Life Sciences,3,10095,1,9,8,3,2,1,3,No,Non-Travel,18,No
+EMP1093,20,Male,Research & Development,Laboratory Technician,Medical,3,7481,4,4,3,4,2,4,3,No,Non-Travel,5,No
+EMP1094,41,Male,Research & Development,Research Scientist,Life Sciences,2,9733,2,5,2,2,4,2,3,No,Travel_Rarely,17,No
+EMP1095,51,Female,Sales,Sales Executive,Life Sciences,2,8868,4,8,7,1,1,3,3,No,Travel_Rarely,29,No
+EMP1096,39,Female,Sales,Sales Representative,Medical,1,9624,1,6,5,1,4,2,3,Yes,Non-Travel,25,No
+EMP1097,28,Male,Sales,Sales Representative,Human Resources,2,9651,2,14,4,2,2,2,3,No,Travel_Rarely,25,No
+EMP1098,25,Male,Sales,Manager,Life Sciences,1,10233,2,3,2,1,4,3,3,No,Travel_Rarely,3,Yes
+EMP1099,56,Female,Research & Development,Healthcare Representative,Life Sciences,3,11052,1,2,1,3,4,3,3,No,Travel_Rarely,5,No
+EMP1100,52,Male,Research & Development,Research Director,Life Sciences,4,11290,3,1,0,1,2,3,4,Yes,Travel_Rarely,3,No
+EMP1101,55,Female,Sales,Sales Representative,Life Sciences,5,8975,3,0,0,1,2,4,3,No,Travel_Rarely,23,No
+EMP1102,25,Male,Human Resources,Human Resources,Human Resources,4,8702,1,0,0,1,4,2,3,No,Travel_Rarely,13,No
+EMP1103,54,Male,Research & Development,Research Scientist,Medical,3,11440,2,14,8,4,3,2,3,Yes,Travel_Rarely,15,Yes
+EMP1104,44,Female,Human Resources,Human Resources,Medical,3,8632,2,7,3,3,3,3,3,Yes,Travel_Rarely,17,No
+EMP1105,45,Female,Human Resources,Human Resources,Marketing,2,10089,1,7,2,2,3,3,3,Yes,Travel_Rarely,15,No
+EMP1106,57,Male,Sales,Sales Executive,Life Sciences,3,10356,5,6,5,4,1,4,3,No,Travel_Frequently,5,No
+EMP1107,51,Male,Research & Development,Healthcare Representative,Medical,2,10213,4,13,12,1,4,1,3,No,Travel_Rarely,22,No
+EMP1108,49,Female,Research & Development,Healthcare Representative,Medical,2,10800,2,4,3,4,2,4,3,No,Travel_Rarely,14,No
+EMP1109,32,Male,Research & Development,Manager,Medical,3,8209,2,14,7,3,4,3,3,No,Travel_Frequently,11,Yes
+EMP1110,34,Female,Sales,Sales Executive,Other,2,9537,2,3,1,1,2,3,4,No,Travel_Rarely,28,Yes
+EMP1111,50,Male,Research & Development,Manager,Marketing,2,9655,3,18,8,3,3,1,3,No,Travel_Rarely,14,No
+EMP1112,33,Male,Sales,Sales Executive,Life Sciences,4,7799,4,8,3,3,2,3,3,No,Travel_Frequently,7,No
+EMP1113,46,Female,Sales,Sales Representative,Technical Degree,1,8952,2,2,1,2,2,2,4,Yes,Non-Travel,3,No
+EMP1114,26,Female,Research & Development,Research Scientist,Life Sciences,2,9187,3,5,3,4,2,2,3,Yes,Travel_Rarely,23,No
+EMP1115,50,Male,Research & Development,Research Scientist,Life Sciences,4,10006,2,5,3,1,3,3,3,No,Travel_Rarely,20,No
+EMP1116,46,Female,Research & Development,Healthcare Representative,Life Sciences,3,9101,2,1,0,2,3,4,4,No,Travel_Frequently,10,No
+EMP1117,30,Male,Sales,Sales Executive,Life Sciences,2,7915,4,6,3,1,4,4,3,No,Travel_Rarely,11,No
+EMP1118,38,Male,Research & Development,Laboratory Technician,Medical,2,9514,2,2,1,2,2,3,4,Yes,Travel_Rarely,6,No
+EMP1119,38,Female,Sales,Manager,Medical,2,8095,2,0,0,2,3,3,3,No,Travel_Frequently,5,Yes
+EMP1120,22,Female,Sales,Sales Executive,Human Resources,4,6838,3,20,10,4,3,3,3,Yes,Travel_Rarely,20,Yes
+EMP1121,27,Female,Research & Development,Manager,Medical,3,10349,2,7,3,1,1,4,3,No,Non-Travel,22,No
+EMP1122,23,Male,Human Resources,Human Resources,Medical,2,6651,2,14,7,2,2,3,3,No,Non-Travel,13,No
+EMP1123,30,Male,Research & Development,Laboratory Technician,Life Sciences,1,8641,4,7,3,3,3,2,3,No,Travel_Rarely,12,No
+EMP1124,18,Male,Research & Development,Healthcare Representative,Life Sciences,1,7646,3,3,1,4,2,2,3,No,Travel_Rarely,19,No
+EMP1125,37,Male,Research & Development,Research Scientist,Medical,4,9122,3,5,4,4,2,3,3,No,Travel_Rarely,19,No
+EMP1126,25,Female,Research & Development,Research Scientist,Medical,2,8997,2,7,6,3,3,3,3,No,Travel_Rarely,21,No
+EMP1127,27,Male,Sales,Sales Executive,Technical Degree,3,8918,2,22,9,4,2,1,3,No,Travel_Frequently,27,No
+EMP1128,26,Female,Research & Development,Research Scientist,Life Sciences,1,8335,5,2,0,3,3,4,3,No,Travel_Rarely,5,No
+EMP1129,58,Male,Research & Development,Research Scientist,Life Sciences,3,10150,2,14,11,4,4,3,3,Yes,Travel_Rarely,25,Yes
+EMP1130,20,Male,Sales,Sales Executive,Medical,4,8619,1,18,8,3,3,3,3,No,Travel_Frequently,20,No
+EMP1131,28,Male,Research & Development,Manager,Life Sciences,3,8663,2,7,4,1,3,1,4,Yes,Travel_Rarely,21,Yes
+EMP1132,29,Male,Research & Development,Healthcare Representative,Life Sciences,1,10204,2,18,6,2,1,3,3,Yes,Travel_Rarely,28,No
+EMP1133,27,Male,Sales,Manager,Marketing,3,6363,1,3,1,3,4,4,3,No,Travel_Rarely,9,Yes
+EMP1134,42,Female,Sales,Manager,Life Sciences,3,9516,4,21,17,2,2,4,3,No,Travel_Rarely,4,No
+EMP1135,42,Male,Research & Development,Research Scientist,Medical,2,11394,5,8,6,2,3,2,3,No,Travel_Rarely,29,No
+EMP1136,28,Female,Sales,Manager,Life Sciences,4,7957,2,0,0,3,4,2,3,No,Non-Travel,15,No
+EMP1137,53,Male,Research & Development,Manager,Life Sciences,3,10559,3,16,8,4,3,3,3,No,Travel_Rarely,3,No
+EMP1138,56,Female,Research & Development,Healthcare Representative,Life Sciences,4,11216,4,4,1,1,3,3,4,No,Non-Travel,23,No
+EMP1139,43,Male,Research & Development,Healthcare Representative,Technical Degree,3,9492,3,4,1,3,2,3,3,No,Travel_Rarely,7,No
+EMP1140,31,Female,Research & Development,Healthcare Representative,Life Sciences,1,8730,1,5,4,3,1,4,4,No,Travel_Rarely,24,No
+EMP1141,56,Male,Research & Development,Manager,Marketing,2,10709,1,1,0,4,4,3,3,Yes,Travel_Rarely,20,No
+EMP1142,57,Female,Research & Development,Manager,Life Sciences,2,10558,1,4,2,4,1,1,3,Yes,Travel_Frequently,20,No
+EMP1143,18,Female,Research & Development,Research Scientist,Marketing,4,8923,1,12,10,3,3,4,3,No,Travel_Rarely,14,No
+EMP1144,21,Male,Research & Development,Research Director,Life Sciences,3,8548,2,0,0,3,1,1,3,No,Travel_Frequently,14,No
+EMP1145,47,Male,Sales,Manager,Medical,3,9960,2,2,1,2,4,4,3,Yes,Travel_Rarely,9,No
+EMP1146,29,Male,Research & Development,Research Director,Medical,2,9466,1,0,0,3,1,3,3,No,Travel_Rarely,26,No
+EMP1147,52,Female,Research & Development,Manager,Human Resources,2,10448,1,3,1,3,3,4,4,No,Travel_Rarely,23,No
+EMP1148,30,Male,Research & Development,Manager,Life Sciences,3,8280,2,9,6,4,3,2,3,No,Travel_Rarely,3,No
+EMP1149,48,Male,Research & Development,Manager,Life Sciences,2,9857,2,11,6,3,2,1,3,No,Travel_Rarely,29,No
+EMP1150,55,Male,Research & Development,Research Director,Life Sciences,2,10901,3,20,19,1,2,3,3,No,Travel_Frequently,9,Yes
+EMP1151,40,Male,Research & Development,Manager,Technical Degree,3,8852,1,6,4,3,2,3,3,No,Travel_Rarely,29,No
+EMP1152,21,Female,Research & Development,Research Scientist,Medical,1,7779,4,2,1,2,2,3,3,No,Non-Travel,21,Yes
+EMP1153,33,Male,Research & Development,Manager,Marketing,2,8727,5,18,7,1,2,4,3,No,Travel_Rarely,4,No
+EMP1154,24,Female,Research & Development,Laboratory Technician,Life Sciences,2,10119,3,10,9,2,2,4,3,No,Travel_Rarely,17,No
+EMP1155,39,Female,Research & Development,Research Director,Life Sciences,1,7400,3,5,2,1,3,3,3,No,Non-Travel,25,No
+EMP1156,46,Male,Research & Development,Laboratory Technician,Life Sciences,5,10036,4,8,7,4,2,2,4,Yes,Travel_Rarely,6,No
+EMP1157,28,Female,Sales,Sales Executive,Other,2,9620,1,18,7,2,4,4,3,Yes,Travel_Rarely,16,Yes
+EMP1158,50,Male,Research & Development,Research Scientist,Medical,1,10597,5,8,5,2,3,4,3,No,Travel_Rarely,27,No
+EMP1159,46,Female,Research & Development,Healthcare Representative,Human Resources,2,10782,3,3,2,4,2,3,3,No,Travel_Frequently,18,No
+EMP1160,56,Male,Sales,Sales Representative,Life Sciences,3,10559,3,8,4,2,3,4,3,No,Travel_Rarely,13,No
+EMP1161,29,Female,Research & Development,Manager,Medical,2,8286,2,0,0,1,4,2,3,No,Travel_Rarely,7,Yes
+EMP1162,24,Male,Sales,Manager,Medical,3,6126,2,3,2,2,1,2,3,Yes,Travel_Rarely,3,No
+EMP1163,56,Male,Research & Development,Research Scientist,Life Sciences,1,11144,3,3,1,1,3,1,3,Yes,Travel_Rarely,6,No
+EMP1164,59,Male,Research & Development,Research Director,Technical Degree,1,10599,3,1,0,1,3,4,3,No,Travel_Rarely,24,Yes
+EMP1165,43,Male,Sales,Sales Representative,Other,2,8799,3,0,0,1,1,3,3,Yes,Travel_Rarely,3,Yes
+EMP1166,57,Female,Research & Development,Laboratory Technician,Human Resources,3,10660,1,1,0,3,4,2,3,No,Non-Travel,29,No
+EMP1167,26,Male,Research & Development,Laboratory Technician,Marketing,4,9975,2,7,5,1,2,2,4,No,Non-Travel,28,No
+EMP1168,58,Female,Research & Development,Research Director,Life Sciences,1,13063,2,11,6,2,2,1,3,No,Travel_Rarely,12,Yes
+EMP1169,51,Male,Sales,Sales Representative,Life Sciences,2,10253,2,31,9,4,4,2,3,No,Travel_Rarely,5,No
+EMP1170,30,Female,Sales,Sales Executive,Other,4,8028,1,2,1,2,3,3,3,No,Travel_Rarely,22,No
+EMP1171,53,Male,Research & Development,Research Director,Life Sciences,2,9798,1,6,1,4,4,2,4,No,Travel_Rarely,17,No
+EMP1172,42,Male,Human Resources,Manager,Marketing,4,9234,2,19,5,3,3,2,3,No,Non-Travel,10,No
+EMP1173,41,Male,Research & Development,Manager,Marketing,1,11206,2,1,0,2,3,4,3,No,Travel_Rarely,7,Yes
+EMP1174,34,Female,Sales,Manager,Medical,4,8522,1,8,3,3,4,3,3,No,Travel_Frequently,4,No
+EMP1175,19,Male,Research & Development,Research Director,Other,3,6116,4,9,3,1,1,4,3,Yes,Non-Travel,10,Yes
+EMP1176,30,Female,Research & Development,Research Director,Life Sciences,4,9436,3,0,0,1,3,1,4,No,Travel_Rarely,27,No
+EMP1177,48,Female,Research & Development,Research Scientist,Life Sciences,3,11128,3,13,4,3,3,3,4,No,Travel_Rarely,7,No
+EMP1178,46,Male,Sales,Sales Executive,Life Sciences,2,8411,1,11,5,2,1,3,4,Yes,Travel_Rarely,23,No
+EMP1179,45,Female,Research & Development,Research Director,Medical,4,10241,2,0,0,3,3,2,4,Yes,Non-Travel,11,No
+EMP1180,44,Male,Research & Development,Laboratory Technician,Life Sciences,2,10380,2,0,0,4,1,2,4,Yes,Travel_Frequently,21,No
+EMP1181,32,Male,Human Resources,Human Resources,Life Sciences,2,8001,5,0,0,2,3,4,3,No,Travel_Rarely,8,No
+EMP1182,48,Female,Research & Development,Research Scientist,Technical Degree,3,9707,3,2,1,3,3,4,3,No,Travel_Rarely,8,No
+EMP1183,57,Female,Research & Development,Laboratory Technician,Human Resources,3,11872,2,4,1,3,4,1,3,Yes,Travel_Rarely,5,Yes
+EMP1184,32,Female,Human Resources,Human Resources,Life Sciences,4,7737,4,5,1,4,1,3,4,No,Travel_Rarely,5,No
+EMP1185,50,Male,Sales,Sales Executive,Life Sciences,2,8811,1,2,0,4,3,4,3,No,Travel_Rarely,7,No
+EMP1186,37,Male,Human Resources,Human Resources,Human Resources,3,6820,1,16,9,4,2,1,3,No,Travel_Rarely,22,No
+EMP1187,59,Male,Research & Development,Laboratory Technician,Life Sciences,3,12228,3,3,2,2,3,3,3,No,Travel_Rarely,4,No
+EMP1188,29,Female,Sales,Sales Representative,Life Sciences,1,8813,1,0,0,3,3,4,3,No,Travel_Rarely,2,No
+EMP1189,54,Male,Research & Development,Healthcare Representative,Life Sciences,2,10890,1,2,0,2,3,4,3,No,Non-Travel,24,No
+EMP1190,26,Female,Research & Development,Healthcare Representative,Medical,2,8227,3,5,1,2,4,3,3,No,Travel_Rarely,19,No
+EMP1191,40,Male,Sales,Sales Executive,Life Sciences,2,8776,2,3,2,4,4,2,3,No,Non-Travel,2,No
+EMP1192,25,Male,Research & Development,Laboratory Technician,Other,5,7639,3,2,1,1,1,2,3,No,Travel_Rarely,16,Yes
+EMP1193,49,Male,Research & Development,Laboratory Technician,Medical,3,10074,4,0,0,4,2,4,3,No,Travel_Rarely,12,No
+EMP1194,31,Male,Research & Development,Healthcare Representative,Medical,3,7283,2,11,9,1,3,4,3,No,Non-Travel,15,No
+EMP1195,44,Male,Sales,Sales Representative,Life Sciences,5,8931,1,38,24,4,3,3,4,No,Travel_Frequently,10,No
+EMP1196,42,Female,Research & Development,Research Scientist,Medical,2,9611,1,2,0,2,2,4,3,No,Travel_Rarely,23,No
+EMP1197,30,Female,Human Resources,Human Resources,Medical,3,8387,1,3,1,2,3,4,3,Yes,Travel_Rarely,26,No
+EMP1198,38,Male,Human Resources,Human Resources,Marketing,2,8508,1,6,4,2,2,3,3,Yes,Travel_Rarely,6,No
+EMP1199,48,Male,Research & Development,Research Director,Marketing,4,10975,1,8,5,3,2,4,3,No,Travel_Rarely,24,Yes
+EMP1200,54,Male,Sales,Manager,Medical,2,11399,2,3,2,2,4,3,3,No,Travel_Rarely,13,No
+EMP1201,22,Female,Research & Development,Research Director,Human Resources,4,9106,2,16,12,3,2,3,3,Yes,Travel_Rarely,6,No
+EMP1202,30,Male,Sales,Sales Representative,Technical Degree,2,8776,3,5,3,1,1,2,3,No,Travel_Rarely,23,No
+EMP1203,45,Female,Sales,Manager,Marketing,2,9609,4,4,3,1,1,4,3,No,Travel_Rarely,2,No
+EMP1204,42,Male,Research & Development,Manager,Life Sciences,3,9075,3,7,4,1,4,3,3,No,Travel_Rarely,26,No
+EMP1205,52,Male,Research & Development,Laboratory Technician,Life Sciences,2,11251,2,21,17,2,4,2,3,Yes,Travel_Rarely,14,No
+EMP1206,56,Female,Research & Development,Manager,Life Sciences,3,12323,1,11,5,4,3,4,3,No,Non-Travel,18,No
+EMP1207,24,Male,Research & Development,Healthcare Representative,Medical,2,8693,3,0,0,4,2,3,4,Yes,Travel_Rarely,6,No
+EMP1208,55,Male,Research & Development,Laboratory Technician,Medical,3,12433,2,2,1,2,4,4,3,No,Travel_Rarely,25,No
+EMP1209,49,Male,Sales,Sales Executive,Life Sciences,2,8699,1,4,2,3,3,2,3,No,Travel_Rarely,19,No
+EMP1210,20,Male,Human Resources,Human Resources,Human Resources,1,6176,4,2,1,3,4,3,3,No,Travel_Rarely,27,No
+EMP1211,56,Male,Research & Development,Research Director,Human Resources,2,11664,2,8,6,2,3,2,3,No,Travel_Rarely,26,No
+EMP1212,54,Female,Research & Development,Healthcare Representative,Human Resources,2,11031,1,12,4,2,2,4,3,Yes,Travel_Rarely,14,No
+EMP1213,39,Female,Sales,Manager,Life Sciences,2,10171,4,9,6,3,3,1,3,No,Non-Travel,13,No
+EMP1214,25,Male,Research & Development,Research Scientist,Marketing,2,8487,4,31,12,1,1,3,3,Yes,Travel_Rarely,8,Yes
+EMP1215,34,Female,Research & Development,Manager,Life Sciences,2,8525,2,2,1,1,2,4,3,No,Travel_Rarely,5,No
+EMP1216,44,Male,Sales,Manager,Life Sciences,1,9349,2,14,12,1,3,3,3,Yes,Non-Travel,13,Yes
+EMP1217,50,Male,Sales,Sales Representative,Life Sciences,3,8773,2,10,3,3,4,4,3,No,Travel_Rarely,6,No
+EMP1218,34,Male,Research & Development,Manager,Life Sciences,4,8317,3,3,1,1,3,4,3,No,Travel_Rarely,22,No
+EMP1219,59,Male,Research & Development,Manager,Medical,1,11997,1,9,6,1,2,2,4,No,Non-Travel,27,Yes
+EMP1220,29,Male,Sales,Sales Representative,Technical Degree,3,9018,2,0,0,2,1,1,3,Yes,Travel_Rarely,28,No
+EMP1221,44,Female,Human Resources,Human Resources,Life Sciences,3,9310,5,10,3,1,1,2,3,No,Travel_Rarely,26,Yes
+EMP1222,25,Male,Sales,Manager,Marketing,2,6623,2,5,3,1,2,2,3,Yes,Travel_Rarely,27,No
+EMP1223,40,Male,Research & Development,Research Scientist,Medical,3,9413,4,2,1,4,2,4,3,No,Travel_Rarely,29,No
+EMP1224,59,Male,Human Resources,Human Resources,Life Sciences,2,9240,5,7,2,1,3,4,3,No,Non-Travel,19,No
+EMP1225,46,Female,Research & Development,Research Scientist,Medical,2,11121,2,7,6,3,1,1,3,No,Travel_Rarely,11,No
+EMP1226,37,Female,Research & Development,Research Director,Life Sciences,1,8993,3,1,0,2,4,3,3,No,Travel_Rarely,27,No
+EMP1227,33,Male,Research & Development,Manager,Medical,3,8271,1,0,0,3,2,3,3,Yes,Travel_Rarely,16,No
+EMP1228,34,Male,Sales,Sales Representative,Medical,3,8743,3,3,2,3,4,1,3,No,Travel_Rarely,5,No
+EMP1229,33,Male,Human Resources,Human Resources,Life Sciences,1,7627,3,5,2,2,3,3,3,No,Travel_Rarely,12,No
+EMP1230,36,Male,Research & Development,Laboratory Technician,Life Sciences,2,10566,1,14,6,4,1,2,3,No,Travel_Rarely,17,No
+EMP1231,25,Male,Research & Development,Research Director,Medical,5,7912,3,18,8,3,4,3,3,No,Non-Travel,2,Yes
+EMP1232,55,Male,Sales,Manager,Human Resources,2,9280,3,5,4,4,3,3,3,No,Travel_Rarely,10,No
+EMP1233,55,Male,Sales,Sales Executive,Life Sciences,2,8677,2,9,8,2,3,3,3,No,Travel_Rarely,15,No
+EMP1234,46,Male,Sales,Manager,Marketing,4,9655,1,4,3,4,3,2,3,No,Travel_Frequently,19,No
+EMP1235,58,Male,Research & Development,Research Scientist,Medical,3,10690,1,9,8,3,1,4,3,No,Travel_Rarely,20,No
+EMP1236,53,Female,Research & Development,Manager,Human Resources,3,9596,2,1,0,4,3,3,3,No,Travel_Rarely,29,Yes
+EMP1237,43,Female,Research & Development,Laboratory Technician,Technical Degree,3,10891,5,3,1,3,4,4,3,No,Travel_Rarely,25,No
+EMP1238,48,Male,Research & Development,Research Director,Medical,4,10873,3,7,4,2,1,3,3,No,Travel_Rarely,17,No
+EMP1239,29,Male,Human Resources,Manager,Medical,2,7797,2,0,0,3,2,4,4,Yes,Travel_Frequently,19,No
+EMP1240,34,Male,Sales,Sales Representative,Human Resources,2,9811,2,8,2,4,4,4,3,No,Travel_Rarely,19,No
+EMP1241,32,Male,Research & Development,Healthcare Representative,Life Sciences,2,9590,2,12,9,4,2,3,3,Yes,Travel_Rarely,13,Yes
+EMP1242,26,Female,Research & Development,Healthcare Representative,Life Sciences,4,7921,1,3,1,2,3,3,3,No,Non-Travel,13,No
+EMP1243,56,Male,Research & Development,Research Director,Life Sciences,3,10148,2,4,2,3,3,4,3,Yes,Travel_Rarely,16,No
+EMP1244,59,Female,Research & Development,Research Director,Technical Degree,1,11874,2,13,8,2,3,4,3,No,Travel_Rarely,22,No
+EMP1245,29,Female,Research & Development,Research Scientist,Technical Degree,4,9137,2,10,4,3,2,4,3,No,Travel_Rarely,21,Yes
+EMP1246,49,Male,Research & Development,Healthcare Representative,Life Sciences,2,10555,5,2,1,1,2,4,4,Yes,Non-Travel,3,No
+EMP1247,42,Male,Sales,Sales Representative,Medical,1,8682,2,2,1,2,1,3,4,No,Travel_Rarely,4,No
+EMP1248,56,Male,Sales,Manager,Medical,2,10966,2,7,4,4,3,2,3,No,Travel_Rarely,27,No
+EMP1249,35,Male,Human Resources,Human Resources,Life Sciences,2,7695,1,5,4,1,3,2,3,Yes,Travel_Rarely,7,No
+EMP1250,32,Male,Research & Development,Research Director,Other,4,8978,5,1,0,3,3,4,3,No,Travel_Rarely,3,No
+EMP1251,49,Male,Research & Development,Research Director,Life Sciences,2,11577,3,2,1,3,3,2,3,No,Travel_Rarely,9,No
+EMP1252,23,Female,Research & Development,Research Scientist,Life Sciences,4,7811,4,16,14,1,2,1,3,Yes,Travel_Rarely,8,Yes
+EMP1253,52,Male,Sales,Manager,Medical,3,8901,2,8,7,2,1,3,3,No,Non-Travel,29,No
+EMP1254,51,Male,Sales,Sales Representative,Marketing,1,9237,2,29,26,3,4,4,3,No,Travel_Rarely,18,No
+EMP1255,55,Female,Research & Development,Research Director,Life Sciences,5,11695,2,10,4,1,3,2,4,No,Non-Travel,21,No
+EMP1256,22,Female,Research & Development,Manager,Medical,2,8463,1,19,6,4,2,2,3,No,Travel_Rarely,14,No
+EMP1257,35,Male,Sales,Manager,Medical,2,8696,3,1,0,4,1,3,3,No,Travel_Frequently,20,No
+EMP1258,33,Female,Research & Development,Research Director,Life Sciences,2,8732,4,10,4,2,1,1,3,No,Travel_Frequently,28,Yes
+EMP1259,25,Male,Sales,Sales Executive,Life Sciences,4,8388,1,0,0,1,2,4,3,No,Travel_Rarely,29,Yes
+EMP1260,42,Male,Research & Development,Research Scientist,Medical,2,9180,1,7,5,2,4,2,4,Yes,Travel_Rarely,5,Yes
+EMP1261,49,Male,Sales,Sales Executive,Life Sciences,2,10164,3,4,1,3,4,4,4,No,Travel_Rarely,3,No
+EMP1262,43,Male,Research & Development,Research Director,Human Resources,1,9354,2,2,0,2,4,4,3,No,Travel_Frequently,10,No
+EMP1263,39,Female,Research & Development,Healthcare Representative,Technical Degree,2,8901,3,13,5,1,4,3,3,No,Travel_Rarely,11,No
+EMP1264,48,Female,Research & Development,Manager,Other,3,9830,3,13,9,3,4,2,3,Yes,Non-Travel,17,No
+EMP1265,27,Female,Sales,Sales Representative,Life Sciences,2,7859,2,0,0,4,3,3,3,No,Travel_Rarely,8,No
+EMP1266,29,Male,Sales,Sales Representative,Other,2,8280,3,6,5,2,2,3,3,Yes,Travel_Rarely,9,No
+EMP1267,45,Male,Research & Development,Research Director,Medical,2,10288,2,3,2,2,4,3,3,No,Travel_Rarely,8,No
+EMP1268,23,Male,Research & Development,Healthcare Representative,Life Sciences,2,5389,4,3,1,4,2,4,3,No,Travel_Rarely,20,No
+EMP1269,37,Male,Research & Development,Healthcare Representative,Life Sciences,4,8813,3,12,6,3,2,3,3,No,Travel_Rarely,28,No
+EMP1270,22,Female,Sales,Manager,Life Sciences,2,7446,4,2,0,3,2,4,3,No,Travel_Rarely,2,No
+EMP1271,40,Female,Research & Development,Healthcare Representative,Marketing,5,10904,1,20,11,3,3,2,3,No,Travel_Frequently,4,No
+EMP1272,26,Male,Research & Development,Healthcare Representative,Medical,2,7715,1,1,0,4,2,2,3,Yes,Travel_Frequently,16,No
+EMP1273,46,Male,Research & Development,Research Scientist,Life Sciences,2,10310,1,7,4,3,1,4,3,No,Travel_Rarely,9,No
+EMP1274,33,Male,Sales,Sales Executive,Medical,4,9836,2,7,5,4,2,3,3,No,Travel_Rarely,26,No
+EMP1275,39,Male,Research & Development,Manager,Life Sciences,2,8569,4,2,1,3,4,3,3,No,Travel_Rarely,9,No
+EMP1276,25,Male,Sales,Sales Representative,Medical,3,8315,2,2,0,3,3,3,3,No,Travel_Rarely,21,No
+EMP1277,37,Male,Sales,Sales Representative,Life Sciences,5,8318,4,12,4,2,4,2,4,Yes,Non-Travel,5,No
+EMP1278,31,Male,Human Resources,Human Resources,Technical Degree,1,7576,2,10,6,2,2,4,4,No,Travel_Rarely,26,No
+EMP1279,56,Male,Sales,Manager,Technical Degree,1,9837,2,2,1,3,1,1,3,No,Travel_Rarely,3,No
+EMP1280,54,Male,Research & Development,Research Director,Medical,3,10234,4,5,2,2,3,3,3,Yes,Travel_Rarely,14,No
+EMP1281,51,Male,Research & Development,Research Scientist,Life Sciences,2,12757,2,0,0,3,2,3,3,Yes,Non-Travel,15,No
+EMP1282,28,Female,Research & Development,Manager,Life Sciences,2,9415,3,1,0,2,3,4,3,No,Travel_Rarely,6,No
+EMP1283,57,Male,Research & Development,Laboratory Technician,Technical Degree,1,11941,1,4,2,4,4,3,3,No,Travel_Rarely,16,No
+EMP1284,50,Female,Sales,Sales Executive,Life Sciences,1,10393,4,0,0,1,3,2,3,No,Travel_Rarely,23,No
+EMP1285,48,Male,Research & Development,Healthcare Representative,Life Sciences,3,9054,2,12,6,4,4,3,3,No,Travel_Rarely,28,No
+EMP1286,51,Male,Research & Development,Healthcare Representative,Life Sciences,1,10895,3,8,6,3,2,1,3,No,Non-Travel,10,No
+EMP1287,24,Male,Sales,Manager,Medical,2,8778,1,20,16,1,2,2,3,No,Travel_Rarely,14,Yes
+EMP1288,40,Male,Research & Development,Manager,Medical,3,9017,2,8,7,3,3,1,4,No,Travel_Frequently,12,Yes
+EMP1289,24,Female,Sales,Sales Representative,Technical Degree,2,8692,4,19,10,2,1,3,3,Yes,Travel_Rarely,9,No
+EMP1290,42,Male,Sales,Manager,Life Sciences,1,9923,4,5,2,2,2,1,4,No,Travel_Rarely,23,No
+EMP1291,20,Female,Research & Development,Healthcare Representative,Life Sciences,3,9581,1,6,2,2,2,3,3,Yes,Non-Travel,19,No
+EMP1292,55,Female,Sales,Manager,Technical Degree,1,10065,2,26,11,1,2,4,3,No,Travel_Rarely,12,Yes
+EMP1293,37,Male,Research & Development,Laboratory Technician,Technical Degree,3,8581,2,7,5,4,1,4,3,No,Non-Travel,13,No
+EMP1294,51,Male,Research & Development,Healthcare Representative,Life Sciences,4,10290,1,0,0,1,1,1,3,No,Travel_Rarely,23,No
+EMP1295,47,Female,Research & Development,Laboratory Technician,Medical,2,11408,3,9,5,3,3,2,3,Yes,Travel_Rarely,13,Yes
+EMP1296,34,Male,Sales,Sales Representative,Life Sciences,2,7257,1,16,6,2,3,3,3,Yes,Travel_Rarely,17,No
+EMP1297,27,Female,Sales,Manager,Human Resources,2,6505,2,11,5,3,3,4,3,No,Travel_Rarely,2,No
+EMP1298,52,Male,Sales,Sales Executive,Life Sciences,2,10231,3,6,3,2,3,1,3,No,Travel_Rarely,20,No
+EMP1299,37,Male,Research & Development,Manager,Human Resources,4,9105,2,7,3,3,1,4,3,No,Travel_Rarely,23,No
+EMP1300,35,Male,Research & Development,Laboratory Technician,Marketing,4,9306,3,32,14,3,2,3,3,No,Travel_Rarely,9,No
+EMP1301,44,Male,Sales,Sales Executive,Medical,2,10276,5,0,0,3,1,3,3,No,Travel_Rarely,21,No
+EMP1302,53,Female,Human Resources,Manager,Life Sciences,3,9297,1,7,2,1,4,4,4,Yes,Travel_Rarely,8,Yes
+EMP1303,40,Male,Sales,Sales Executive,Medical,4,7701,3,2,1,3,3,4,3,Yes,Travel_Rarely,7,No
+EMP1304,49,Female,Research & Development,Manager,Life Sciences,4,12055,1,7,5,2,2,4,3,Yes,Travel_Rarely,5,No
+EMP1305,27,Male,Research & Development,Laboratory Technician,Life Sciences,2,7862,2,6,2,1,2,3,3,No,Travel_Rarely,29,No
+EMP1306,28,Male,Research & Development,Research Director,Medical,2,7892,1,1,0,2,4,3,4,Yes,Travel_Rarely,19,No
+EMP1307,55,Male,Research & Development,Manager,Other,2,11782,1,1,0,2,3,3,3,Yes,Travel_Rarely,3,No
+EMP1308,23,Male,Research & Development,Healthcare Representative,Medical,4,8032,2,6,4,2,4,2,3,No,Travel_Rarely,13,No
+EMP1309,58,Male,Research & Development,Research Director,Marketing,1,11089,2,0,0,3,2,3,3,No,Travel_Rarely,6,No
+EMP1310,51,Male,Research & Development,Laboratory Technician,Life Sciences,3,10966,4,2,1,2,2,2,3,No,Travel_Rarely,26,No
+EMP1311,53,Female,Sales,Sales Executive,Medical,2,11106,3,12,10,2,3,2,3,No,Travel_Rarely,11,No
+EMP1312,54,Male,Research & Development,Research Scientist,Life Sciences,2,10553,5,2,1,1,3,3,3,Yes,Travel_Rarely,4,Yes
+EMP1313,34,Male,Research & Development,Manager,Medical,2,10435,2,4,2,3,3,4,4,No,Non-Travel,3,No
+EMP1314,57,Female,Research & Development,Manager,Human Resources,5,9351,1,19,7,3,3,4,3,Yes,Travel_Rarely,4,No
+EMP1315,57,Female,Research & Development,Healthcare Representative,Medical,1,11667,2,1,0,2,3,3,4,No,Travel_Rarely,3,No
+EMP1316,29,Male,Research & Development,Research Director,Life Sciences,3,8148,2,3,1,3,3,3,4,No,Travel_Frequently,13,No
+EMP1317,38,Male,Research & Development,Research Scientist,Life Sciences,1,10637,2,6,4,3,2,2,3,No,Travel_Rarely,15,No
+EMP1318,57,Female,Research & Development,Manager,Medical,1,11173,3,9,3,2,2,4,3,No,Travel_Rarely,12,No
+EMP1319,36,Male,Sales,Sales Representative,Life Sciences,2,8341,2,16,8,3,4,3,3,No,Non-Travel,15,No
+EMP1320,20,Male,Sales,Sales Executive,Technical Degree,2,8130,2,17,14,3,2,4,4,No,Non-Travel,26,No
+EMP1321,35,Male,Sales,Sales Executive,Technical Degree,2,9514,1,10,5,3,3,4,3,Yes,Travel_Rarely,11,No
+EMP1322,36,Female,Sales,Sales Executive,Medical,2,9393,1,1,0,2,3,2,3,No,Travel_Rarely,11,Yes
+EMP1323,23,Male,Research & Development,Research Scientist,Life Sciences,1,7516,1,0,0,1,4,3,3,Yes,Travel_Rarely,13,No
+EMP1324,33,Female,Sales,Sales Executive,Life Sciences,2,8252,1,3,1,1,2,4,4,No,Travel_Rarely,12,No
+EMP1325,25,Male,Human Resources,Manager,Life Sciences,4,7496,3,1,0,3,2,1,3,No,Travel_Rarely,6,No
+EMP1326,35,Female,Research & Development,Manager,Life Sciences,4,9266,1,8,6,4,4,3,3,Yes,Travel_Rarely,29,Yes
+EMP1327,56,Male,Sales,Sales Representative,Medical,2,11079,3,7,4,2,4,4,3,No,Non-Travel,23,No
+EMP1328,29,Male,Research & Development,Manager,Medical,3,7208,2,0,0,1,3,2,3,Yes,Travel_Rarely,20,No
+EMP1329,27,Female,Research & Development,Healthcare Representative,Medical,4,8927,1,12,7,3,2,4,3,No,Travel_Rarely,19,No
+EMP1330,24,Male,Research & Development,Healthcare Representative,Life Sciences,1,8188,3,2,1,4,2,4,4,Yes,Travel_Frequently,19,Yes
+EMP1331,18,Male,Research & Development,Healthcare Representative,Life Sciences,3,7269,2,3,2,4,3,4,3,No,Travel_Rarely,27,No
+EMP1332,53,Male,Research & Development,Laboratory Technician,Life Sciences,4,10146,1,7,2,3,4,2,3,No,Travel_Rarely,3,No
+EMP1333,38,Male,Sales,Sales Representative,Life Sciences,1,8868,4,3,2,4,4,3,3,No,Travel_Rarely,16,No
+EMP1334,54,Male,Human Resources,Manager,Technical Degree,2,6939,1,4,2,1,1,1,3,No,Travel_Rarely,9,No
+EMP1335,41,Female,Human Resources,Human Resources,Life Sciences,4,8218,1,0,0,1,2,4,3,Yes,Travel_Rarely,27,No
+EMP1336,42,Male,Research & Development,Healthcare Representative,Medical,2,9159,3,3,2,1,2,4,3,No,Travel_Rarely,27,Yes
+EMP1337,24,Male,Sales,Sales Representative,Life Sciences,1,8346,3,10,6,3,4,3,3,Yes,Travel_Frequently,14,No
+EMP1338,59,Male,Research & Development,Research Scientist,Technical Degree,2,10575,2,17,14,1,3,3,3,No,Non-Travel,28,Yes
+EMP1339,34,Female,Sales,Sales Executive,Medical,2,8547,1,3,2,3,2,1,3,No,Non-Travel,3,No
+EMP1340,46,Female,Sales,Sales Representative,Life Sciences,3,10913,4,3,2,2,1,4,3,No,Travel_Rarely,3,No
+EMP1341,47,Male,Sales,Manager,Medical,3,10555,2,8,3,2,3,4,3,Yes,Travel_Rarely,24,No
+EMP1342,24,Male,Research & Development,Research Director,Marketing,5,9141,1,20,17,4,1,4,3,Yes,Non-Travel,20,No
+EMP1343,50,Female,Research & Development,Manager,Other,2,10100,2,2,1,1,4,4,3,Yes,Travel_Rarely,7,Yes
+EMP1344,24,Male,Research & Development,Research Director,Life Sciences,2,8854,4,4,1,2,3,4,3,No,Travel_Rarely,19,No
+EMP1345,41,Female,Research & Development,Healthcare Representative,Human Resources,2,9592,1,11,7,3,2,4,3,Yes,Non-Travel,24,Yes
+EMP1346,28,Female,Research & Development,Research Director,Human Resources,2,8583,3,6,2,1,2,3,3,No,Travel_Rarely,3,No
+EMP1347,26,Female,Research & Development,Healthcare Representative,Human Resources,2,8907,2,0,0,3,4,3,3,Yes,Non-Travel,21,Yes
+EMP1348,29,Male,Research & Development,Research Scientist,Medical,5,8342,2,6,4,4,2,4,3,Yes,Non-Travel,1,No
+EMP1349,52,Female,Human Resources,Manager,Medical,4,10854,3,1,0,4,2,3,3,No,Travel_Rarely,12,No
+EMP1350,21,Female,Sales,Manager,Life Sciences,2,7551,5,4,3,4,4,3,3,Yes,Non-Travel,21,No
+EMP1351,53,Male,Research & Development,Manager,Marketing,3,11234,1,5,2,2,4,1,3,No,Travel_Rarely,6,No
+EMP1352,45,Male,Research & Development,Healthcare Representative,Medical,2,11264,1,14,12,3,4,2,3,No,Travel_Rarely,7,No
+EMP1353,30,Male,Research & Development,Manager,Medical,2,9725,4,4,2,1,2,3,3,Yes,Travel_Rarely,2,No
+EMP1354,40,Male,Research & Development,Laboratory Technician,Medical,3,8572,3,2,1,2,1,2,3,No,Travel_Rarely,18,No
+EMP1355,36,Male,Research & Development,Healthcare Representative,Marketing,2,9735,2,1,0,1,1,2,3,No,Travel_Rarely,25,Yes
+EMP1356,59,Male,Research & Development,Research Director,Technical Degree,5,11900,2,14,5,2,2,3,3,Yes,Non-Travel,15,No
+EMP1357,54,Male,Human Resources,Human Resources,Life Sciences,3,10533,3,1,0,4,3,2,3,Yes,Travel_Rarely,15,No
+EMP1358,56,Male,Research & Development,Manager,Technical Degree,2,10089,3,3,2,2,2,4,3,No,Travel_Rarely,10,No
+EMP1359,41,Male,Sales,Sales Executive,Medical,3,8754,4,1,0,3,3,3,3,Yes,Travel_Rarely,17,No
+EMP1360,33,Female,Research & Development,Healthcare Representative,Technical Degree,2,9935,2,10,3,2,2,3,4,No,Non-Travel,18,No
+EMP1361,50,Female,Human Resources,Manager,Medical,2,8890,2,4,1,2,2,2,3,No,Travel_Rarely,18,No
+EMP1362,29,Male,Sales,Sales Representative,Life Sciences,2,8080,3,3,2,4,4,2,3,Yes,Travel_Frequently,29,No
+EMP1363,51,Male,Research & Development,Research Scientist,Human Resources,2,11840,2,3,2,2,2,3,3,No,Travel_Rarely,15,No
+EMP1364,24,Male,Research & Development,Laboratory Technician,Life Sciences,3,8381,2,13,4,3,2,4,3,No,Travel_Frequently,26,No
+EMP1365,28,Female,Research & Development,Healthcare Representative,Technical Degree,2,8158,2,5,3,2,2,4,3,No,Travel_Frequently,23,No
+EMP1366,48,Female,Sales,Sales Executive,Medical,3,9137,1,8,2,1,1,2,3,No,Travel_Rarely,6,No
+EMP1367,46,Female,Research & Development,Manager,Medical,3,10446,2,15,13,2,3,3,3,No,Travel_Rarely,9,No
+EMP1368,30,Male,Human Resources,Manager,Life Sciences,2,6833,3,16,14,4,2,2,3,Yes,Travel_Rarely,11,No
+EMP1369,48,Female,Sales,Sales Executive,Medical,3,9642,3,2,1,1,3,4,3,No,Non-Travel,15,Yes
+EMP1370,19,Male,Sales,Sales Executive,Life Sciences,2,7786,2,21,19,1,4,4,3,No,Travel_Rarely,23,No
+EMP1371,56,Female,Human Resources,Human Resources,Life Sciences,2,11019,1,0,0,1,3,3,3,No,Travel_Rarely,3,No
+EMP1372,32,Male,Sales,Sales Representative,Life Sciences,2,9094,2,3,2,3,1,3,3,No,Travel_Rarely,19,No
+EMP1373,28,Female,Research & Development,Healthcare Representative,Life Sciences,2,8168,3,15,10,3,3,4,4,No,Travel_Rarely,1,No
+EMP1374,51,Male,Research & Development,Healthcare Representative,Other,1,11522,2,2,1,3,1,4,3,No,Travel_Rarely,24,Yes
+EMP1375,56,Female,Sales,Sales Executive,Other,3,10240,3,2,0,2,3,3,4,No,Travel_Rarely,17,No
+EMP1376,21,Female,Research & Development,Laboratory Technician,Life Sciences,2,7191,2,2,1,4,3,4,3,No,Non-Travel,11,No
+EMP1377,28,Male,Research & Development,Healthcare Representative,Marketing,2,8602,1,6,4,3,2,3,3,No,Travel_Rarely,18,No
+EMP1378,46,Male,Research & Development,Manager,Life Sciences,4,11330,3,4,1,4,4,3,3,Yes,Travel_Rarely,11,No
+EMP1379,19,Female,Research & Development,Research Director,Medical,3,8152,1,9,4,4,4,4,3,No,Travel_Rarely,28,No
+EMP1380,33,Male,Research & Development,Manager,Technical Degree,4,9150,2,15,9,3,4,3,3,Yes,Travel_Rarely,7,No
+EMP1381,56,Male,Sales,Sales Representative,Other,1,11789,1,7,3,2,2,4,3,Yes,Travel_Rarely,1,No
+EMP1382,30,Male,Research & Development,Healthcare Representative,Life Sciences,3,7754,1,1,0,4,3,2,4,No,Travel_Rarely,12,No
+EMP1383,54,Male,Human Resources,Human Resources,Marketing,4,8791,2,18,17,4,4,3,3,No,Non-Travel,4,No
+EMP1384,34,Male,Sales,Sales Executive,Life Sciences,3,7427,2,2,1,1,2,2,3,No,Non-Travel,25,No
+EMP1385,38,Male,Research & Development,Research Scientist,Other,3,9838,3,1,0,1,4,3,3,No,Travel_Rarely,8,No
+EMP1386,36,Male,Research & Development,Research Director,Life Sciences,2,9513,3,0,0,4,1,3,3,Yes,Travel_Rarely,15,Yes
+EMP1387,24,Male,Research & Development,Research Scientist,Medical,1,9654,3,5,3,2,1,4,3,No,Non-Travel,11,No
+EMP1388,55,Female,Sales,Sales Representative,Medical,2,10594,2,0,0,4,3,3,3,Yes,Travel_Rarely,29,No
+EMP1389,25,Female,Human Resources,Manager,Marketing,2,7176,3,1,0,2,3,4,4,Yes,Non-Travel,8,No
+EMP1390,30,Female,Research & Development,Research Director,Life Sciences,4,8901,2,2,0,1,3,3,3,No,Travel_Rarely,12,Yes
+EMP1391,54,Male,Sales,Sales Representative,Human Resources,2,10414,2,2,0,1,4,4,3,No,Travel_Rarely,3,No
+EMP1392,19,Female,Sales,Sales Executive,Life Sciences,4,6182,2,6,4,1,1,3,3,Yes,Travel_Rarely,21,Yes
+EMP1393,58,Male,Sales,Manager,Medical,4,12808,4,11,4,2,2,3,4,No,Non-Travel,4,No
+EMP1394,28,Male,Research & Development,Healthcare Representative,Life Sciences,2,9155,1,10,5,2,4,2,3,No,Travel_Rarely,27,No
+EMP1395,41,Female,Research & Development,Laboratory Technician,Life Sciences,2,9948,4,2,0,3,1,3,4,Yes,Travel_Frequently,12,No
+EMP1396,23,Female,Research & Development,Research Director,Medical,4,8832,1,1,0,4,3,3,3,Yes,Travel_Rarely,8,No
+EMP1397,43,Female,Research & Development,Research Director,Medical,4,10507,2,23,9,2,3,3,3,No,Travel_Rarely,27,No
+EMP1398,24,Female,Sales,Sales Representative,Life Sciences,2,7807,2,0,0,3,1,4,3,Yes,Travel_Rarely,23,No
+EMP1399,56,Male,Research & Development,Laboratory Technician,Life Sciences,2,10475,3,14,10,3,2,4,3,No,Travel_Rarely,23,No
+EMP1400,36,Male,Research & Development,Research Director,Medical,2,9859,1,1,0,3,3,4,3,No,Travel_Rarely,10,No
+EMP1401,23,Female,Sales,Sales Representative,Marketing,3,8148,4,20,11,3,4,3,3,No,Travel_Rarely,26,No
+EMP1402,46,Male,Sales,Manager,Human Resources,2,9032,3,2,1,1,3,4,3,No,Travel_Rarely,23,No
+EMP1403,56,Male,Sales,Sales Executive,Life Sciences,3,11615,3,4,1,1,3,4,3,No,Travel_Rarely,1,No
+EMP1404,19,Female,Research & Development,Healthcare Representative,Life Sciences,1,8254,2,8,4,1,3,2,3,Yes,Travel_Frequently,13,Yes
+EMP1405,36,Female,Research & Development,Healthcare Representative,Life Sciences,1,9963,4,6,2,1,2,3,4,No,Travel_Rarely,7,Yes
+EMP1406,21,Male,Research & Development,Research Scientist,Life Sciences,2,9293,4,2,1,3,1,2,3,No,Travel_Rarely,20,No
+EMP1407,23,Female,Research & Development,Healthcare Representative,Medical,2,8357,2,5,2,2,2,1,3,Yes,Travel_Rarely,28,Yes
+EMP1408,54,Female,Research & Development,Laboratory Technician,Medical,2,11073,3,9,6,4,1,2,3,No,Travel_Rarely,3,No
+EMP1409,45,Female,Research & Development,Research Scientist,Life Sciences,2,10748,2,0,0,4,2,1,3,Yes,Non-Travel,29,Yes
+EMP1410,47,Male,Research & Development,Healthcare Representative,Life Sciences,2,9680,2,0,0,4,2,4,3,Yes,Travel_Rarely,16,No
+EMP1411,24,Male,Sales,Sales Executive,Life Sciences,2,7963,2,4,2,4,2,3,3,No,Travel_Frequently,12,Yes
+EMP1412,26,Male,Sales,Sales Representative,Technical Degree,2,8180,2,0,0,2,1,2,3,No,Travel_Rarely,29,Yes
+EMP1413,42,Male,Sales,Manager,Other,5,8595,1,7,3,3,3,4,3,No,Travel_Rarely,5,No
+EMP1414,50,Male,Sales,Sales Representative,Life Sciences,2,11854,2,1,0,1,3,4,3,Yes,Non-Travel,18,Yes
+EMP1415,18,Male,Research & Development,Research Director,Life Sciences,2,6814,3,3,2,4,1,4,3,No,Travel_Rarely,8,No
+EMP1416,23,Male,Human Resources,Human Resources,Technical Degree,3,6301,5,1,0,4,4,3,3,Yes,Travel_Rarely,12,No
+EMP1417,35,Female,Sales,Manager,Human Resources,5,9851,5,5,2,4,1,3,4,No,Travel_Rarely,28,No
+EMP1418,27,Male,Sales,Manager,Medical,2,8730,2,0,0,2,4,2,3,No,Travel_Rarely,25,No
+EMP1419,45,Female,Research & Development,Research Director,Life Sciences,3,9279,2,0,0,3,1,2,3,No,Non-Travel,21,No
+EMP1420,28,Female,Human Resources,Human Resources,Life Sciences,3,8225,1,0,0,1,4,2,3,No,Non-Travel,3,No
+EMP1421,50,Male,Research & Development,Manager,Medical,3,11674,3,21,8,1,1,3,3,No,Travel_Rarely,16,No
+EMP1422,18,Female,Research & Development,Healthcare Representative,Life Sciences,1,7915,1,1,0,3,3,4,3,No,Non-Travel,10,No
+EMP1423,30,Male,Sales,Manager,Life Sciences,3,10479,2,8,6,2,2,1,3,No,Travel_Rarely,23,No
+EMP1424,54,Male,Sales,Sales Executive,Medical,1,8940,3,0,0,4,3,2,4,No,Non-Travel,17,No
+EMP1425,37,Female,Human Resources,Manager,Life Sciences,3,9015,2,0,0,1,2,2,3,No,Travel_Rarely,10,No
+EMP1426,18,Male,Human Resources,Manager,Marketing,3,7873,1,4,3,4,1,4,4,No,Travel_Rarely,3,No
+EMP1427,20,Female,Sales,Sales Executive,Life Sciences,2,8313,4,4,1,2,3,3,3,No,Travel_Rarely,25,No
+EMP1428,35,Male,Human Resources,Human Resources,Life Sciences,4,8136,2,21,9,4,1,3,3,Yes,Travel_Rarely,2,No
+EMP1429,58,Female,Research & Development,Research Scientist,Medical,1,10907,1,20,13,4,4,2,3,Yes,Travel_Rarely,27,No
+EMP1430,31,Male,Research & Development,Research Scientist,Life Sciences,4,9335,1,10,8,4,1,3,3,No,Travel_Rarely,14,No
+EMP1431,48,Female,Research & Development,Research Scientist,Other,2,10992,2,6,1,2,3,2,3,No,Travel_Rarely,9,No
+EMP1432,44,Male,Research & Development,Healthcare Representative,Medical,2,10501,1,4,3,4,3,3,4,No,Travel_Rarely,27,No
+EMP1433,34,Female,Research & Development,Healthcare Representative,Life Sciences,1,10052,3,3,1,1,2,1,4,No,Travel_Rarely,17,No
+EMP1434,46,Female,Research & Development,Healthcare Representative,Marketing,4,9364,2,20,11,1,2,4,4,No,Travel_Rarely,4,No
+EMP1435,53,Male,Sales,Sales Executive,Life Sciences,1,10057,3,6,3,2,3,3,3,No,Travel_Rarely,28,Yes
+EMP1436,54,Female,Sales,Sales Executive,Human Resources,2,9567,1,6,2,4,3,4,4,No,Travel_Rarely,26,No
+EMP1437,43,Male,Research & Development,Manager,Life Sciences,2,9631,2,1,0,2,4,3,3,Yes,Travel_Frequently,29,Yes
+EMP1438,34,Female,Research & Development,Laboratory Technician,Medical,3,10032,3,0,0,4,2,3,4,No,Travel_Rarely,22,No
+EMP1439,39,Male,Sales,Sales Representative,Life Sciences,2,9206,3,20,11,3,3,1,3,No,Travel_Rarely,15,No
+EMP1440,42,Female,Research & Development,Manager,Medical,1,11945,2,2,1,2,2,3,3,No,Non-Travel,13,No
+EMP1441,19,Female,Human Resources,Manager,Technical Degree,2,7174,4,4,3,4,2,3,4,No,Travel_Rarely,23,No
+EMP1442,39,Male,Sales,Manager,Technical Degree,2,9167,1,0,0,1,3,3,4,Yes,Travel_Rarely,19,Yes
+EMP1443,22,Male,Research & Development,Healthcare Representative,Life Sciences,2,8344,2,12,9,4,2,4,3,Yes,Travel_Rarely,9,No
+EMP1444,21,Male,Research & Development,Laboratory Technician,Life Sciences,2,7669,4,0,0,2,2,4,3,No,Travel_Rarely,4,No
+EMP1445,53,Female,Research & Development,Laboratory Technician,Technical Degree,3,10693,1,12,8,3,2,4,3,Yes,Travel_Rarely,21,No
+EMP1446,23,Male,Sales,Sales Representative,Human Resources,2,8742,1,1,0,2,3,2,3,Yes,Non-Travel,8,No
+EMP1447,38,Male,Research & Development,Manager,Life Sciences,2,9631,1,15,11,1,4,3,3,No,Travel_Rarely,28,No
+EMP1448,30,Female,Research & Development,Research Director,Medical,2,8265,3,9,3,2,3,1,3,No,Travel_Frequently,15,No
+EMP1449,54,Male,Human Resources,Manager,Life Sciences,5,9079,2,1,0,1,3,3,3,No,Travel_Rarely,14,No
+EMP1450,42,Female,Research & Development,Research Scientist,Technical Degree,4,9499,1,5,4,2,3,3,3,Yes,Non-Travel,3,No
+EMP1451,43,Male,Research & Development,Healthcare Representative,Life Sciences,3,9999,2,2,0,1,3,2,3,No,Travel_Rarely,24,No
+EMP1452,56,Male,Research & Development,Research Scientist,Life Sciences,2,11934,3,1,0,2,1,4,3,No,Travel_Rarely,27,No
+EMP1453,37,Female,Research & Development,Healthcare Representative,Marketing,1,8387,1,13,8,3,1,3,3,No,Travel_Rarely,17,No
+EMP1454,50,Male,Research & Development,Healthcare Representative,Life Sciences,2,10244,2,3,2,3,1,3,3,No,Travel_Rarely,8,No
+EMP1455,31,Male,Sales,Sales Representative,Medical,2,8595,3,3,1,4,2,1,3,No,Travel_Rarely,14,No
+EMP1456,53,Female,Human Resources,Manager,Medical,2,8273,4,1,0,3,4,3,3,No,Travel_Rarely,13,No
+EMP1457,34,Male,Research & Development,Laboratory Technician,Life Sciences,3,8553,3,3,1,3,2,4,3,No,Travel_Rarely,15,No
+EMP1458,38,Female,Research & Development,Research Scientist,Life Sciences,4,8996,3,14,4,3,2,3,3,Yes,Non-Travel,11,No
+EMP1459,33,Female,Sales,Manager,Medical,4,8003,2,3,0,2,4,4,3,Yes,Travel_Rarely,27,No
+EMP1460,33,Male,Research & Development,Healthcare Representative,Life Sciences,2,9293,2,21,7,3,4,2,3,Yes,Travel_Rarely,15,No
+EMP1461,37,Male,Research & Development,Research Scientist,Medical,3,9331,2,20,17,1,3,3,4,Yes,Travel_Rarely,12,No
+EMP1462,46,Female,Research & Development,Research Director,Technical Degree,2,9735,3,1,0,4,2,4,3,Yes,Travel_Rarely,26,No
+EMP1463,45,Male,Sales,Sales Executive,Marketing,1,9942,2,1,0,3,1,3,3,No,Travel_Rarely,24,No
+EMP1464,25,Male,Research & Development,Manager,Life Sciences,3,9878,4,13,8,2,1,1,3,Yes,Travel_Rarely,22,Yes
+EMP1465,41,Female,Human Resources,Human Resources,Life Sciences,1,10091,5,3,1,3,1,3,3,No,Non-Travel,21,No
+EMP1466,20,Male,Sales,Manager,Life Sciences,2,6061,1,0,0,1,2,3,3,No,Travel_Rarely,9,No
+EMP1467,42,Female,Human Resources,Human Resources,Life Sciences,2,9321,1,2,0,2,3,4,3,Yes,Travel_Rarely,22,Yes
+EMP1468,36,Male,Research & Development,Manager,Life Sciences,3,9237,1,6,4,1,1,4,3,No,Travel_Rarely,15,No
+EMP1469,50,Male,Research & Development,Manager,Medical,3,10624,2,11,10,3,1,4,3,Yes,Travel_Frequently,1,No
+EMP1470,19,Male,Research & Development,Research Director,Life Sciences,2,7701,1,1,0,3,1,3,3,No,Non-Travel,12,No
